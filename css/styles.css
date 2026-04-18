@@ -1,0 +1,749 @@
+/* ==========================================================================
+   MODERN PREMIUM RESET
+   ========================================================================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: #F8FAFC; /* Slate 50 */
+  color: #0F172A; /* Slate 900 */
+  display: block;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.screens-wrapper {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  background-color: #F8FAFC;
+}
+
+.screen {
+  display: none;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.screen.active {
+  display: flex;
+  flex-direction: column;
+}
+
+/* ==========================================================================
+   [1] TRANG CHỦ (HOME) - MINIMALISM HIỆN ĐẠI
+   ========================================================================== */
+.micro-header {
+  display: flex;
+  align-items: center;
+  padding: 0 32px;
+  height: 70px;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid #E2E8F0;
+  flex-shrink: 0;
+  z-index: 10;
+}
+
+.logo {
+  font-weight: 800;
+  font-size: 20px;
+  letter-spacing: -0.5px;
+  background: linear-gradient(135deg, #2563EB 0%, #4F46E5 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#home-screen {
+  background: radial-gradient(circle at top right, #EEF2FF 0%, #F8FAFC 100%);
+}
+
+.home-wrapper {
+  max-width: 640px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 60px 24px;
+}
+
+.hero-section {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.btn-hero {
+  background: linear-gradient(135deg, #4F46E5 0%, #3B82F6 100%);
+  color: #FFFFFF;
+  border: none;
+  border-radius: 16px;
+  padding: 18px 36px;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  width: 100%;
+  box-shadow: 0 10px 25px -5px rgba(79, 70, 229, 0.4);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-hero:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 15px 30px -5px rgba(79, 70, 229, 0.5);
+}
+
+.btn-hero:active {
+  transform: translateY(1px);
+}
+
+.hero-subtitle {
+  color: #64748B;
+  font-size: 15px;
+  margin-top: 16px;
+  line-height: 1.6;
+}
+
+.time-settings-minimal {
+  margin-top: 30px;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #475569;
+  background: #FFFFFF;
+  padding: 8px 16px;
+  border-radius: 12px;
+  border: 1px solid #E2E8F0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+}
+
+.time-settings-minimal select {
+  padding: 4px 12px;
+  border: none;
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 600;
+  color: #0F172A;
+  background: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+/* ACCORDION */
+.topics-section {
+  background: #FFFFFF;
+  border-radius: 20px;
+  padding: 24px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border: 1px solid #F1F5F9;
+}
+
+.section-title {
+  font-size: 13px;
+  color: #94A3B8;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  font-weight: 700;
+  padding-left: 8px;
+}
+
+.topics-accordion {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.accordion-item {
+  border: 1px solid #F1F5F9;
+  border-radius: 12px;
+  transition: all 0.2s ease;
+  background: #F8FAFC;
+}
+
+.accordion-item.active {
+  background: #FFFFFF;
+  border-color: #E2E8F0;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+}
+
+.accordion-header {
+  width: 100%;
+  background: none;
+  border: none;
+  padding: 18px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 600;
+  color: #1E293B;
+  cursor: pointer;
+  text-align: left;
+  border-radius: 12px;
+  transition: color 0.2s;
+}
+
+.accordion-header:hover {
+  color: #4F46E5;
+}
+
+.topic-stats {
+  font-size: 13px;
+  color: #64748B;
+  font-weight: 500;
+  background: #F1F5F9;
+  padding: 4px 10px;
+  border-radius: 20px;
+}
+
+.accordion-content {
+  display: none;
+  padding: 0 20px 16px;
+}
+
+.accordion-item.active .accordion-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.accordion-item.active .topic-stats {
+  background: #EEF2FF;
+  color: #4F46E5;
+}
+
+.btn-test {
+  background: #FFFFFF;
+  border: 1px solid #E2E8F0;
+  padding: 14px 16px;
+  border-radius: 10px;
+  text-align: left;
+  font-size: 15px;
+  font-weight: 500;
+  color: #334155;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-test:hover {
+  border-color: #CBD5E1;
+  background: #F8FAFC;
+  transform: translateX(4px);
+}
+
+/* ==========================================================================
+   [2] GIAO DIỆN LÀM BÀI (TEST) - MODERN CBT
+   ========================================================================== */
+.screen-iig {
+  background-color: #F1F5F9; /* Nền xám nhạt hiện đại */
+}
+
+/* HEADER HIỆN ĐẠI */
+.iig-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  color: #1E293B;
+  padding: 16px 32px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  z-index: 10;
+}
+
+.iig-header-left {
+  font-size: 16px;
+  font-weight: 700;
+  color: #0F172A;
+}
+
+.iig-header-right {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 500;
+  color: #64748B;
+}
+
+.timer {
+  margin-left: 12px;
+  padding: 6px 14px;
+  background-color: #F8FAFC;
+  color: #0F172A;
+  border-radius: 20px;
+  font-family: monospace;
+  font-size: 16px;
+  font-weight: 700;
+  border: 1px solid #E2E8F0;
+}
+
+.timer.warning {
+  background-color: #FEF2F2;
+  color: #DC2626;
+  border-color: #FECACA;
+}
+
+/* TOOLBAR HỖ TRỢ */
+.iig-toolbar {
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #E2E8F0;
+  padding: 12px 32px;
+}
+
+.iig-exam-name {
+  font-size: 13px;
+  font-weight: 500;
+  color: #64748B;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* KHUNG CHỨA CÂU HỎI TRUNG TÂM */
+.iig-test-layout {
+  flex: 1;
+  padding: 40px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  overflow-y: auto;
+}
+
+.iig-test-main {
+  background-color: #FFFFFF;
+  border-radius: 24px;
+  padding: 40px;
+  width: 100%;
+  max-width: 850px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05);
+  border: 1px solid #E2E8F0;
+}
+
+.iig-question-number {
+  font-size: 14px;
+  font-weight: 700;
+  color: #4F46E5;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: inline-block;
+  background: #EEF2FF;
+  padding: 6px 14px;
+  border-radius: 8px;
+}
+
+.iig-question-text {
+  font-size: 20px;
+  font-weight: 500;
+  color: #0F172A;
+  line-height: 1.6;
+  margin-bottom: 32px;
+}
+
+/* CÁC ĐÁP ÁN: HIỆN ĐẠI MỀM MẠI */
+.iig-options-group {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.iig-option-label {
+  display: flex;
+  align-items: center;
+  padding: 16px 20px;
+  background: #FFFFFF;
+  border: 2px solid #E2E8F0;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  font-size: 16px;
+  color: #334155;
+}
+
+.iig-option-label:hover {
+  border-color: #CBD5E1;
+  background-color: #F8FAFC;
+}
+
+/* Ẩn input nguyên bản đi vì HTML cũ sinh ra input radio thường */
+.iig-option-label input[type="radio"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #CBD5E1;
+  margin-right: 16px;
+  transition: all 0.2s;
+  position: relative;
+  outline: none;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.iig-option-label input[type="radio"]:checked {
+  border-color: #4F46E5;
+}
+
+.iig-option-label input[type="radio"]:checked::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 10px;
+  height: 10px;
+  background-color: #4F46E5;
+  border-radius: 50%;
+}
+
+/* Nếu option được chọn thì viền thẻ xanh lên */
+.iig-option-label:has(input[type="radio"]:checked) {
+  border-color: #4F46E5;
+  background-color: #EEF2FF;
+  color: #1E293B;
+  font-weight: 500;
+}
+
+
+/* FOOTER BAR (DƯỚI ĐÁY) */
+.iig-footer {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border-top: 1px solid #E2E8F0;
+  padding: 16px 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 10;
+}
+
+.iig-footer-right {
+  display: flex;
+  gap: 12px;
+}
+
+/* MODERN BUTTONS */
+.iig-btn {
+  background-color: #FFFFFF;
+  border: 1px solid #E2E8F0;
+  border-radius: 10px;
+  padding: 12px 24px;
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 600;
+  color: #334155;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.2s;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.iig-btn:hover {
+  background-color: #F8FAFC;
+  border-color: #CBD5E1;
+}
+
+.iig-btn:active {
+  transform: translateY(1px);
+}
+
+.iig-btn[disabled] {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.iig-btn-submit {
+  background-color: #0F172A;
+  color: #FFFFFF;
+  border-color: #0F172A;
+}
+
+.iig-btn-submit:hover {
+  background-color: #1E293B;
+  border-color: #1E293B;
+  color: #FFFFFF;
+}
+
+/* ==========================================================================
+   LƯỚI LỰA CHỌN CÂU HỎI (FLOATING GRID HIỆN ĐẠI)
+   ========================================================================== */
+.iig-grid-container {
+  position: absolute;
+  bottom: 80px;
+  left: 32px;
+  background-color: #FFFFFF;
+  border-radius: 16px;
+  padding: 20px;
+  width: 320px;
+  z-index: 50;
+  box-shadow: 0 10px 25px -5px rgba(0,0,0,0.1), 0 8px 10px -6px rgba(0,0,0,0.1);
+  border: 1px solid #E2E8F0;
+}
+
+.iig-grid-title {
+  color: #0F172A;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.question-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 8px;
+  max-height: 250px;
+  overflow-y: auto;
+  padding-right: 5px;
+}
+
+.iig-grid-btn {
+  aspect-ratio: 1;
+  background-color: #FFFFFF;
+  border: 1px solid #E2E8F0;
+  border-radius: 8px;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  color: #64748B;
+  transition: all 0.2s;
+}
+
+.iig-grid-btn:hover {
+  background-color: #F1F5F9;
+  color: #0F172A;
+}
+
+.iig-grid-btn.answered {
+  background-color: #EEF2FF;
+  border-color: #C7D2FE;
+  color: #4F46E5;
+}
+
+.iig-grid-btn.active {
+  background-color: #4F46E5;
+  color: #FFFFFF;
+  border-color: #4F46E5;
+  font-weight: 700;
+}
+
+/* ==========================================================================
+   REVIEW & MODAL HIỆN ĐẠI
+   ========================================================================== */
+#review-screen {
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.iig-review-card {
+  background-color: #FFFFFF;
+  border-radius: 24px;
+  width: 100%;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+  border: 1px solid #E2E8F0;
+  overflow: hidden;
+}
+
+.iig-window-title {
+  background-color: #F8FAFC;
+  color: #0F172A;
+  padding: 20px 24px;
+  font-size: 18px;
+  font-weight: 700;
+  border-bottom: 1px solid #E2E8F0;
+}
+
+.iig-window-close {
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: #94A3B8;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.iig-window-close:hover {
+  color: #0F172A;
+}
+
+.iig-window-content {
+  padding: 32px 24px;
+}
+
+.iig-score-display {
+  font-size: 40px;
+  font-weight: 800;
+  color: #0F172A;
+  margin-bottom: 8px;
+  text-align: center;
+  letter-spacing: -1px;
+}
+
+.review-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  margin-top: 24px;
+}
+
+.iig-grid-btn.correct {
+  background-color: #10B981;
+  border-color: #10B981;
+  color: white;
+}
+
+.iig-grid-btn.incorrect {
+  background-color: #EF4444;
+  border-color: #EF4444;
+  color: white;
+}
+
+/* Modal Explanation hiện đại */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(15, 23, 42, 0.5);
+  backdrop-filter: blur(4px);
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.modal.show {
+  display: flex;
+}
+
+.iig-window-card {
+  background-color: #FFFFFF;
+  border-radius: 20px;
+  width: 100%;
+  max-width: 650px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  border: none;
+  overflow: hidden;
+}
+
+.iig-modal-text {
+  font-size: 18px;
+  font-weight: 600;
+  color: #0F172A;
+  margin-bottom: 24px;
+  line-height: 1.5;
+}
+
+.iig-modal-options {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.iig-opt-review {
+  background-color: #F8FAFC;
+  border: 1px solid #E2E8F0;
+  border-radius: 12px;
+  padding: 14px 16px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.iig-opt-review.is-correct {
+  background-color: #F0FDF4;
+  border-color: #BBF7D0;
+  color: #166534;
+  font-weight: 600;
+}
+
+.iig-opt-review.is-wrong {
+  background-color: #FEF2F2;
+  border-color: #FECACA;
+  color: #991B1B;
+  text-decoration: line-through;
+}
+
+.iig-badge {
+  font-size: 12px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 6px;
+}
+
+.is-correct .iig-badge { background: #16A34A; color: white; }
+.is-wrong .iig-badge { background: #DC2626; color: white; }
+
+.iig-expl-row {
+  margin-bottom: 16px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.iig-expl-label {
+  font-weight: 700;
+  color: #475569;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+}
+
+.iig-expl-val {
+  color: #1E293B;
+  background: #F8FAFC;
+  padding: 12px 16px;
+  border-radius: 10px;
+  border-left: 4px solid #CBD5E1;
+}
+
+/* ==========================================================================
+   RESPONSIVE DESIGN
+   ========================================================================== */
+@media (max-width: 768px) {
+  .iig-test-main {
+    padding: 24px;
+    border-radius: 16px;
+  }
+  
+  .iig-header {
+    padding: 16px 20px;
+  }
+  
+  .iig-toolbar, .iig-footer {
+    padding: 12px 20px;
+  }
+  
+  .iig-grid-container {
+    left: 20px;
+    width: calc(100% - 40px);
+  }
+}
