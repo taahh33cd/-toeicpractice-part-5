@@ -1,0 +1,10 @@
+const fs = require('fs');
+const content = fs.readFileSync('data/questions.js', 'utf8');
+const questionsData = eval(content.replace('window.questionsData =', ''));
+const topic = 'Cấu trúc câu';
+const filtered = questionsData.filter(q => q.grammar_type === topic);
+console.log(`Total '${topic}' questions: ${filtered.length}`);
+console.log(`First 3 questions:`);
+filtered.slice(0, 3).forEach(q => console.log(` - ${q.id}: ${q.question}`));
+console.log(`Last 3 questions:`);
+filtered.slice(-3).forEach(q => console.log(` - ${q.id}: ${q.question}`));
