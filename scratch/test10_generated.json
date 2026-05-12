@@ -1,0 +1,672 @@
+[
+  {
+    "id": "q_test10_01",
+    "question": "The Grand Hotel requires a minimum of 24 hours' ______ for any room cancellations.",
+    "options": {
+      "A": "notify",
+      "B": "notice",
+      "C": "noticeable",
+      "D": "noticeably"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau sở hữu cách '24 hours'' cần một danh từ. 'notice' (sự thông báo) là danh từ phù hợp nhất.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Khách sạn Grand yêu cầu thông báo trước tối thiểu 24 giờ cho bất kỳ trường hợp hủy phòng nào.",
+    "core_vocabulary": [
+      {
+        "word": "cancellation",
+        "type": "n.",
+        "meaning": "sự hủy bỏ"
+      },
+      {
+        "word": "notice",
+        "type": "n.",
+        "meaning": "sự thông báo"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_02",
+    "question": "Dr. Miller asked the nurses to update ______ patient records by the end of the shift.",
+    "options": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'patient records' cần một tính từ sở hữu. 'their' dùng để chỉ sự sở hữu của 'the nurses'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Bác sĩ Miller yêu cầu các y tá cập nhật hồ sơ bệnh nhân của họ trước khi kết thúc ca làm việc.",
+    "core_vocabulary": [
+      {
+        "word": "record",
+        "type": "n.",
+        "meaning": "hồ sơ, bản ghi"
+      },
+      {
+        "word": "shift",
+        "type": "n.",
+        "meaning": "ca làm việc"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_03",
+    "question": "Professor Higgins will give a brief ______ of the syllabus during the first history lecture.",
+    "options": {
+      "A": "summarize",
+      "B": "summary",
+      "C": "summarized",
+      "D": "summarily"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'a' và tính từ 'brief' cần một danh từ để làm tân ngữ. 'summary' (bản tóm tắt) là danh từ.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Giáo sư Higgins sẽ tóm tắt ngắn gọn về giáo trình trong bài giảng lịch sử đầu tiên.",
+    "core_vocabulary": [
+      {
+        "word": "summary",
+        "type": "n.",
+        "meaning": "bản tóm tắt"
+      },
+      {
+        "word": "syllabus",
+        "type": "n.",
+        "meaning": "giáo trình, đề cương khóa học"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_04",
+    "question": "Shoppers at Metro Mall must present ______ receipts at the exit to receive a parking discount.",
+    "options": {
+      "A": "their",
+      "B": "theirs",
+      "C": "them",
+      "D": "they"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'receipts' cần tính từ sở hữu. 'their' (của họ) thay thế cho 'Shoppers'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Người mua sắm tại Trung tâm thương mại Metro phải xuất trình biên lai của họ ở lối ra để được giảm giá đỗ xe.",
+    "core_vocabulary": [
+      {
+        "word": "receipt",
+        "type": "n.",
+        "meaning": "biên lai, hóa đơn"
+      },
+      {
+        "word": "discount",
+        "type": "n.",
+        "meaning": "sự giảm giá"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_05",
+    "question": "The director of Starburst Studios expressed her ______ for the crew's hard work on the film.",
+    "options": {
+      "A": "appreciate",
+      "B": "appreciative",
+      "C": "appreciation",
+      "D": "appreciatively"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau tính từ sở hữu 'her' cần một danh từ làm tân ngữ cho động từ 'expressed'.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Đạo diễn của Starburst Studios bày tỏ sự trân trọng đối với sự làm việc chăm chỉ của đoàn làm phim.",
+    "core_vocabulary": [
+      {
+        "word": "appreciation",
+        "type": "n.",
+        "meaning": "sự đánh giá cao, sự trân trọng"
+      },
+      {
+        "word": "crew",
+        "type": "n.",
+        "meaning": "đội ngũ, đoàn (làm phim)"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_06",
+    "question": "While Mr. Chen is on vacation, all urgent financial inquiries will be forwarded to ______ assistant.",
+    "options": {
+      "A": "he",
+      "B": "his",
+      "C": "him",
+      "D": "himself"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'assistant' cần tính từ sở hữu chỉ sự sở hữu của 'Mr. Chen'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Trong khi ông Chen đi nghỉ, tất cả các yêu cầu tài chính khẩn cấp sẽ được chuyển tiếp đến trợ lý của ông ấy.",
+    "core_vocabulary": [
+      {
+        "word": "forward",
+        "type": "v.",
+        "meaning": "chuyển tiếp"
+      },
+      {
+        "word": "inquiry",
+        "type": "n.",
+        "meaning": "yêu cầu, thắc mắc"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_07",
+    "question": "TechCore Inc. has reported a significant ______ in software subscriptions this quarter.",
+    "options": {
+      "A": "grow",
+      "B": "growth",
+      "C": "grew",
+      "D": "growing"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'a' và tính từ 'significant' cần một danh từ. 'growth' (sự tăng trưởng) là đáp án đúng.",
+    "explanation_grammar": "Danh từ",
+    "translation": "TechCore Inc. đã báo cáo sự tăng trưởng đáng kể về số lượng đăng ký phần mềm trong quý này.",
+    "core_vocabulary": [
+      {
+        "word": "growth",
+        "type": "n.",
+        "meaning": "sự tăng trưởng"
+      },
+      {
+        "word": "subscription",
+        "type": "n.",
+        "meaning": "sự đăng ký (dịch vụ)"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_08",
+    "question": "To ensure ______ spot in the photography workshop, please register online before Friday.",
+    "options": {
+      "A": "you",
+      "B": "yours",
+      "C": "your",
+      "D": "yourself"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'spot' cần một tính từ sở hữu. 'your' là tính từ sở hữu tương ứng.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Để đảm bảo chỗ của bạn trong buổi hội thảo nhiếp ảnh, vui lòng đăng ký trực tuyến trước thứ Sáu.",
+    "core_vocabulary": [
+      {
+        "word": "ensure",
+        "type": "v.",
+        "meaning": "đảm bảo"
+      },
+      {
+        "word": "spot",
+        "type": "n.",
+        "meaning": "chỗ, vị trí"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_09",
+    "question": "The Chief of Surgery at Mercy Hospital oversees the ______ of all new medical interns.",
+    "options": {
+      "A": "supervise",
+      "B": "supervisory",
+      "C": "supervision",
+      "D": "supervised"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Trưởng khoa Phẫu thuật tại Bệnh viện Mercy giám sát sự quản lý tất cả các bác sĩ thực tập y khoa mới.",
+    "core_vocabulary": [
+      {
+        "word": "oversee",
+        "type": "v.",
+        "meaning": "giám sát"
+      },
+      {
+        "word": "supervision",
+        "type": "n.",
+        "meaning": "sự giám sát"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_10",
+    "question": "Ms. Dalton prefers to buy ______ fresh produce from the local farmer's market on weekends.",
+    "options": {
+      "A": "she",
+      "B": "hers",
+      "C": "herself",
+      "D": "her"
+    },
+    "correct_answer": "D",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'fresh produce' cần tính từ sở hữu thay thế cho 'Ms. Dalton'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Cô Dalton thích mua nông sản tươi sống của mình từ chợ nông sản địa phương vào cuối tuần.",
+    "core_vocabulary": [
+      {
+        "word": "produce",
+        "type": "n.",
+        "meaning": "nông sản"
+      },
+      {
+        "word": "prefer",
+        "type": "v.",
+        "meaning": "thích hơn"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_11",
+    "question": "Analysts predict that the new tax policy will bring significant ______ to small retail businesses.",
+    "options": {
+      "A": "beneficial",
+      "B": "benefits",
+      "C": "benefited",
+      "D": "beneficially"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau động từ 'bring' và tính từ 'significant' cần một danh từ làm tân ngữ. 'benefits' (những lợi ích) là danh từ.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Các nhà phân tích dự đoán rằng chính sách thuế mới sẽ mang lại những lợi ích đáng kể cho các doanh nghiệp bán lẻ nhỏ.",
+    "core_vocabulary": [
+      {
+        "word": "predict",
+        "type": "v.",
+        "meaning": "dự đoán"
+      },
+      {
+        "word": "benefit",
+        "type": "n.",
+        "meaning": "lợi ích"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_12",
+    "question": "Welcome to Seaside Resort; we hope you enjoy ______ stay with us this weekend.",
+    "options": {
+      "A": "you",
+      "B": "your",
+      "C": "yours",
+      "D": "yourself"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'stay' (kỳ nghỉ/sự lưu trú) cần một tính từ sở hữu.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Chào mừng đến với Seaside Resort; chúng tôi hy vọng bạn thích kỳ nghỉ của bạn cùng chúng tôi cuối tuần này.",
+    "core_vocabulary": [
+      {
+        "word": "stay",
+        "type": "n.",
+        "meaning": "sự lưu lại, kỳ nghỉ"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_13",
+    "question": "The sudden ______ of the lead actor caused the play at Harmony Theater to be postponed.",
+    "options": {
+      "A": "absent",
+      "B": "absently",
+      "C": "absence",
+      "D": "absentee"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'The' và tính từ 'sudden' cần một danh từ. 'absence' (sự vắng mặt) phù hợp với ngữ cảnh.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Sự vắng mặt đột ngột của nam diễn viên chính đã khiến vở kịch tại Nhà hát Harmony bị hoãn lại.",
+    "core_vocabulary": [
+      {
+        "word": "absence",
+        "type": "n.",
+        "meaning": "sự vắng mặt"
+      },
+      {
+        "word": "postpone",
+        "type": "v.",
+        "meaning": "trì hoãn"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_14",
+    "question": "The marketing team at Zenith Corp is proud of ______ recent successful advertising campaign.",
+    "options": {
+      "A": "them",
+      "B": "they",
+      "C": "themselves",
+      "D": "their"
+    },
+    "correct_answer": "D",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'recent successful advertising campaign' cần tính từ sở hữu. Nhóm (team) đóng vai trò là danh từ tập hợp, dùng 'their'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Đội ngũ tiếp thị tại Zenith Corp tự hào về chiến dịch quảng cáo thành công gần đây của họ.",
+    "core_vocabulary": [
+      {
+        "word": "proud of",
+        "type": "adj.",
+        "meaning": "tự hào về"
+      },
+      {
+        "word": "campaign",
+        "type": "n.",
+        "meaning": "chiến dịch"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_15",
+    "question": "CyberSafe Solutions offers excellent ______ for clients dealing with complex data breaches.",
+    "options": {
+      "A": "guide",
+      "B": "guidance",
+      "C": "guidable",
+      "D": "guiding"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau tính từ 'excellent' cần một danh từ để làm tân ngữ cho động từ 'offers'.",
+    "explanation_grammar": "Danh từ",
+    "translation": "CyberSafe Solutions cung cấp sự hướng dẫn tuyệt vời cho các khách hàng đang đối mặt với các vụ vi phạm dữ liệu phức tạp.",
+    "core_vocabulary": [
+      {
+        "word": "guidance",
+        "type": "n.",
+        "meaning": "sự hướng dẫn"
+      },
+      {
+        "word": "breach",
+        "type": "n.",
+        "meaning": "sự vi phạm, sự phá vỡ"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_16",
+    "question": "The CEO, Ms. Larson, requested that all department heads submit ______ budget proposals today.",
+    "options": {
+      "A": "they",
+      "B": "their",
+      "C": "them",
+      "D": "theirs"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'budget proposals' cần tính từ sở hữu để thay thế cho 'all department heads' (số nhiều).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Giám đốc điều hành, cô Larson, yêu cầu tất cả các trưởng phòng nộp các đề xuất ngân sách của họ ngay hôm nay.",
+    "core_vocabulary": [
+      {
+        "word": "submit",
+        "type": "v.",
+        "meaning": "nộp, đệ trình"
+      },
+      {
+        "word": "proposal",
+        "type": "n.",
+        "meaning": "bản đề xuất"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_17",
+    "question": "Admission to the City Art Museum includes entry to the special ______ of Renaissance paintings.",
+    "options": {
+      "A": "exhibit",
+      "B": "exhibition",
+      "C": "exhibited",
+      "D": "exhibitionist"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'the' và tính từ 'special' cần một danh từ. 'exhibition' (cuộc triển lãm) là phù hợp nhất.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Giá vé vào Bảo tàng Nghệ thuật Thành phố bao gồm quyền tham quan triển lãm đặc biệt của các bức tranh thời kỳ Phục hưng.",
+    "core_vocabulary": [
+      {
+        "word": "admission",
+        "type": "n.",
+        "meaning": "sự nhận vào, vé vào cửa"
+      },
+      {
+        "word": "exhibition",
+        "type": "n.",
+        "meaning": "sự triển lãm, cuộc triển lãm"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_18",
+    "question": "Patients at Oakridge Dental Clinic are reminded to schedule ______ next cleaning appointment before leaving.",
+    "options": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'next cleaning appointment' cần một tính từ sở hữu chỉ sự sở hữu của 'Patients'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Bệnh nhân tại Phòng khám Nha khoa Oakridge được nhắc nhở lên lịch hẹn làm sạch răng tiếp theo của họ trước khi ra về.",
+    "core_vocabulary": [
+      {
+        "word": "remind",
+        "type": "v.",
+        "meaning": "nhắc nhở"
+      },
+      {
+        "word": "appointment",
+        "type": "n.",
+        "meaning": "cuộc hẹn"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_19",
+    "question": "The accounting firm, Ledger & Co., is currently conducting a detailed ______ of the company's expenses.",
+    "options": {
+      "A": "analyze",
+      "B": "analysis",
+      "C": "analyst",
+      "D": "analytical"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'a' và tính từ 'detailed' cần một danh từ chỉ hành động hoặc sự việc. 'analysis' (sự phân tích) là đáp án đúng.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Công ty kế toán Ledger & Co. hiện đang tiến hành phân tích chi tiết các khoản chi phí của công ty.",
+    "core_vocabulary": [
+      {
+        "word": "conduct",
+        "type": "v.",
+        "meaning": "tiến hành, thực hiện"
+      },
+      {
+        "word": "analysis",
+        "type": "n.",
+        "meaning": "sự phân tích"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_20",
+    "question": "If you have any questions about the rental lease, please contact ______ property manager immediately.",
+    "options": {
+      "A": "you",
+      "B": "your",
+      "C": "yours",
+      "D": "yourself"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'property manager' cần tính từ sở hữu tương ứng với đại từ 'you'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Nếu bạn có bất kỳ câu hỏi nào về hợp đồng cho thuê, vui lòng liên hệ ngay với người quản lý tài sản của bạn.",
+    "core_vocabulary": [
+      {
+        "word": "lease",
+        "type": "n.",
+        "meaning": "hợp đồng cho thuê"
+      },
+      {
+        "word": "immediately",
+        "type": "adv.",
+        "meaning": "ngay lập tức"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_21",
+    "question": "The head chef at Bella Napoli Restaurant makes careful ______ of all fresh ingredients every morning.",
+    "options": {
+      "A": "select",
+      "B": "selections",
+      "C": "selective",
+      "D": "selectively"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau tính từ 'careful' cần một danh từ để làm tân ngữ cho 'makes'.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Bếp trưởng tại Nhà hàng Bella Napoli lựa chọn cẩn thận tất cả các nguyên liệu tươi mỗi sáng.",
+    "core_vocabulary": [
+      {
+        "word": "careful",
+        "type": "adj.",
+        "meaning": "cẩn thận"
+      },
+      {
+        "word": "ingredient",
+        "type": "n.",
+        "meaning": "thành phần, nguyên liệu"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_22",
+    "question": "Mr. Davies was asked to bring ______ laptop to the IT department for a mandatory software update.",
+    "options": {
+      "A": "he",
+      "B": "him",
+      "C": "his",
+      "D": "himself"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'laptop' cần tính từ sở hữu thay thế cho 'Mr. Davies'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Ông Davies được yêu cầu mang máy tính xách tay của ông ấy đến phòng IT để cập nhật phần mềm bắt buộc.",
+    "core_vocabulary": [
+      {
+        "word": "mandatory",
+        "type": "adj.",
+        "meaning": "mang tính bắt buộc"
+      },
+      {
+        "word": "update",
+        "type": "n.",
+        "meaning": "sự cập nhật"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_23",
+    "question": "Tickets for the Symphony Orchestra's opening ______ will go on sale starting next Monday.",
+    "options": {
+      "A": "perform",
+      "B": "performance",
+      "C": "performer",
+      "D": "performed"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau tính từ 'opening' cần một danh từ chỉ sự việc, hành động. 'performance' (buổi biểu diễn) là phù hợp nhất.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Vé cho buổi biểu diễn khai mạc của Dàn nhạc Giao hưởng sẽ được bán bắt đầu từ thứ Hai tuần sau.",
+    "core_vocabulary": [
+      {
+        "word": "performance",
+        "type": "n.",
+        "meaning": "buổi biểu diễn"
+      },
+      {
+        "word": "orchestra",
+        "type": "n.",
+        "meaning": "dàn nhạc"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_24",
+    "question": "Ms. Rivera encourages all of the students in the chemistry lab to wear ______ safety goggles.",
+    "options": {
+      "A": "they",
+      "B": "their",
+      "C": "them",
+      "D": "theirs"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'safety goggles' cần tính từ sở hữu thay thế cho 'all of the students' (số nhiều).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Cô Rivera khuyến khích tất cả học sinh trong phòng thí nghiệm hóa học đeo kính bảo hộ của họ.",
+    "core_vocabulary": [
+      {
+        "word": "encourage",
+        "type": "v.",
+        "meaning": "khuyến khích"
+      },
+      {
+        "word": "goggles",
+        "type": "n.",
+        "meaning": "kính bảo hộ"
+      }
+    ]
+  },
+  {
+    "id": "q_test10_25",
+    "question": "FutureTech Electronics provides a full two-year ______ on all newly purchased smart home devices.",
+    "options": {
+      "A": "warrant",
+      "B": "warranty",
+      "C": "warranted",
+      "D": "warranting"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau cụm tính từ 'a full two-year' cần một danh từ. 'warranty' (sự bảo hành) là đáp án đúng.",
+    "explanation_grammar": "Danh từ",
+    "translation": "FutureTech Electronics cung cấp bảo hành trọn hai năm cho tất cả các thiết bị nhà thông minh mới mua.",
+    "core_vocabulary": [
+      {
+        "word": "warranty",
+        "type": "n.",
+        "meaning": "sự bảo hành"
+      },
+      {
+        "word": "device",
+        "type": "n.",
+        "meaning": "thiết bị"
+      }
+    ]
+  }
+]

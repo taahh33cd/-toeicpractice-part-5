@@ -1,0 +1,677 @@
+[
+  {
+    "id": "q_test11_26",
+    "question": "The HR director at Summit Solutions requested a formal ______ regarding the new office policy.",
+    "options": {
+      "A": "explain",
+      "B": "explanation",
+      "C": "explanatory",
+      "D": "explained"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'a' và tính từ 'formal' cần một danh từ để làm tân ngữ cho động từ 'requested'. 'explanation' (lời giải thích) là danh từ.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Giám đốc nhân sự tại Summit Solutions đã yêu cầu một lời giải thích chính thức liên quan đến chính sách văn phòng mới.",
+    "core_vocabulary": [
+      {
+        "word": "formal",
+        "type": "adj.",
+        "meaning": "chính thức, trang trọng"
+      },
+      {
+        "word": "explanation",
+        "type": "n.",
+        "meaning": "lời giải thích"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_27",
+    "question": "Ms. Yamaguchi asked the IT department to install the new software on ______ laptop by noon.",
+    "options": {
+      "A": "she",
+      "B": "herself",
+      "C": "her",
+      "D": "hers"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'laptop' cần tính từ sở hữu. 'her' là tính từ sở hữu chỉ sự sở hữu của 'Ms. Yamaguchi'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Cô Yamaguchi yêu cầu phòng IT cài đặt phần mềm mới trên máy tính xách tay của cô ấy trước buổi trưa.",
+    "core_vocabulary": [
+      {
+        "word": "install",
+        "type": "v.",
+        "meaning": "cài đặt"
+      },
+      {
+        "word": "department",
+        "type": "n.",
+        "meaning": "bộ phận, phòng ban"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_28",
+    "question": "Increased ______ among local bakeries has led to lower prices and better quality for customers.",
+    "options": {
+      "A": "compete",
+      "B": "competition",
+      "C": "competitive",
+      "D": "competitively"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Đứng làm chủ ngữ cho động từ 'has led' và đi sau tính từ 'Increased' cần một danh từ. 'competition' (sự cạnh tranh) là đáp án đúng.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Sự cạnh tranh ngày càng tăng giữa các tiệm bánh địa phương đã dẫn đến giá thấp hơn và chất lượng tốt hơn cho khách hàng.",
+    "core_vocabulary": [
+      {
+        "word": "competition",
+        "type": "n.",
+        "meaning": "sự cạnh tranh"
+      },
+      {
+        "word": "lead to",
+        "type": "v.",
+        "meaning": "dẫn đến"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_29",
+    "question": "All staff members at Blue Water Aquarium must wear ______ identification badges at all times.",
+    "options": {
+      "A": "they",
+      "B": "themselves",
+      "C": "them",
+      "D": "their"
+    },
+    "correct_answer": "D",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'identification badges' (thẻ căn cước/bảng tên) cần tính từ sở hữu. 'their' dùng để thay thế cho 'All staff members' (số nhiều).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Tất cả nhân viên tại Thủy cung Blue Water phải đeo thẻ tên của họ mọi lúc.",
+    "core_vocabulary": [
+      {
+        "word": "badge",
+        "type": "n.",
+        "meaning": "thẻ, huy hiệu"
+      },
+      {
+        "word": "at all times",
+        "type": "adv.",
+        "meaning": "mọi lúc, luôn luôn"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_30",
+    "question": "The ______ of the new community center in Oak Village is scheduled for early next month.",
+    "options": {
+      "A": "construct",
+      "B": "constructed",
+      "C": "construction",
+      "D": "constructive"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'The' và trước giới từ 'of' cần một danh từ. 'construction' (sự xây dựng) là phù hợp nhất.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Việc xây dựng trung tâm cộng đồng mới ở Làng Oak dự kiến vào đầu tháng tới.",
+    "core_vocabulary": [
+      {
+        "word": "construction",
+        "type": "n.",
+        "meaning": "sự xây dựng, công trình"
+      },
+      {
+        "word": "be scheduled for",
+        "type": "v.",
+        "meaning": "được lên lịch cho"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_31",
+    "question": "Mr. Thompson was asked to present ______ findings to the board of directors at the Friday meeting.",
+    "options": {
+      "A": "he",
+      "B": "him",
+      "C": "his",
+      "D": "himself"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'findings' cần tính từ sở hữu để thay thế cho 'Mr. Thompson'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Ông Thompson được yêu cầu trình bày những phát hiện của mình cho ban giám đốc tại cuộc họp thứ Sáu.",
+    "core_vocabulary": [
+      {
+        "word": "present",
+        "type": "v.",
+        "meaning": "trình bày"
+      },
+      {
+        "word": "finding",
+        "type": "n.",
+        "meaning": "phát hiện, kết quả nghiên cứu"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_32",
+    "question": "After a long negotiation, the partners at Sterling Law reached an ______ on the merger terms.",
+    "options": {
+      "A": "agree",
+      "B": "agreement",
+      "C": "agreeable",
+      "D": "agreed"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'an' cần một danh từ. Cụm 'reach an agreement' mang nghĩa là 'đạt được thỏa thuận'.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Sau một cuộc đàm phán dài, các đối tác tại Sterling Law đã đạt được thỏa thuận về các điều khoản sáp nhập.",
+    "core_vocabulary": [
+      {
+        "word": "negotiation",
+        "type": "n.",
+        "meaning": "sự đàm phán"
+      },
+      {
+        "word": "agreement",
+        "type": "n.",
+        "meaning": "sự thỏa thuận, hiệp định"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_33",
+    "question": "Students at the Rivera School of Music are expected to bring ______ own instruments to every class.",
+    "options": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm 'own instruments' cần tính từ sở hữu để chỉ sự sở hữu của 'Students'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Học sinh tại Trường Âm nhạc Rivera được yêu cầu mang theo nhạc cụ của riêng họ đến mỗi buổi học.",
+    "core_vocabulary": [
+      {
+        "word": "instrument",
+        "type": "n.",
+        "meaning": "nhạc cụ, dụng cụ"
+      },
+      {
+        "word": "be expected to",
+        "type": "v.",
+        "meaning": "được kỳ vọng sẽ, được yêu cầu phải"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_34",
+    "question": "The lead scientist at BioGen Lab is credited with the ______ of a more effective flu vaccine.",
+    "options": {
+      "A": "discover",
+      "B": "discovery",
+      "C": "discovered",
+      "D": "discoverer"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'the' và giới từ 'of' cần một danh từ chỉ sự việc. 'discovery' (sự khám phá) là đáp án đúng.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Nhà khoa học trưởng tại BioGen Lab được ghi nhận với việc khám phá ra một loại vắc-xin cúm hiệu quả hơn.",
+    "core_vocabulary": [
+      {
+        "word": "be credited with",
+        "type": "v.",
+        "meaning": "được ghi nhận về"
+      },
+      {
+        "word": "discovery",
+        "type": "n.",
+        "meaning": "sự khám phá, phát hiện"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_35",
+    "question": "Ms. Foster reminded the marketing team to submit ______ expense reports before the end of the week.",
+    "options": {
+      "A": "they",
+      "B": "their",
+      "C": "them",
+      "D": "theirs"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'expense reports' cần tính từ sở hữu. 'the marketing team' mang nghĩa tập thể nên dùng 'their'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Cô Foster nhắc nhở đội ngũ tiếp thị nộp các báo cáo chi phí của họ trước cuối tuần.",
+    "core_vocabulary": [
+      {
+        "word": "submit",
+        "type": "v.",
+        "meaning": "nộp, đệ trình"
+      },
+      {
+        "word": "expense report",
+        "type": "n.",
+        "meaning": "báo cáo chi phí"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_36",
+    "question": "High-quality ______ is essential for the long-term success of any luxury hotel like The Grand Palais.",
+    "options": {
+      "A": "maintain",
+      "B": "maintenance",
+      "C": "maintained",
+      "D": "maintainable"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Đứng làm chủ ngữ trong câu và đi sau tính từ 'High-quality' cần một danh từ. 'maintenance' (sự bảo trì) là đáp án đúng.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Sự bảo trì chất lượng cao là điều cần thiết cho sự thành công lâu dài của bất kỳ khách sạn sang trọng nào như The Grand Palais.",
+    "core_vocabulary": [
+      {
+        "word": "maintenance",
+        "type": "n.",
+        "meaning": "sự bảo trì, bảo dưỡng"
+      },
+      {
+        "word": "essential",
+        "type": "adj.",
+        "meaning": "thiết yếu, quan trọng"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_37",
+    "question": "While Dr. Aris is attending the medical conference, all patients will be seen by ______ associate.",
+    "options": {
+      "A": "he",
+      "B": "his",
+      "C": "him",
+      "D": "himself"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'associate' cần tính từ sở hữu thay thế cho 'Dr. Aris' (nam).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Trong khi bác sĩ Aris tham dự hội nghị y khoa, tất cả các bệnh nhân sẽ được khám bởi người cộng sự của ông.",
+    "core_vocabulary": [
+      {
+        "word": "associate",
+        "type": "n.",
+        "meaning": "người cộng tác, cộng sự"
+      },
+      {
+        "word": "attend",
+        "type": "v.",
+        "meaning": "tham dự"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_38",
+    "question": "The city council provided a detailed ______ of why the new park project was delayed.",
+    "options": {
+      "A": "describe",
+      "B": "description",
+      "C": "descriptive",
+      "D": "described"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'a' và tính từ 'detailed' cần một danh từ. 'description' (sự miêu tả, mô tả) là đáp án đúng.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Hội đồng thành phố đã cung cấp một bản mô tả chi tiết lý do tại sao dự án công viên mới bị trì hoãn.",
+    "core_vocabulary": [
+      {
+        "word": "description",
+        "type": "n.",
+        "meaning": "sự mô tả"
+      },
+      {
+        "word": "delay",
+        "type": "v.",
+        "meaning": "trì hoãn"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_39",
+    "question": "Visitors to the National History Museum are asked to leave ______ large bags in the cloakroom.",
+    "options": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'large bags' cần tính từ sở hữu. 'their' dùng để chỉ 'Visitors' (du khách).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Du khách đến Bảo tàng Lịch sử Quốc gia được yêu cầu để lại những chiếc túi lớn của họ trong phòng giữ đồ.",
+    "core_vocabulary": [
+      {
+        "word": "visitor",
+        "type": "n.",
+        "meaning": "du khách, người tham quan"
+      },
+      {
+        "word": "cloakroom",
+        "type": "n.",
+        "meaning": "phòng giữ áo/đồ đạc"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_40",
+    "question": "The CEO of Horizon Tech expressed his ______ for the employee's years of loyal service.",
+    "options": {
+      "A": "admire",
+      "B": "admirable",
+      "C": "admiration",
+      "D": "admirably"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau tính từ sở hữu 'his' cần một danh từ để làm tân ngữ cho động từ 'expressed'.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Giám đốc điều hành của Horizon Tech bày tỏ sự ngưỡng mộ của mình đối với những năm phục vụ trung thành của nhân viên.",
+    "core_vocabulary": [
+      {
+        "word": "admiration",
+        "type": "n.",
+        "meaning": "sự ngưỡng mộ"
+      },
+      {
+        "word": "loyal",
+        "type": "adj.",
+        "meaning": "trung thành"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_41",
+    "question": "If you are not satisfied with ______ purchase at Silva Department Store, you may return it within 30 days.",
+    "options": {
+      "A": "you",
+      "B": "yours",
+      "C": "your",
+      "D": "yourself"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'purchase' (sự mua sắm, món hàng đã mua) cần tính từ sở hữu tương ứng với 'you'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Nếu bạn không hài lòng với giao dịch mua hàng của mình tại Cửa hàng bách hóa Silva, bạn có thể trả lại nó trong vòng 30 ngày.",
+    "core_vocabulary": [
+      {
+        "word": "purchase",
+        "type": "n.",
+        "meaning": "hàng hóa đã mua, sự mua sắm"
+      },
+      {
+        "word": "satisfied",
+        "type": "adj.",
+        "meaning": "hài lòng"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_42",
+    "question": "Due to a technical ______ at the broadcasting station, the evening news was delayed by ten minutes.",
+    "options": {
+      "A": "fail",
+      "B": "failure",
+      "C": "failed",
+      "D": "failing"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'a' và tính từ 'technical' cần một danh từ. 'failure' (sự cố/sự thất bại) là đáp án đúng.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Do một sự cố kỹ thuật tại đài phát thanh truyền hình, bản tin buổi tối đã bị trễ mười phút.",
+    "core_vocabulary": [
+      {
+        "word": "failure",
+        "type": "n.",
+        "meaning": "sự cố, sự thất bại"
+      },
+      {
+        "word": "broadcasting station",
+        "type": "n.",
+        "meaning": "đài phát thanh/truyền hình"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_43",
+    "question": "Mr. Gupta told the sales team that ______ hard work resulted in a record-breaking month for the firm.",
+    "options": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'hard work' cần tính từ sở hữu để thay thế cho 'the sales team' (được xem như số nhiều trong ngữ cảnh này).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Ông Gupta đã nói với đội ngũ bán hàng rằng sự làm việc chăm chỉ của họ đã mang lại một tháng phá kỷ lục cho công ty.",
+    "core_vocabulary": [
+      {
+        "word": "result in",
+        "type": "v.",
+        "meaning": "dẫn đến, mang lại"
+      },
+      {
+        "word": "record-breaking",
+        "type": "adj.",
+        "meaning": "phá kỷ lục"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_44",
+    "question": "The ______ of the annual charity auction was a major success for the City Children’s Hospital.",
+    "options": {
+      "A": "organize",
+      "B": "organization",
+      "C": "organized",
+      "D": "organizational"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'The' và trước giới từ 'of' cần một danh từ. 'organization' mang nghĩa 'công tác tổ chức/sự tổ chức' ở đây.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Công tác tổ chức buổi đấu giá từ thiện thường niên là một thành công lớn của Bệnh viện Nhi đồng Thành phố.",
+    "core_vocabulary": [
+      {
+        "word": "organization",
+        "type": "n.",
+        "meaning": "sự tổ chức, tổ chức"
+      },
+      {
+        "word": "auction",
+        "type": "n.",
+        "meaning": "buổi đấu giá"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_45",
+    "question": "Ms. Thorne will represent our company at the trade fair and hand out ______ business cards.",
+    "options": {
+      "A": "she",
+      "B": "herself",
+      "C": "her",
+      "D": "hers"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'business cards' cần tính từ sở hữu chỉ định thẻ công tác của 'Ms. Thorne'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Cô Thorne sẽ đại diện cho công ty của chúng ta tại hội chợ thương mại và phát danh thiếp của cô ấy.",
+    "core_vocabulary": [
+      {
+        "word": "represent",
+        "type": "v.",
+        "meaning": "đại diện cho"
+      },
+      {
+        "word": "hand out",
+        "type": "v.",
+        "meaning": "phân phát"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_46",
+    "question": "Clear ______ is necessary to ensure that all team members understand the goals of the project.",
+    "options": {
+      "A": "communicate",
+      "B": "communication",
+      "C": "communicative",
+      "D": "communicatively"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Đứng làm chủ ngữ và đi sau tính từ 'Clear' cần một danh từ. 'communication' (sự giao tiếp, truyền đạt) là phù hợp nhất.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Sự giao tiếp rõ ràng là cần thiết để đảm bảo rằng tất cả các thành viên trong nhóm hiểu được mục tiêu của dự án.",
+    "core_vocabulary": [
+      {
+        "word": "communication",
+        "type": "n.",
+        "meaning": "sự giao tiếp, sự truyền đạt"
+      },
+      {
+        "word": "ensure",
+        "type": "v.",
+        "meaning": "đảm bảo"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_47",
+    "question": "Passengers on SkyHigh Airways are responsible for the safety of ______ personal electronic devices.",
+    "options": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "theirs"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'personal electronic devices' cần tính từ sở hữu. 'their' dùng để chỉ sự sở hữu của 'Passengers' (Hành khách).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Hành khách trên hãng hàng không SkyHigh phải tự chịu trách nhiệm về sự an toàn đối với các thiết bị điện tử cá nhân của họ.",
+    "core_vocabulary": [
+      {
+        "word": "responsible",
+        "type": "adj.",
+        "meaning": "chịu trách nhiệm"
+      },
+      {
+        "word": "device",
+        "type": "n.",
+        "meaning": "thiết bị"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_48",
+    "question": "The ______ of the new banking app has received very positive reviews from customers so far.",
+    "options": {
+      "A": "introduce",
+      "B": "introduction",
+      "C": "introduced",
+      "D": "introductory"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'The' và trước giới từ 'of' cần một danh từ. 'introduction' (sự ra mắt, giới thiệu) là danh từ.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Sự ra mắt của ứng dụng ngân hàng mới đã nhận được những đánh giá rất tích cực từ khách hàng cho đến nay.",
+    "core_vocabulary": [
+      {
+        "word": "introduction",
+        "type": "n.",
+        "meaning": "sự ra mắt, sự giới thiệu"
+      },
+      {
+        "word": "review",
+        "type": "n.",
+        "meaning": "đánh giá, nhận xét"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_49",
+    "question": "Dr. Lee and ______ research team have published a groundbreaking study in the Journal of Medicine.",
+    "options": {
+      "A": "she",
+      "B": "her",
+      "C": "hers",
+      "D": "herself"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'research team' cần tính từ sở hữu. 'her' được dùng cho 'Dr. Lee' (trong ngữ cảnh nữ).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Tiến sĩ Lee và đội ngũ nghiên cứu của cô ấy đã công bố một nghiên cứu mang tính đột phá trên Tạp chí Y khoa.",
+    "core_vocabulary": [
+      {
+        "word": "publish",
+        "type": "v.",
+        "meaning": "công bố, xuất bản"
+      },
+      {
+        "word": "groundbreaking",
+        "type": "adj.",
+        "meaning": "mang tính đột phá"
+      }
+    ]
+  },
+  {
+    "id": "q_test11_50",
+    "question": "The finance committee at Preston College is conducting an ______ of the student scholarship fund.",
+    "options": {
+      "A": "examine",
+      "B": "examination",
+      "C": "examined",
+      "D": "examining"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'an' và trước giới từ 'of' cần một danh từ. 'examination' (sự kiểm tra/xem xét) là phù hợp.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Ủy ban tài chính tại Đại học Preston đang tiến hành xem xét quỹ học bổng dành cho sinh viên.",
+    "core_vocabulary": [
+      {
+        "word": "conduct",
+        "type": "v.",
+        "meaning": "tiến hành"
+      },
+      {
+        "word": "examination",
+        "type": "n.",
+        "meaning": "sự kiểm tra, xem xét"
+      }
+    ]
+  }
+]

@@ -1,0 +1,612 @@
+[
+  {
+    "id": "q_preposition_test10_26",
+    "question": "Ms. Larson has been a key asset to the legal firm ______ the merger was finalized last April.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "during",
+      "D": "until"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Since' dùng để chỉ mốc thời gian bắt đầu một hành động kéo dài đến hiện tại (thì hiện tại hoàn thành).",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Bà Larson đã là một tài sản quan trọng đối với công ty luật kể từ khi vụ sáp nhập được hoàn tất vào tháng 4 năm ngoái.",
+    "core_vocabulary": [
+      {
+        "word": "asset",
+        "type": "n",
+        "meaning": "tài sản, người/vật có giá trị"
+      },
+      {
+        "word": "finalized",
+        "type": "v",
+        "meaning": "hoàn tất"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_27",
+    "question": "Please place all completed expense reports ______ the tray located on the receptionist's desk.",
+    "options": {
+      "A": "in",
+      "B": "at",
+      "C": "to",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'In' dùng để chỉ vị trí bên trong một vật chứa (cái khay).",
+    "explanation_grammar": "Giới từ chỉ vị trí",
+    "translation": "Vui lòng để tất cả các báo cáo chi phí đã hoàn thành vào khay nằm trên bàn của nhân viên lễ tân.",
+    "core_vocabulary": [
+      {
+        "word": "expense",
+        "type": "n",
+        "meaning": "chi phí"
+      },
+      {
+        "word": "receptionist",
+        "type": "n",
+        "meaning": "nhân viên lễ tân"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_28",
+    "question": "All staff members are required to wear their identification badges ______ all times while on company premises.",
+    "options": {
+      "A": "at",
+      "B": "on",
+      "C": "during",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'At all times' là một cụm từ cố định có nghĩa là 'mọi lúc'.",
+    "explanation_grammar": "Cụm giới từ cố định",
+    "translation": "Tất cả nhân viên được yêu cầu đeo thẻ nhận dạng của mình mọi lúc khi đang ở trong khuôn viên công ty.",
+    "core_vocabulary": [
+      {
+        "word": "premises",
+        "type": "n",
+        "meaning": "khuôn viên, tòa nhà"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_29",
+    "question": "The board of directors will vote on the proposed international expansion ______ the next scheduled meeting.",
+    "options": {
+      "A": "at",
+      "B": "in",
+      "C": "to",
+      "D": "for"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'At' dùng cho các sự kiện hoặc cuộc họp.",
+    "explanation_grammar": "Giới từ chỉ địa điểm/sự kiện",
+    "translation": "Ban giám đốc sẽ bỏ phiếu về đề xuất mở rộng quốc tế tại cuộc họp định kỳ tiếp theo.",
+    "core_vocabulary": [
+      {
+        "word": "proposed",
+        "type": "adj",
+        "meaning": "được đề xuất"
+      },
+      {
+        "word": "expansion",
+        "type": "n",
+        "meaning": "sự mở rộng"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_30",
+    "question": "The latest version of the accounting software will be available for download ______ midnight tonight.",
+    "options": {
+      "A": "after",
+      "B": "between",
+      "C": "along",
+      "D": "through"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'After' chỉ mốc thời gian (sau nửa đêm).",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Phiên bản mới nhất của phần mềm kế toán sẽ có sẵn để tải xuống sau nửa đêm nay.",
+    "core_vocabulary": [
+      {
+        "word": "available",
+        "type": "adj",
+        "meaning": "có sẵn"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_31",
+    "question": "Mr. Ishikawa was promoted to Senior Manager ______ his outstanding contributions to the cloud computing project.",
+    "options": {
+      "A": "because of",
+      "B": "instead of",
+      "C": "in spite of",
+      "D": "as well as"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Because of' chỉ nguyên nhân dẫn đến việc được thăng chức.",
+    "explanation_grammar": "Giới từ chỉ nguyên nhân",
+    "translation": "Ông Ishikawa đã được thăng chức lên Quản lý cao cấp vì những đóng góp xuất sắc của ông cho dự án điện toán đám mây.",
+    "core_vocabulary": [
+      {
+        "word": "promote",
+        "type": "v",
+        "meaning": "thăng chức"
+      },
+      {
+        "word": "outstanding",
+        "type": "adj",
+        "meaning": "xuất sắc, nổi bật"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_32",
+    "question": "The hotel provides a complimentary shuttle service ______ the international airport and the main entrance.",
+    "options": {
+      "A": "between",
+      "B": "among",
+      "C": "across",
+      "D": "throughout"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Between' dùng để chỉ sự kết nối giữa hai điểm.",
+    "explanation_grammar": "Giới từ chỉ vị trí",
+    "translation": "Khách sạn cung cấp dịch vụ xe đưa đón miễn phí giữa sân bay quốc tế và lối vào chính.",
+    "core_vocabulary": [
+      {
+        "word": "complimentary",
+        "type": "adj",
+        "meaning": "miễn phí"
+      },
+      {
+        "word": "shuttle",
+        "type": "n",
+        "meaning": "xe đưa đón chặng ngắn"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_33",
+    "question": "______ the high demand for the new smartphone, the flagship store has limited purchases to one per customer.",
+    "options": {
+      "A": "Due to",
+      "B": "Although",
+      "C": "Even if",
+      "D": "Despite"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Due to' chỉ nguyên nhân, theo sau là cụm danh từ.",
+    "explanation_grammar": "Giới từ chỉ nguyên nhân",
+    "translation": "Do nhu cầu cao đối với điện thoại thông minh mới, cửa hàng hàng đầu đã giới hạn số lượng mua là một chiếc mỗi khách hàng.",
+    "core_vocabulary": [
+      {
+        "word": "demand",
+        "type": "n",
+        "meaning": "nhu cầu"
+      },
+      {
+        "word": "flagship",
+        "type": "adj/n",
+        "meaning": "hàng đầu, quan trọng nhất"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_34",
+    "question": "The CEO will be out of the office ______ the remainder of the week to attend a conference in Geneva.",
+    "options": {
+      "A": "for",
+      "B": "during",
+      "C": "since",
+      "D": "at"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'For' dùng để chỉ khoảng thời gian kéo dài (trong suốt phần còn lại của tuần).",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "CEO sẽ vắng mặt tại văn phòng trong phần còn lại của tuần để tham dự một hội nghị ở Geneva.",
+    "core_vocabulary": [
+      {
+        "word": "remainder",
+        "type": "n",
+        "meaning": "phần còn lại"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_35",
+    "question": "Applicants are requested to submit a digital portfolio of their work ______ their professional resume.",
+    "options": {
+      "A": "along with",
+      "B": "in front of",
+      "C": "except for",
+      "D": "outside of"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Along with' nghĩa là 'cùng với' hoặc 'kèm theo'.",
+    "explanation_grammar": "Giới từ chỉ sự đi kèm",
+    "translation": "Các ứng viên được yêu cầu nộp hồ sơ năng lực kỹ thuật số về công việc của họ cùng với sơ yếu lý lịch chuyên nghiệp.",
+    "core_vocabulary": [
+      {
+        "word": "resume",
+        "type": "n",
+        "meaning": "sơ yếu lý lịch"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_36",
+    "question": "The staff cafeteria is conveniently located ______ the third floor, right next to the employee fitness center.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "in",
+      "D": "to"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "Dùng 'on' cho các tầng của tòa nhà.",
+    "explanation_grammar": "Giới từ chỉ vị trí",
+    "translation": "Căng tin nhân viên nằm ở vị trí thuận tiện trên tầng ba, ngay cạnh trung tâm thể dục cho nhân viên.",
+    "core_vocabulary": [
+      {
+        "word": "cafeteria",
+        "type": "n",
+        "meaning": "quán ăn tự phục vụ, căng tin"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_37",
+    "question": "______ the unexpected resignation of the lead designer, the project timeline has been adjusted significantly.",
+    "options": {
+      "A": "Following",
+      "B": "Between",
+      "C": "Among",
+      "D": "Across"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Following' đóng vai trò giới từ có nghĩa là 'sau khi' hoặc 'theo sau sự kiện nào đó'.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Sau sự từ chức bất ngờ của nhà thiết kế chính, lộ trình dự án đã được điều chỉnh đáng kể.",
+    "core_vocabulary": [
+      {
+        "word": "resignation",
+        "type": "n",
+        "meaning": "sự từ chức"
+      },
+      {
+        "word": "significantly",
+        "type": "adv",
+        "meaning": "một cách đáng kể"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_38",
+    "question": "Ms. Zhao has been searching for a more spacious office suite ______ the downtown business district.",
+    "options": {
+      "A": "within",
+      "B": "throughout",
+      "C": "between",
+      "D": "along"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Within' dùng để chỉ phạm vi bên trong một khu vực.",
+    "explanation_grammar": "Giới từ chỉ vị trí/không gian",
+    "translation": "Bà Zhao đang tìm kiếm một dãy văn phòng rộng rãi hơn trong khu kinh doanh trung tâm.",
+    "core_vocabulary": [
+      {
+        "word": "spacious",
+        "type": "adj",
+        "meaning": "rộng rãi"
+      },
+      {
+        "word": "district",
+        "type": "n",
+        "meaning": "quận, khu vực"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_39",
+    "question": "Employees are encouraged to share their constructive feedback ______ the new flexible work policy.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Feedback on something' là cụm từ cố định có nghĩa là 'phản hồi về việc gì'.",
+    "explanation_grammar": "Giới từ đi kèm danh từ",
+    "translation": "Nhân viên được khuyến khích chia sẻ phản hồi mang tính xây dựng về chính sách làm việc linh hoạt mới.",
+    "core_vocabulary": [
+      {
+        "word": "constructive",
+        "type": "adj",
+        "meaning": "mang tính xây dựng"
+      },
+      {
+        "word": "policy",
+        "type": "n",
+        "meaning": "chính sách"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_40",
+    "question": "The bank's main branch will remain closed ______ further notice while the security system is being upgraded.",
+    "options": {
+      "A": "until",
+      "B": "by",
+      "C": "for",
+      "D": "during"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Until further notice' là một cụm từ cố định có nghĩa là 'cho đến khi có thông báo mới'.",
+    "explanation_grammar": "Cụm giới từ cố định",
+    "translation": "Chi nhánh chính của ngân hàng sẽ tiếp tục đóng cửa cho đến khi có thông báo mới trong khi hệ thống an ninh đang được nâng cấp.",
+    "core_vocabulary": [
+      {
+        "word": "upgrade",
+        "type": "v",
+        "meaning": "nâng cấp"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_41",
+    "question": "All laboratory equipment must be handled with extreme care ______ the duration of the experiment.",
+    "options": {
+      "A": "during",
+      "B": "while",
+      "C": "between",
+      "D": "since"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'During' chỉ một khoảng thời gian diễn ra sự việc, theo sau là danh từ.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Tất cả thiết bị phòng thí nghiệm phải được xử lý hết sức cẩn thận trong suốt thời gian diễn ra thí nghiệm.",
+    "core_vocabulary": [
+      {
+        "word": "duration",
+        "type": "n",
+        "meaning": "khoảng thời gian (tồn tại của một sự việc)"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_42",
+    "question": "The annual charity gala, which honors local philanthropists, will take place ______ Saturday, October 12th.",
+    "options": {
+      "A": "on",
+      "B": "in",
+      "C": "at",
+      "D": "for"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "Dùng 'on' cho thứ và ngày cụ thể.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Buổi dạ tiệc từ thiện hàng năm, vinh danh những nhà hảo tâm địa phương, sẽ diễn ra vào thứ Bảy, ngày 12 tháng 10.",
+    "core_vocabulary": [
+      {
+        "word": "philanthropist",
+        "type": "n",
+        "meaning": "nhà hảo tâm, người nhân đức"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_43",
+    "question": "______ the recent market fluctuations, the company's long-term investment portfolio remains remarkably stable.",
+    "options": {
+      "A": "Despite",
+      "B": "Because",
+      "C": "Although",
+      "D": "However"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Despite' chỉ sự nhượng bộ, theo sau là cụm danh từ.",
+    "explanation_grammar": "Giới từ chỉ sự nhượng bộ",
+    "translation": "Mặc dù thị trường biến động gần đây, danh mục đầu tư dài hạn của công ty vẫn duy trì sự ổn định đáng kể.",
+    "core_vocabulary": [
+      {
+        "word": "fluctuation",
+        "type": "n",
+        "meaning": "sự biến động"
+      },
+      {
+        "word": "stable",
+        "type": "adj",
+        "meaning": "ổn định"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_44",
+    "question": "Mr. Kim has been appointed as the new head of the research department ______ his extensive experience in the field.",
+    "options": {
+      "A": "for",
+      "B": "at",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'For' chỉ lý do hoặc mục đích (vì kinh nghiệm sâu rộng của mình).",
+    "explanation_grammar": "Giới từ chỉ nguyên nhân/lý do",
+    "translation": "Ông Kim đã được bổ nhiệm làm người đứng đầu mới của bộ phận nghiên cứu nhờ kinh nghiệm sâu rộng của ông trong lĩnh vực này.",
+    "core_vocabulary": [
+      {
+        "word": "appoint",
+        "type": "v",
+        "meaning": "bổ nhiệm"
+      },
+      {
+        "word": "extensive",
+        "type": "adj",
+        "meaning": "sâu rộng, bao quát"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_45",
+    "question": "Please ensure that all sensitive documents are stored ______ a locked filing cabinet before you leave.",
+    "options": {
+      "A": "inside",
+      "B": "among",
+      "C": "between",
+      "D": "along"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Inside' chỉ vị trí bên trong một không gian khép kín.",
+    "explanation_grammar": "Giới từ chỉ vị trí",
+    "translation": "Vui lòng đảm bảo rằng tất cả các tài liệu nhạy cảm được lưu trữ bên trong tủ hồ sơ có khóa trước khi bạn rời đi.",
+    "core_vocabulary": [
+      {
+        "word": "sensitive",
+        "type": "adj",
+        "meaning": "nhạy cảm, bảo mật"
+      },
+      {
+        "word": "cabinet",
+        "type": "n",
+        "meaning": "tủ hồ sơ/tủ đựng đồ"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_46",
+    "question": "The legal department is currently reviewing the specific terms and conditions ______ the new lease agreement.",
+    "options": {
+      "A": "of",
+      "B": "to",
+      "C": "at",
+      "D": "for"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Terms and conditions of something' là cụm từ chỉ các điều khoản của một thỏa thuận.",
+    "explanation_grammar": "Giới từ chỉ sự sở hữu/thuộc về",
+    "translation": "Bộ phận pháp lý hiện đang xem xét các điều khoản và điều kiện cụ thể của thỏa thuận thuê mới.",
+    "core_vocabulary": [
+      {
+        "word": "lease",
+        "type": "n/v",
+        "meaning": "hợp đồng thuê, cho thuê"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_47",
+    "question": "Members of the marketing team will travel to Paris ______ a series of intensive client meetings.",
+    "options": {
+      "A": "for",
+      "B": "at",
+      "C": "to",
+      "D": "on"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'For' chỉ mục đích của chuyến đi.",
+    "explanation_grammar": "Giới từ chỉ mục đích",
+    "translation": "Các thành viên của đội ngũ tiếp thị sẽ đến Paris để thực hiện một loạt các cuộc họp chuyên sâu với khách hàng.",
+    "core_vocabulary": [
+      {
+        "word": "intensive",
+        "type": "adj",
+        "meaning": "chuyên sâu, cường độ cao"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_48",
+    "question": "The city council is considering building a new public library ______ the historic district.",
+    "options": {
+      "A": "near",
+      "B": "between",
+      "C": "among",
+      "D": "throughout"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Near' chỉ sự gần gũi về khoảng cách địa lý.",
+    "explanation_grammar": "Giới từ chỉ vị trí",
+    "translation": "Hội đồng thành phố đang xem xét việc xây dựng một thư viện công cộng mới gần khu di tích lịch sử.",
+    "core_vocabulary": [
+      {
+        "word": "council",
+        "type": "n",
+        "meaning": "hội đồng"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_49",
+    "question": "______ the upcoming national holiday, the corporate headquarters will close early this Friday.",
+    "options": {
+      "A": "Because of",
+      "B": "Instead of",
+      "C": "As well as",
+      "D": "Together with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Because of' chỉ lý do của việc đóng cửa sớm.",
+    "explanation_grammar": "Giới từ chỉ nguyên nhân",
+    "translation": "Vì kỳ nghỉ lễ quốc gia sắp tới, trụ sở chính của tập đoàn sẽ đóng cửa sớm vào thứ Sáu này.",
+    "core_vocabulary": [
+      {
+        "word": "headquarters",
+        "type": "n",
+        "meaning": "trụ sở chính"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test10_50",
+    "question": "We are pleased to announce that Ms. Miller has been chosen ______ the prestigious Employee of the Year award.",
+    "options": {
+      "A": "for",
+      "B": "at",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Choose for something' chỉ mục tiêu được lựa chọn cho một phần thưởng.",
+    "explanation_grammar": "Giới từ chỉ mục đích",
+    "translation": "Chúng tôi vui mừng thông báo rằng bà Miller đã được chọn cho giải thưởng Nhân viên của năm đầy uy tín.",
+    "core_vocabulary": [
+      {
+        "word": "prestigious",
+        "type": "adj",
+        "meaning": "uy tín, danh giá"
+      }
+    ]
+  }
+]

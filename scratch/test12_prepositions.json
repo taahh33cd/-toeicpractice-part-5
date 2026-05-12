@@ -1,0 +1,557 @@
+[
+  {
+    "id": "q_preposition_test12_76",
+    "question": "Please submit your application for the management position ______ Friday at the latest.",
+    "options": {
+      "A": "by",
+      "B": "until",
+      "C": "during",
+      "D": "since"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'By' dùng để chỉ một thời hạn (deadline), nghĩa là 'muộn nhất là'.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Vui lòng nộp đơn ứng tuyển cho vị trí quản lý muộn nhất là vào thứ Sáu.",
+    "core_vocabulary": [
+      {
+        "word": "at the latest",
+        "type": "adv",
+        "meaning": "muộn nhất là"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_77",
+    "question": "The newly renovated cafeteria is located ______ the ground floor of the East Wing.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "to",
+      "D": "into"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "Dùng 'on' cho các tầng của tòa nhà.",
+    "explanation_grammar": "Giới từ chỉ vị trí",
+    "translation": "Căng tin mới được cải tạo nằm ở tầng trệt của Cánh Đông.",
+    "core_vocabulary": [
+      {
+        "word": "renovated",
+        "type": "adj",
+        "meaning": "được cải tạo, làm mới"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_78",
+    "question": "All employees are eligible for a 20 percent discount ______ any purchase made at our partner retail stores.",
+    "options": {
+      "A": "on",
+      "B": "to",
+      "C": "at",
+      "D": "for"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Discount on something' là cụm từ chỉ sự giảm giá cho một món hàng hoặc dịch vụ.",
+    "explanation_grammar": "Giới từ đi kèm danh từ",
+    "translation": "Tất cả nhân viên đều đủ điều kiện được giảm giá 20% cho bất kỳ giao dịch mua hàng nào tại các cửa hàng bán lẻ đối tác của chúng tôi.",
+    "core_vocabulary": [
+      {
+        "word": "eligible",
+        "type": "adj",
+        "meaning": "đủ điều kiện, thích hợp"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_79",
+    "question": "The legal team is currently working ______ a new set of guidelines for the remote work policy.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Work on something' có nghĩa là đang thực hiện hoặc tập trung vào một dự án/công việc nào đó.",
+    "explanation_grammar": "Giới từ đi kèm động từ",
+    "translation": "Đội ngũ pháp lý hiện đang xây dựng một bộ hướng dẫn mới cho chính sách làm việc từ xa.",
+    "core_vocabulary": [
+      {
+        "word": "guideline",
+        "type": "n",
+        "meaning": "hướng dẫn, nguyên tắc chỉ đạo"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_80",
+    "question": "Mr. Wallace was appointed to the board of directors ______ his extensive background in corporate finance.",
+    "options": {
+      "A": "because of",
+      "B": "instead of",
+      "C": "as well as",
+      "D": "along with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Because of' chỉ nguyên nhân dẫn đến việc được bổ nhiệm.",
+    "explanation_grammar": "Giới từ chỉ nguyên nhân",
+    "translation": "Ông Wallace đã được bổ nhiệm vào ban giám đốc vì kinh nghiệm sâu rộng của ông trong lĩnh vực tài chính doanh nghiệp.",
+    "core_vocabulary": [
+      {
+        "word": "appoint",
+        "type": "v",
+        "meaning": "bổ nhiệm"
+      },
+      {
+        "word": "background",
+        "type": "n",
+        "meaning": "nền tảng, kinh nghiệm"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_81",
+    "question": "Most office supplies can be found in the storage room ______ the hallway from the breakroom.",
+    "options": {
+      "A": "across",
+      "B": "between",
+      "C": "among",
+      "D": "throughout"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Across' dùng để chỉ vị trí ở phía đối diện hoặc băng qua (băng qua hành lang).",
+    "explanation_grammar": "Giới từ chỉ vị trí",
+    "translation": "Hầu hết văn phòng phẩm có thể được tìm thấy trong phòng kho đối diện hành lang từ phòng nghỉ.",
+    "core_vocabulary": [
+      {
+        "word": "supplies",
+        "type": "n",
+        "meaning": "vật dụng, đồ dùng"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_82",
+    "question": "The CEO will give a brief presentation ______ the company’s future goals during the annual meeting.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Presentation on something' có nghĩa là bài thuyết trình về một chủ đề nào đó.",
+    "explanation_grammar": "Giới từ đi kèm danh từ",
+    "translation": "CEO sẽ có một bài thuyết trình ngắn về các mục tiêu tương lai của công ty trong cuộc họp thường niên.",
+    "core_vocabulary": [
+      {
+        "word": "annual",
+        "type": "adj",
+        "meaning": "hàng năm"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_83",
+    "question": "______ the power failure, the IT department managed to save all the data on the primary server.",
+    "options": {
+      "A": "Despite",
+      "B": "Because",
+      "C": "Although",
+      "D": "However"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Despite' dùng để chỉ sự nhượng bộ (bất chấp), theo sau là một cụm danh từ.",
+    "explanation_grammar": "Giới từ chỉ sự nhượng bộ",
+    "translation": "Bất chấp sự cố mất điện, bộ phận CNTT vẫn xoay sở để lưu lại toàn bộ dữ liệu trên máy chủ chính.",
+    "core_vocabulary": [
+      {
+        "word": "manage to",
+        "type": "v",
+        "meaning": "xoay sở để, thành công trong việc"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_84",
+    "question": "The pharmacy is open every day of the week ______ Sunday afternoons.",
+    "options": {
+      "A": "except",
+      "B": "until",
+      "C": "without",
+      "D": "besides"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Except' dùng để chỉ sự ngoại trừ.",
+    "explanation_grammar": "Giới từ chỉ sự ngoại trừ",
+    "translation": "Hiệu thuốc mở cửa tất cả các ngày trong tuần, ngoại trừ chiều Chủ nhật.",
+    "core_vocabulary": [
+      {
+        "word": "pharmacy",
+        "type": "n",
+        "meaning": "hiệu thuốc"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_85",
+    "question": "Please ensure that all confidential files are kept ______ the secure cabinets when not in use.",
+    "options": {
+      "A": "within",
+      "B": "during",
+      "C": "between",
+      "D": "among"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Within' ở đây dùng để chỉ vị trí bên trong (trong các tủ an toàn).",
+    "explanation_grammar": "Giới từ chỉ vị trí",
+    "translation": "Vui lòng đảm bảo rằng tất cả các tập tin bảo mật được giữ bên trong các tủ an toàn khi không sử dụng.",
+    "core_vocabulary": [
+      {
+        "word": "confidential",
+        "type": "adj",
+        "meaning": "bảo mật, tuyệt mật"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_86",
+    "question": "Ms. Sato has been working as a graphic designer for this agency ______ she graduated from college.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "during",
+      "D": "until"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Since' chỉ mốc thời gian bắt đầu một hành động kéo dài đến hiện tại.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Cô Sato đã làm việc với tư cách là nhà thiết kế đồ họa cho đại lý này kể từ khi cô tốt nghiệp đại học.",
+    "core_vocabulary": [
+      {
+        "word": "graduate",
+        "type": "v",
+        "meaning": "tốt nghiệp"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_87",
+    "question": "The guest lecturer will be available to answer questions ______ the end of the seminar.",
+    "options": {
+      "A": "at",
+      "B": "on",
+      "C": "to",
+      "D": "from"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'At the end of something' là cụm từ cố định chỉ thời điểm kết thúc một sự việc.",
+    "explanation_grammar": "Cụm giới từ chỉ thời gian",
+    "translation": "Giảng viên khách mời sẽ sẵn sàng trả lời các câu hỏi vào cuối buổi hội thảo.",
+    "core_vocabulary": [
+      {
+        "word": "lecturer",
+        "type": "n",
+        "meaning": "giảng viên"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_88",
+    "question": "There has been a significant increase in demand ______ eco-friendly office products this year.",
+    "options": {
+      "A": "for",
+      "B": "at",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Demand for something' là cụm từ cố định chỉ nhu cầu đối với cái gì đó.",
+    "explanation_grammar": "Giới từ đi kèm danh từ",
+    "translation": "Đã có sự gia tăng đáng kể về nhu cầu đối với các sản phẩm văn phòng thân thiện với môi trường trong năm nay.",
+    "core_vocabulary": [
+      {
+        "word": "eco-friendly",
+        "type": "adj",
+        "meaning": "thân thiện với môi trường"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_89",
+    "question": "The maintenance crew will be working on the air conditioning system ______ the entire weekend.",
+    "options": {
+      "A": "throughout",
+      "B": "between",
+      "C": "along",
+      "D": "across"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Throughout' dùng để chỉ sự xuyên suốt một khoảng thời gian.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Đội ngũ bảo trì sẽ làm việc với hệ thống điều hòa không khí trong suốt cả cuối tuần.",
+    "core_vocabulary": [
+      {
+        "word": "maintenance",
+        "type": "n",
+        "meaning": "sự bảo trì"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_90",
+    "question": "All staff members must attend the safety training session ______ of their current position or seniority.",
+    "options": {
+      "A": "regardless",
+      "B": "instead",
+      "C": "because",
+      "D": "outside"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Regardless of' là cụm giới từ có nghĩa là 'bất kể', 'không phân biệt'.",
+    "explanation_grammar": "Cụm giới từ cố định",
+    "translation": "Tất cả các nhân viên phải tham dự buổi đào tạo an toàn bất kể vị trí hiện tại hay thâm niên của họ.",
+    "core_vocabulary": [
+      {
+        "word": "seniority",
+        "type": "n",
+        "meaning": "thâm niên"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_91",
+    "question": "The company’s headquarters is located ______ walking distance of several public transportation hubs.",
+    "options": {
+      "A": "within",
+      "B": "at",
+      "C": "on",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Within walking distance' là cụm từ cố định có nghĩa là 'trong khoảng cách có thể đi bộ'.",
+    "explanation_grammar": "Cụm giới từ chỉ vị trí",
+    "translation": "Trụ sở chính của công ty nằm trong khoảng cách có thể đi bộ đến một số trung tâm giao thông công cộng.",
+    "core_vocabulary": [
+      {
+        "word": "headquarters",
+        "type": "n",
+        "meaning": "trụ sở chính"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_92",
+    "question": "Professor Jenkins is widely known ______ his research on consumer behavior in digital markets.",
+    "options": {
+      "A": "for",
+      "B": "at",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Be known for something' nghĩa là nổi tiếng vì cái gì đó.",
+    "explanation_grammar": "Giới từ đi kèm tính từ/phân từ",
+    "translation": "Giáo sư Jenkins được biết đến rộng rãi nhờ nghiên cứu của ông về hành vi người tiêu dùng trong thị trường kỹ thuật số.",
+    "core_vocabulary": [
+      {
+        "word": "widely",
+        "type": "adv",
+        "meaning": "rộng rãi"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_93",
+    "question": "Guests should check out of their rooms ______ 11:00 A.M. to avoid being charged for an extra day.",
+    "options": {
+      "A": "before",
+      "B": "during",
+      "C": "since",
+      "D": "until"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Before' chỉ thời điểm hành động cần thực hiện trước đó (trước 11 giờ sáng).",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Khách nên trả phòng trước 11 giờ sáng để tránh bị tính thêm phí một ngày.",
+    "core_vocabulary": [
+      {
+        "word": "check out",
+        "type": "v",
+        "meaning": "làm thủ tục trả phòng"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_94",
+    "question": "The marketing department will be relocated to a larger office space ______ the tenth floor.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "to",
+      "D": "into"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "Dùng 'on' cho các tầng của tòa nhà.",
+    "explanation_grammar": "Giới từ chỉ vị trí",
+    "translation": "Bộ phận tiếp thị sẽ được chuyển đến một không gian văn phòng rộng hơn trên tầng mười.",
+    "core_vocabulary": [
+      {
+        "word": "relocate",
+        "type": "v",
+        "meaning": "chuyển chỗ, di dời"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_95",
+    "question": "Many employees have expressed their concerns ______ the proposed changes to the pension plan.",
+    "options": {
+      "A": "about",
+      "B": "to",
+      "C": "at",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Concern about something' là cụm từ chỉ sự lo ngại về một vấn đề nào đó.",
+    "explanation_grammar": "Giới từ đi kèm danh từ",
+    "translation": "Nhiều nhân viên đã bày tỏ sự lo ngại của họ về những thay đổi đề xuất đối với kế hoạch lương hưu.",
+    "core_vocabulary": [
+      {
+        "word": "concern",
+        "type": "n",
+        "meaning": "sự lo ngại, quan tâm"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_96",
+    "question": "The bridge near the office will be closed for repairs ______ the months of June and July.",
+    "options": {
+      "A": "during",
+      "B": "while",
+      "C": "between",
+      "D": "since"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'During' chỉ một khoảng thời gian diễn ra sự việc (trong suốt các tháng...).",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Cây cầu gần văn phòng sẽ bị đóng cửa để sửa chữa trong suốt các tháng Sáu và tháng Bảy.",
+    "core_vocabulary": [
+      {
+        "word": "repair",
+        "type": "n",
+        "meaning": "sự sửa chữa"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_97",
+    "question": "New software updates are typically released ______ the first Monday of every month.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "to",
+      "D": "for"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "Dùng 'on' cho thứ trong tuần.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Các bản cập nhật phần mềm mới thường được phát hành vào thứ Hai đầu tiên của mỗi tháng.",
+    "core_vocabulary": [
+      {
+        "word": "typically",
+        "type": "adv",
+        "meaning": "thông thường, điển hình"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_98",
+    "question": "______ the high volume of calls, our customer service representatives may take longer than usual to respond.",
+    "options": {
+      "A": "Due to",
+      "B": "Although",
+      "C": "Even though",
+      "D": "Despite"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Due to' chỉ nguyên nhân dẫn đến sự chậm trễ trong phản hồi.",
+    "explanation_grammar": "Giới từ chỉ nguyên nhân",
+    "translation": "Do số lượng cuộc gọi lớn, các đại diện dịch vụ khách hàng của chúng tôi có thể mất nhiều thời gian hơn bình thường để trả lời.",
+    "core_vocabulary": [
+      {
+        "word": "volume",
+        "type": "n",
+        "meaning": "khối lượng, số lượng"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_99",
+    "question": "The accounting department is responsible ______ managing the annual budget for all branches.",
+    "options": {
+      "A": "for",
+      "B": "at",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Responsible for something' nghĩa là chịu trách nhiệm về việc gì đó.",
+    "explanation_grammar": "Giới từ đi kèm tính từ",
+    "translation": "Bộ phận kế toán chịu trách nhiệm quản lý ngân sách hàng năm cho tất cả các chi nhánh.",
+    "core_vocabulary": [
+      {
+        "word": "responsible",
+        "type": "adj",
+        "meaning": "chịu trách nhiệm"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test12_100",
+    "question": "Mr. Kim decided to postpone the client meeting ______ next Tuesday morning.",
+    "options": {
+      "A": "until",
+      "B": "by",
+      "C": "for",
+      "D": "during"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Until' chỉ thời điểm mà một sự kiện được lùi lại cho tới lúc đó.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Ông Kim đã quyết định hoãn cuộc họp khách hàng cho đến sáng thứ Ba tới.",
+    "core_vocabulary": [
+      {
+        "word": "postpone",
+        "type": "v",
+        "meaning": "trì hoãn"
+      }
+    ]
+  }
+]

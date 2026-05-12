@@ -1,0 +1,632 @@
+[
+  {
+    "id": "q_preposition_test9_01",
+    "question": "Mr. Henderson must complete the final draft of the quarterly budget report ______ Friday afternoon.",
+    "options": {
+      "A": "By",
+      "B": "Until",
+      "C": "During",
+      "D": "After"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'By' dùng để chỉ một thời hạn (deadline), nghĩa là 'trước hoặc tại một thời điểm nào đó'. 'Until' chỉ sự kéo dài hành động cho tới một thời điểm.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Ông Henderson phải hoàn thành bản thảo cuối cùng của báo cáo ngân sách hàng quý trước chiều thứ Sáu.",
+    "core_vocabulary": [
+      {
+        "word": "quarterly",
+        "type": "adj/adv",
+        "meaning": "hàng quý"
+      },
+      {
+        "word": "draft",
+        "type": "n",
+        "meaning": "bản thảo"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_02",
+    "question": "The international marketing seminar will be held ______ the Grand Hall of the Clarion Hotel.",
+    "options": {
+      "A": "at",
+      "B": "on",
+      "C": "to",
+      "D": "from"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'At' được dùng cho các địa điểm cụ thể hoặc các sự kiện tại một địa điểm.",
+    "explanation_grammar": "Giới từ chỉ địa điểm",
+    "translation": "Hội thảo tiếp thị quốc tế sẽ được tổ chức tại Đại sảnh của Khách sạn Clarion.",
+    "core_vocabulary": [
+      {
+        "word": "seminar",
+        "type": "n",
+        "meaning": "hội thảo"
+      },
+      {
+        "word": "hold",
+        "type": "v",
+        "meaning": "tổ chức"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_03",
+    "question": "______ the sudden power outage, all computers in the IT department were shut down immediately.",
+    "options": {
+      "A": "Because of",
+      "B": "Although",
+      "C": "Instead of",
+      "D": "As well as"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Because of' là giới từ chỉ nguyên nhân, theo sau là một cụm danh từ. 'Although' theo sau là một mệnh đề.",
+    "explanation_grammar": "Giới từ chỉ nguyên nhân",
+    "translation": "Vì sự cố mất điện đột ngột, tất cả máy tính trong bộ phận CNTT đã bị tắt ngay lập tức.",
+    "core_vocabulary": [
+      {
+        "word": "outage",
+        "type": "n",
+        "meaning": "sự ngừng hoạt động (điện, nước...)"
+      },
+      {
+        "word": "immediately",
+        "type": "adv",
+        "meaning": "ngay lập tức"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_04",
+    "question": "Ms. Tanaka has worked as a senior consultant at Zenith Solutions ______ over ten years.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "during",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'For' dùng để chỉ một khoảng thời gian. 'Since' dùng để chỉ một mốc thời gian.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Bà Tanaka đã làm việc với tư cách là cố vấn cao cấp tại Zenith Solutions trong hơn mười năm.",
+    "core_vocabulary": [
+      {
+        "word": "senior",
+        "type": "adj",
+        "meaning": "cao cấp, có thâm niên"
+      },
+      {
+        "word": "consultant",
+        "type": "n",
+        "meaning": "cố vấn"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_05",
+    "question": "The medical clinic is open every day from 9:00 A.M. to 5:00 P.M. ______ on public holidays.",
+    "options": {
+      "A": "except",
+      "B": "until",
+      "C": "without",
+      "D": "besides"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Except' dùng để chỉ sự ngoại trừ.",
+    "explanation_grammar": "Giới từ chỉ sự ngoại trừ",
+    "translation": "Phòng khám y tế mở cửa hàng ngày từ 9 giờ sáng đến 5 giờ chiều, ngoại trừ các ngày lễ công cộng.",
+    "core_vocabulary": [
+      {
+        "word": "public holiday",
+        "type": "n",
+        "meaning": "ngày lễ công cộng"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_06",
+    "question": "All employees are required to sign the confidentiality agreement ______ starting their first day of work.",
+    "options": {
+      "A": "prior to",
+      "B": "according to",
+      "C": "in front of",
+      "D": "instead of"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Prior to' đồng nghĩa với 'before', nghĩa là 'trước khi'.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Tất cả nhân viên được yêu cầu ký thỏa thuận bảo mật trước khi bắt đầu ngày làm việc đầu tiên của họ.",
+    "core_vocabulary": [
+      {
+        "word": "confidentiality",
+        "type": "n",
+        "meaning": "sự bảo mật"
+      },
+      {
+        "word": "agreement",
+        "type": "n",
+        "meaning": "thỏa thuận, hợp đồng"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_07",
+    "question": "The company’s new security policy will be implemented ______ all branches across Europe.",
+    "options": {
+      "A": "throughout",
+      "B": "between",
+      "C": "along",
+      "D": "across"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Throughout' dùng để chỉ sự bao phủ toàn bộ một không gian hoặc khu vực.",
+    "explanation_grammar": "Giới từ chỉ vị trí/không gian",
+    "translation": "Chính sách bảo mật mới của công ty sẽ được triển khai trên toàn bộ các chi nhánh khắp châu Âu.",
+    "core_vocabulary": [
+      {
+        "word": "implement",
+        "type": "v",
+        "meaning": "triển khai, thực hiện"
+      },
+      {
+        "word": "branch",
+        "type": "n",
+        "meaning": "chi nhánh"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_08",
+    "question": "The renovation of the employee lounge is expected to continue ______ the end of the month.",
+    "options": {
+      "A": "until",
+      "B": "by",
+      "C": "at",
+      "D": "during"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Until' chỉ sự kéo dài của một hành động (continue) cho tới một thời điểm trong tương lai.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Việc cải tạo phòng nghỉ của nhân viên dự kiến sẽ tiếp tục cho đến cuối tháng.",
+    "core_vocabulary": [
+      {
+        "word": "renovation",
+        "type": "n",
+        "meaning": "sự cải tạo, tu sửa"
+      },
+      {
+        "word": "lounge",
+        "type": "n",
+        "meaning": "phòng chờ, phòng nghỉ"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_09",
+    "question": "Mr. Patel was recognized with a special award ______ his exceptional leadership during the merger.",
+    "options": {
+      "A": "for",
+      "B": "about",
+      "C": "against",
+      "D": "within"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'For' ở đây dùng để chỉ lý do được nhận phần thưởng.",
+    "explanation_grammar": "Giới từ chỉ mục đích/nguyên nhân",
+    "translation": "Ông Patel đã được công nhận với một giải thưởng đặc biệt vì sự lãnh đạo xuất sắc của ông trong quá trình sáp nhập.",
+    "core_vocabulary": [
+      {
+        "word": "exceptional",
+        "type": "adj",
+        "meaning": "xuất sắc, đặc biệt"
+      },
+      {
+        "word": "merger",
+        "type": "n",
+        "meaning": "sự sáp nhập"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_10",
+    "question": "Guests are kindly asked to keep their mobile phones on silent mode ______ the keynote presentation.",
+    "options": {
+      "A": "during",
+      "B": "while",
+      "C": "between",
+      "D": "from"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'During' là giới từ chỉ một khoảng thời gian, theo sau là danh từ. 'While' là liên từ, theo sau là một mệnh đề.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Khách được yêu cầu để điện thoại ở chế độ im lặng trong suốt bài thuyết trình chính.",
+    "core_vocabulary": [
+      {
+        "word": "keynote",
+        "type": "adj",
+        "meaning": "chủ đạo, chính"
+      },
+      {
+        "word": "presentation",
+        "type": "n",
+        "meaning": "bài thuyết trình"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_11",
+    "question": "Detailed information regarding the new health insurance plan is available ______ the company’s internal website.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "throughout",
+      "D": "into"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "Dùng 'on' cho các bề mặt, phương tiện truyền thông hoặc website.",
+    "explanation_grammar": "Giới từ chỉ vị trí",
+    "translation": "Thông tin chi tiết về kế hoạch bảo hiểm y tế mới có sẵn trên trang web nội bộ của công ty.",
+    "core_vocabulary": [
+      {
+        "word": "regarding",
+        "type": "prep",
+        "meaning": "về việc, liên quan đến"
+      },
+      {
+        "word": "internal",
+        "type": "adj",
+        "meaning": "nội bộ"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_12",
+    "question": "Please ensure that all travel reimbursement requests are submitted ______ thirty days of the purchase.",
+    "options": {
+      "A": "within",
+      "B": "during",
+      "C": "for",
+      "D": "until"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Within' dùng để chỉ một khoảng thời gian không quá một mốc nào đó (trong vòng).",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Vui lòng đảm bảo rằng tất cả các yêu cầu hoàn trả chi phí đi lại được nộp trong vòng 30 ngày kể từ ngày mua.",
+    "core_vocabulary": [
+      {
+        "word": "reimbursement",
+        "type": "n",
+        "meaning": "sự hoàn tiền, bồi hoàn"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_13",
+    "question": "______ the heavy rain, the outdoor corporate team-building event was considered a great success.",
+    "options": {
+      "A": "Despite",
+      "B": "Because",
+      "C": "Although",
+      "D": "However"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Despite' là giới từ chỉ sự nhượng bộ (mặc dù), theo sau là danh từ. 'Although' là liên từ, theo sau là mệnh đề.",
+    "explanation_grammar": "Giới từ chỉ sự nhượng bộ",
+    "translation": "Mặc dù mưa lớn, sự kiện xây dựng đội ngũ ngoài trời của công ty vẫn được coi là một thành công lớn.",
+    "core_vocabulary": [
+      {
+        "word": "corporate",
+        "type": "adj",
+        "meaning": "(thuộc) tập đoàn, công ty"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_14",
+    "question": "Dr. Arisawa will review the laboratory results ______ meeting with the patient tomorrow morning.",
+    "options": {
+      "A": "before",
+      "B": "during",
+      "C": "since",
+      "D": "over"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Before' chỉ thứ tự thời gian (trước khi).",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Bác sĩ Arisawa sẽ xem xét kết quả xét nghiệm trước khi gặp bệnh nhân vào sáng mai.",
+    "core_vocabulary": [
+      {
+        "word": "laboratory",
+        "type": "n",
+        "meaning": "phòng thí nghiệm"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_15",
+    "question": "The new branch office is located conveniently ______ the train station and the city park.",
+    "options": {
+      "A": "between",
+      "B": "among",
+      "C": "along",
+      "D": "through"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Between' dùng cho hai đối tượng. 'Among' dùng cho ba đối tượng trở lên.",
+    "explanation_grammar": "Giới từ chỉ vị trí",
+    "translation": "Văn phòng chi nhánh mới nằm ở vị trí thuận tiện giữa ga tàu và công viên thành phố.",
+    "core_vocabulary": [
+      {
+        "word": "conveniently",
+        "type": "adv",
+        "meaning": "một cách thuận tiện"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_16",
+    "question": "Ms. Dubois decided to pursue an MBA degree ______ working in the finance sector for five years.",
+    "options": {
+      "A": "after",
+      "B": "before",
+      "C": "while",
+      "D": "during"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'After' chỉ trình tự thời gian (sau khi).",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Cô Dubois đã quyết định theo đuổi bằng MBA sau khi làm việc trong lĩnh vực tài chính được 5 năm.",
+    "core_vocabulary": [
+      {
+        "word": "pursue",
+        "type": "v",
+        "meaning": "theo đuổi"
+      },
+      {
+        "word": "sector",
+        "type": "n",
+        "meaning": "lĩnh vực, mảng"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_17",
+    "question": "The IT department will be monitoring the network traffic ______ the entire maintenance weekend.",
+    "options": {
+      "A": "throughout",
+      "B": "between",
+      "C": "among",
+      "D": "along"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Throughout' chỉ sự xuyên suốt một khoảng thời gian.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Bộ phận CNTT sẽ giám sát lưu lượng mạng trong suốt toàn bộ cuối tuần bảo trì.",
+    "core_vocabulary": [
+      {
+        "word": "monitor",
+        "type": "v",
+        "meaning": "giám sát"
+      },
+      {
+        "word": "maintenance",
+        "type": "n",
+        "meaning": "sự bảo trì"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_18",
+    "question": "Ms. Garcia is currently attending a leadership workshop ______ the University of Business Management.",
+    "options": {
+      "A": "at",
+      "B": "on",
+      "C": "to",
+      "D": "into"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'At' dùng cho các địa điểm là các tổ chức hoặc cơ sở giáo dục.",
+    "explanation_grammar": "Giới từ chỉ địa điểm",
+    "translation": "Bà Garcia hiện đang tham dự một buổi hội thảo về lãnh đạo tại Đại học Quản trị Kinh doanh.",
+    "core_vocabulary": [
+      {
+        "word": "currently",
+        "type": "adv",
+        "meaning": "hiện tại"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_19",
+    "question": "The stock price of Nexa Corporation has been rising steadily ______ the new CEO took office.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "during",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Since' chỉ mốc thời gian bắt đầu một hành động kéo dài đến hiện tại (thường dùng với thì hiện tại hoàn thành).",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Giá cổ phiếu của Tập đoàn Nexa đã tăng đều đặn kể từ khi CEO mới nhậm chức.",
+    "core_vocabulary": [
+      {
+        "word": "steadily",
+        "type": "adv",
+        "meaning": "một cách đều đặn"
+      },
+      {
+        "word": "take office",
+        "type": "v",
+        "meaning": "nhậm chức"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_20",
+    "question": "The morning flight to Singapore was delayed ______ a technical issue with the aircraft's engine.",
+    "options": {
+      "A": "due to",
+      "B": "because",
+      "C": "despite",
+      "D": "instead of"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Due to' là giới từ chỉ nguyên nhân, theo sau là danh từ.",
+    "explanation_grammar": "Giới từ chỉ nguyên nhân",
+    "translation": "Chuyến bay sáng đến Singapore đã bị hoãn do sự cố kỹ thuật với động cơ máy bay.",
+    "core_vocabulary": [
+      {
+        "word": "aircraft",
+        "type": "n",
+        "meaning": "máy bay"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_21",
+    "question": "The marketing team has developed several effective digital strategies ______ the past few months.",
+    "options": {
+      "A": "over",
+      "B": "during",
+      "C": "by",
+      "D": "at"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Over the past/last + thời gian' là cụm từ cố định chỉ một khoảng thời gian kéo dài đến hiện tại.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Đội ngũ tiếp thị đã phát triển một số chiến lược kỹ thuật số hiệu quả trong vài tháng qua.",
+    "core_vocabulary": [
+      {
+        "word": "strategy",
+        "type": "n",
+        "meaning": "chiến lược"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_22",
+    "question": "There is a growing concern ______ the staff about the proposed changes to the pension plan.",
+    "options": {
+      "A": "among",
+      "B": "between",
+      "C": "throughout",
+      "D": "across"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Among' chỉ sự tồn tại hoặc xảy ra trong một nhóm người (từ 3 trở lên).",
+    "explanation_grammar": "Giới từ chỉ vị trí/đối tượng",
+    "translation": "Ngày càng có nhiều lo ngại trong nhân viên về những thay đổi đề xuất đối với kế hoạch lương hưu.",
+    "core_vocabulary": [
+      {
+        "word": "pension",
+        "type": "n",
+        "meaning": "lương hưu"
+      },
+      {
+        "word": "concern",
+        "type": "n",
+        "meaning": "sự lo ngại"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_23",
+    "question": "Please remember to turn off all lights and electronic devices ______ leaving the office each evening.",
+    "options": {
+      "A": "before",
+      "B": "after",
+      "C": "during",
+      "D": "until"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Before' chỉ trình tự thời gian (trước khi).",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Vui lòng nhớ tắt tất cả đèn và thiết bị điện tử trước khi rời văn phòng mỗi tối.",
+    "core_vocabulary": [
+      {
+        "word": "device",
+        "type": "n",
+        "meaning": "thiết bị"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_24",
+    "question": "We decided to use local suppliers ______ importing materials from overseas to reduce overall costs.",
+    "options": {
+      "A": "instead of",
+      "B": "together with",
+      "C": "according to",
+      "D": "as well as"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Instead of' chỉ sự thay thế (thay vì).",
+    "explanation_grammar": "Giới từ chỉ sự lựa chọn",
+    "translation": "Chúng tôi đã quyết định sử dụng các nhà cung cấp địa phương thay vì nhập khẩu vật liệu từ nước ngoài để giảm chi phí tổng thể.",
+    "core_vocabulary": [
+      {
+        "word": "supplier",
+        "type": "n",
+        "meaning": "nhà cung cấp"
+      },
+      {
+        "word": "overseas",
+        "type": "adv/adj",
+        "meaning": "nước ngoài, hải ngoại"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test9_25",
+    "question": "Professor Nguyen will deliver the keynote speech ______ the upcoming technology summit in Seoul.",
+    "options": {
+      "A": "at",
+      "B": "on",
+      "C": "with",
+      "D": "from"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'At' dùng cho các sự kiện hoặc hội nghị.",
+    "explanation_grammar": "Giới từ chỉ địa điểm/sự kiện",
+    "translation": "Giáo sư Nguyễn sẽ đọc bài diễn văn chính tại hội nghị thượng đỉnh công nghệ sắp tới ở Seoul.",
+    "core_vocabulary": [
+      {
+        "word": "upcoming",
+        "type": "adj",
+        "meaning": "sắp tới"
+      },
+      {
+        "word": "summit",
+        "type": "n",
+        "meaning": "hội nghị thượng đỉnh"
+      }
+    ]
+  }
+]

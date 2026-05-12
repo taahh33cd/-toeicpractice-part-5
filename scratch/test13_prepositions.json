@@ -1,0 +1,592 @@
+[
+  {
+    "id": "q_preposition_test13_101",
+    "question": "Mr. Arisawa will be moving his personal belongings ______ his new office on the fifth floor this afternoon.",
+    "options": {
+      "A": "to",
+      "B": "at",
+      "C": "on",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Move to' chỉ sự di chuyển hướng đến một địa điểm.",
+    "explanation_grammar": "Giới từ chỉ phương hướng",
+    "translation": "Ông Arisawa sẽ chuyển đồ đạc cá nhân của mình đến văn phòng mới ở tầng 5 vào chiều nay.",
+    "core_vocabulary": [
+      {
+        "word": "belongings",
+        "type": "n",
+        "meaning": "đồ đạc cá nhân"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_102",
+    "question": "Employees are reminded to submit all original receipts ______ ten business days of their return from a business trip.",
+    "options": {
+      "A": "within",
+      "B": "during",
+      "C": "for",
+      "D": "until"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Within' dùng để chỉ một khoảng thời gian không quá một mốc nào đó (trong vòng).",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Nhân viên được nhắc nhở nộp tất cả các hóa đơn gốc trong vòng mười ngày làm việc kể từ khi trở về sau chuyến công tác.",
+    "core_vocabulary": [
+      {
+        "word": "business trip",
+        "type": "n",
+        "meaning": "chuyến công tác"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_103",
+    "question": "Professor Henderson will be giving a lecture ______ the impact of artificial intelligence on modern accounting practices.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Lecture on something' nghĩa là bài giảng về một chủ đề nào đó.",
+    "explanation_grammar": "Giới từ đi kèm danh từ",
+    "translation": "Giáo sư Henderson sẽ thực hiện một bài giảng về tác động của trí tuệ nhân tạo đối với các thực hành kế toán hiện đại.",
+    "core_vocabulary": [
+      {
+        "word": "impact",
+        "type": "n",
+        "meaning": "tác động, ảnh hưởng"
+      },
+      {
+        "word": "artificial intelligence",
+        "type": "n",
+        "meaning": "trí tuệ nhân tạo"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_104",
+    "question": "The recruitment committee has expressed a strong interest ______ candidates who possess multilingual skills.",
+    "options": {
+      "A": "in",
+      "B": "at",
+      "C": "on",
+      "D": "to"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Interest in something' là cụm từ chỉ sự quan tâm đến cái gì đó.",
+    "explanation_grammar": "Giới từ đi kèm danh từ",
+    "translation": "Ủy ban tuyển dụng đã bày tỏ sự quan tâm mạnh mẽ đến các ứng viên sở hữu kỹ năng đa ngôn ngữ.",
+    "core_vocabulary": [
+      {
+        "word": "recruitment",
+        "type": "n",
+        "meaning": "sự tuyển dụng"
+      },
+      {
+        "word": "multilingual",
+        "type": "adj",
+        "meaning": "đa ngôn ngữ"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_105",
+    "question": "The main entrance to the corporate headquarters will be closed ______ maintenance from Friday evening until Monday morning.",
+    "options": {
+      "A": "for",
+      "B": "at",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Closed for something' chỉ lý do của việc đóng cửa.",
+    "explanation_grammar": "Giới từ chỉ mục đích/lý do",
+    "translation": "Lối vào chính của trụ sở tập đoàn sẽ bị đóng để bảo trì từ tối thứ Sáu cho đến sáng thứ Hai.",
+    "core_vocabulary": [
+      {
+        "word": "maintenance",
+        "type": "n",
+        "meaning": "sự bảo trì"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_106",
+    "question": "Ms. Sato is responsible for all administrative tasks ______ the preparation of the monthly financial statements.",
+    "options": {
+      "A": "besides",
+      "B": "between",
+      "C": "among",
+      "D": "throughout"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Besides' có nghĩa là 'ngoài ra', 'bên cạnh việc gì đó'.",
+    "explanation_grammar": "Giới từ chỉ sự bổ sung",
+    "translation": "Bà Sato chịu trách nhiệm cho tất cả các nhiệm vụ hành chính bên cạnh việc chuẩn bị các báo cáo tài chính hàng tháng.",
+    "core_vocabulary": [
+      {
+        "word": "administrative",
+        "type": "adj",
+        "meaning": "thuộc về hành chính"
+      },
+      {
+        "word": "financial statement",
+        "type": "n",
+        "meaning": "báo cáo tài chính"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_107",
+    "question": "The new software developer will be working ______ the senior engineering team to update the company’s mobile app.",
+    "options": {
+      "A": "alongside",
+      "B": "across",
+      "C": "between",
+      "D": "among"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Alongside' nghĩa là làm việc cùng với hoặc sát cánh cùng ai đó.",
+    "explanation_grammar": "Giới từ chỉ sự đồng hành",
+    "translation": "Nhà phát triển phần mềm mới sẽ làm việc cùng với đội ngũ kỹ sư cao cấp để cập nhật ứng dụng di động của công ty.",
+    "core_vocabulary": [
+      {
+        "word": "alongside",
+        "type": "prep",
+        "meaning": "sát cánh, cùng với"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_108",
+    "question": "Please contact the human resources department if you have any questions ______ the updated vacation policy.",
+    "options": {
+      "A": "concerning",
+      "B": "between",
+      "C": "among",
+      "D": "across"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Concerning' đóng vai trò giới từ có nghĩa là 'về việc', 'liên quan đến'.",
+    "explanation_grammar": "Giới từ chỉ chủ đề",
+    "translation": "Vui lòng liên hệ với bộ phận nhân sự nếu bạn có bất kỳ câu hỏi nào liên quan đến chính sách nghỉ phép đã được cập nhật.",
+    "core_vocabulary": [
+      {
+        "word": "concerning",
+        "type": "prep",
+        "meaning": "liên quan đến, về việc"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_109",
+    "question": "The city’s annual business gala has been held at the Plaza Hotel ______ the last fifteen years.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "during",
+      "D": "at"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'For' dùng để chỉ khoảng thời gian kéo dài (trong 15 năm qua).",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Buổi dạ tiệc kinh doanh hàng năm của thành phố đã được tổ chức tại Khách sạn Plaza trong mười lăm năm qua.",
+    "core_vocabulary": [
+      {
+        "word": "annual",
+        "type": "adj",
+        "meaning": "hàng năm"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_110",
+    "question": "Ms. Dubois managed to expand the company’s market share ______ several competitive regions in Southeast Asia.",
+    "options": {
+      "A": "across",
+      "B": "between",
+      "C": "among",
+      "D": "along"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Across' chỉ sự bao phủ trên một diện rộng (khắp các khu vực).",
+    "explanation_grammar": "Giới từ chỉ vị trí/không gian",
+    "translation": "Bà Dubois đã xoay sở để mở rộng thị phần của công ty khắp một số khu vực cạnh tranh ở Đông Nam Á.",
+    "core_vocabulary": [
+      {
+        "word": "market share",
+        "type": "n",
+        "meaning": "thị phần"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_111",
+    "question": "The management team decided to hire a consultant ______ trying to solve the technical issue internally.",
+    "options": {
+      "A": "instead of",
+      "B": "together with",
+      "C": "according to",
+      "D": "as well as"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Instead of' chỉ sự thay thế (thay vì làm việc gì đó).",
+    "explanation_grammar": "Giới từ chỉ sự lựa chọn",
+    "translation": "Đội ngũ quản lý đã quyết định thuê một cố vấn thay vì cố gắng tự giải quyết vấn đề kỹ thuật trong nội bộ.",
+    "core_vocabulary": [
+      {
+        "word": "internally",
+        "type": "adv",
+        "meaning": "nội bộ"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_112",
+    "question": "All participants are required to register online ______ the start of the professional development workshop.",
+    "options": {
+      "A": "prior to",
+      "B": "according to",
+      "C": "in front of",
+      "D": "outside of"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Prior to' đồng nghĩa với 'before', nghĩa là trước khi một sự kiện bắt đầu.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Tất cả những người tham gia được yêu cầu đăng ký trực tuyến trước khi bắt đầu hội thảo phát triển chuyên môn.",
+    "core_vocabulary": [
+      {
+        "word": "professional development",
+        "type": "n",
+        "meaning": "phát triển chuyên môn"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_113",
+    "question": "The flight to London was canceled ______ a sudden strike by the airport’s ground crew members.",
+    "options": {
+      "A": "due to",
+      "B": "although",
+      "C": "despite",
+      "D": "however"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Due to' chỉ nguyên nhân, theo sau là cụm danh từ.",
+    "explanation_grammar": "Giới từ chỉ nguyên nhân",
+    "translation": "Chuyến bay đến London đã bị hủy do một cuộc đình công bất ngờ của các nhân viên mặt đất tại sân bay.",
+    "core_vocabulary": [
+      {
+        "word": "strike",
+        "type": "n",
+        "meaning": "cuộc đình công"
+      },
+      {
+        "word": "ground crew",
+        "type": "n",
+        "meaning": "nhân viên mặt đất"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_114",
+    "question": "The temporary interns will be stationed ______ the reception desk to assist visitors during the conference.",
+    "options": {
+      "A": "at",
+      "B": "on",
+      "C": "in",
+      "D": "to"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'At' dùng cho các vị trí cụ thể như bàn làm việc.",
+    "explanation_grammar": "Giới từ chỉ địa điểm",
+    "translation": "Các thực tập sinh tạm thời sẽ được bố trí tại bàn lễ tân để hỗ trợ khách thăm trong suốt hội nghị.",
+    "core_vocabulary": [
+      {
+        "word": "stationed",
+        "type": "adj",
+        "meaning": "được đóng, được bố trí tại vị trí"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_115",
+    "question": "A specialized committee will be formed to choose ______ the three finalists for the design contract.",
+    "options": {
+      "A": "between",
+      "B": "among",
+      "C": "across",
+      "D": "throughout"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Choose between' có thể dùng khi lựa chọn giữa các đối tượng cụ thể, ngay cả khi số lượng là ba. Tuy nhiên, trong ngữ pháp TOEIC truyền thống, 'between' dùng cho 2 và 'among' dùng cho 3 trở lên. Nhưng ở đây 'between' là đáp án được chỉ định.",
+    "explanation_grammar": "Giới từ chỉ đối tượng",
+    "translation": "Một ủy ban chuyên trách sẽ được thành lập để lựa chọn giữa ba ứng viên lọt vào vòng chung kết cho hợp đồng thiết kế.",
+    "core_vocabulary": [
+      {
+        "word": "finalist",
+        "type": "n",
+        "meaning": "người lọt vào vòng chung kết"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_116",
+    "question": "The financial analyst provided a detailed report ______ the potential risks of the new investment strategy.",
+    "options": {
+      "A": "about",
+      "B": "to",
+      "C": "at",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Report about something' chỉ nội dung của báo cáo.",
+    "explanation_grammar": "Giới từ đi kèm danh từ",
+    "translation": "Nhà phân tích tài chính đã cung cấp một báo cáo chi tiết về những rủi ro tiềm ẩn của chiến lược đầu tư mới.",
+    "core_vocabulary": [
+      {
+        "word": "potential",
+        "type": "adj",
+        "meaning": "tiềm năng, tiềm ẩn"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_117",
+    "question": "Mr. Fischer has received numerous accolades ______ his dedication to improving workplace safety standards.",
+    "options": {
+      "A": "for",
+      "B": "at",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'For' chỉ lý do nhận được những lời khen ngợi/giải thưởng.",
+    "explanation_grammar": "Giới từ chỉ nguyên nhân/lý do",
+    "translation": "Ông Fischer đã nhận được nhiều giải thưởng vì sự tận tâm của mình trong việc cải thiện các tiêu chuẩn an toàn tại nơi làm việc.",
+    "core_vocabulary": [
+      {
+        "word": "accolade",
+        "type": "n",
+        "meaning": "giải thưởng, lời khen ngợi"
+      },
+      {
+        "word": "dedication",
+        "type": "n",
+        "meaning": "sự tận tâm, cống hiến"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_118",
+    "question": "The research team is currently working ______ the supervision of Dr. Morales to complete the clinical trial.",
+    "options": {
+      "A": "under",
+      "B": "at",
+      "C": "on",
+      "D": "to"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Under the supervision of' là cụm từ cố định có nghĩa là 'dưới sự giám sát của'.",
+    "explanation_grammar": "Cụm giới từ cố định",
+    "translation": "Nhóm nghiên cứu hiện đang làm việc dưới sự giám sát của Tiến sĩ Morales để hoàn thành thử nghiệm lâm sàng.",
+    "core_vocabulary": [
+      {
+        "word": "supervision",
+        "type": "n",
+        "meaning": "sự giám sát"
+      },
+      {
+        "word": "clinical trial",
+        "type": "n",
+        "meaning": "thử nghiệm lâm sàng"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_119",
+    "question": "Customers can request a full refund ______ the store if the product is returned in its original packaging.",
+    "options": {
+      "A": "from",
+      "B": "at",
+      "C": "to",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Refund from' chỉ nguồn gốc nơi nhận lại tiền.",
+    "explanation_grammar": "Giới từ chỉ nguồn gốc",
+    "translation": "Khách hàng có thể yêu cầu hoàn tiền đầy đủ từ cửa hàng nếu sản phẩm được trả lại trong bao bì gốc.",
+    "core_vocabulary": [
+      {
+        "word": "packaging",
+        "type": "n",
+        "meaning": "bao bì"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_120",
+    "question": "The company plans to integrate the new feedback system ______ its existing customer service platform.",
+    "options": {
+      "A": "into",
+      "B": "at",
+      "C": "on",
+      "D": "to"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Integrate something into something' nghĩa là tích hợp cái gì đó vào cái gì đó.",
+    "explanation_grammar": "Giới từ đi kèm động từ",
+    "translation": "Công ty có kế hoạch tích hợp hệ thống phản hồi mới vào nền tảng dịch vụ khách hàng hiện tại của mình.",
+    "core_vocabulary": [
+      {
+        "word": "integrate",
+        "type": "v",
+        "meaning": "tích hợp"
+      },
+      {
+        "word": "existing",
+        "type": "adj",
+        "meaning": "hiện có"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_121",
+    "question": "All project proposals must be reviewed and approved ______ the executive board before the end of the quarter.",
+    "options": {
+      "A": "by",
+      "B": "until",
+      "C": "for",
+      "D": "at"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'By' dùng trong câu bị động để chỉ tác nhân thực hiện hành động (ban điều hành).",
+    "explanation_grammar": "Giới từ trong câu bị động",
+    "translation": "Tất cả các đề xuất dự án phải được xem xét và phê duyệt bởi ban điều hành trước khi kết thúc quý.",
+    "core_vocabulary": [
+      {
+        "word": "proposal",
+        "type": "n",
+        "meaning": "đề xuất"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_122",
+    "question": "The stock market experienced significant growth ______ the period following the announcement of the trade agreement.",
+    "options": {
+      "A": "over",
+      "B": "by",
+      "C": "at",
+      "D": "onto"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Over a period' dùng để chỉ một khoảng thời gian mà trong đó có sự thay đổi hoặc diễn biến.",
+    "explanation_grammar": "Giới từ chỉ thời gian",
+    "translation": "Thị trường chứng khoán đã trải qua sự tăng trưởng đáng kể trong giai đoạn sau thông báo về thỏa thuận thương mại.",
+    "core_vocabulary": [
+      {
+        "word": "trade agreement",
+        "type": "n",
+        "meaning": "thỏa thuận thương mại"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_123",
+    "question": "It is difficult to complete the audit ______ access to the company’s internal financial database.",
+    "options": {
+      "A": "without",
+      "B": "between",
+      "C": "among",
+      "D": "across"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Without' dùng để chỉ sự thiếu vắng hoặc không có cái gì đó.",
+    "explanation_grammar": "Giới từ chỉ sự thiếu vắng",
+    "translation": "Rất khó để hoàn thành việc kiểm toán nếu không có quyền truy cập vào cơ sở dữ liệu tài chính nội bộ của công ty.",
+    "core_vocabulary": [
+      {
+        "word": "audit",
+        "type": "n/v",
+        "meaning": "kiểm toán"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_124",
+    "question": "The marketing department is making great progress ______ achieving its sales targets for the fiscal year.",
+    "options": {
+      "A": "towards",
+      "B": "against",
+      "C": "between",
+      "D": "among"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Progress towards something' nghĩa là tiến triển hướng tới một mục tiêu nào đó.",
+    "explanation_grammar": "Giới từ chỉ hướng đích",
+    "translation": "Bộ phận tiếp thị đang đạt được tiến bộ lớn trong việc đạt được các mục tiêu doanh số cho năm tài chính.",
+    "core_vocabulary": [
+      {
+        "word": "target",
+        "type": "n",
+        "meaning": "mục tiêu"
+      },
+      {
+        "word": "fiscal year",
+        "type": "n",
+        "meaning": "năm tài chính"
+      }
+    ]
+  },
+  {
+    "id": "q_preposition_test13_125",
+    "question": "The construction of the new corporate library is currently three weeks ______ schedule.",
+    "options": {
+      "A": "behind",
+      "B": "between",
+      "C": "among",
+      "D": "throughout"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Giới từ",
+    "explanation_reason": "'Behind schedule' là cụm từ cố định nghĩa là 'chậm so với lịch trình'.",
+    "explanation_grammar": "Cụm giới từ cố định",
+    "translation": "Việc xây dựng thư viện tập đoàn mới hiện đang chậm hơn ba tuần so với lịch trình.",
+    "core_vocabulary": [
+      {
+        "word": "schedule",
+        "type": "n/v",
+        "meaning": "lịch trình"
+      }
+    ]
+  }
+]

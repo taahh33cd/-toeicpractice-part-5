@@ -1,0 +1,612 @@
+[
+  {
+    "id": "q_test6_sosanh_01",
+    "question": "The cloud storage service from SkyVault is not quite as ________ as the local server.",
+    "options": {
+      "A": "accessible",
+      "B": "accessibly",
+      "C": "accessibility",
+      "D": "access"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "Cấu trúc so sánh bằng: 'as + adj + as'. Sau to-be 'is' cần tính từ 'accessible' (dễ tiếp cận).",
+    "explanation_grammar": "So sánh bằng",
+    "translation": "Dịch vụ lưu trữ đám mây từ SkyVault không hoàn toàn dễ tiếp cận như máy chủ cục bộ.",
+    "core_vocabulary": [
+      {
+        "word": "accessible",
+        "type": "adj.",
+        "meaning": "dễ tiếp cận"
+      },
+      {
+        "word": "storage",
+        "type": "n.",
+        "meaning": "lưu trữ"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_02",
+    "question": "Upgrading the office ventilation system made the workspace more ________ than before.",
+    "options": {
+      "A": "comfortable",
+      "B": "comfortably",
+      "C": "comfort",
+      "D": "comforting"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "Cấu trúc 'make + object + adj'. So sánh hơn 'more + adj + than'. 'comfortable' (thoải mái) là tính từ.",
+    "explanation_grammar": "So sánh hơn",
+    "translation": "Việc nâng cấp hệ thống thông gió văn phòng đã làm cho không gian làm việc thoải mái hơn trước đây.",
+    "core_vocabulary": [
+      {
+        "word": "ventilation",
+        "type": "n.",
+        "meaning": "sự thông gió"
+      },
+      {
+        "word": "comfortable",
+        "type": "adj.",
+        "meaning": "thoải mái"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_03",
+    "question": "Ms. Aris was honored for developing the most __________ marketing strategy at Solis Energy.",
+    "options": {
+      "A": "creatively",
+      "B": "creativity",
+      "C": "creative",
+      "D": "creativeness"
+    },
+    "correct_answer": "C",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh nhất: 'the most + adj'. Đứng trước danh từ 'strategy' cần tính từ 'creative' (sáng tạo).",
+    "explanation_grammar": "So sánh nhất",
+    "translation": "Cô Aris đã được vinh danh vì đã phát triển chiến lược tiếp thị sáng tạo nhất tại Solis Energy.",
+    "core_vocabulary": [
+      {
+        "word": "creative",
+        "type": "adj.",
+        "meaning": "sáng tạo"
+      },
+      {
+        "word": "strategy",
+        "type": "n.",
+        "meaning": "chiến lược"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_04",
+    "question": "The new prototype of the Helios sedan is more ________ than the previous model.",
+    "options": {
+      "A": "aerodynamic",
+      "B": "aerodynamically",
+      "C": "aerodynamics",
+      "D": "aerodynamicist"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh hơn: 'more + adj + than'. Sau to-be 'is' cần tính từ 'aerodynamic' (khí động học).",
+    "explanation_grammar": "So sánh hơn",
+    "translation": "Nguyên mẫu mới của chiếc sedan Helios khí động học hơn so với mẫu trước đó.",
+    "core_vocabulary": [
+      {
+        "word": "prototype",
+        "type": "n.",
+        "meaning": "nguyên mẫu"
+      },
+      {
+        "word": "aerodynamic",
+        "type": "adj.",
+        "meaning": "khí động học"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_05",
+    "question": "The quarterly budget for the research department was not as ________ as last year.",
+    "options": {
+      "A": "substantial",
+      "B": "substantially",
+      "C": "substance",
+      "D": "substantiate"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh bằng: 'as + adj + as'. Sau to-be 'was' cần tính từ 'substantial' (đáng kể).",
+    "explanation_grammar": "So sánh bằng",
+    "translation": "Ngân sách hàng quý cho bộ phận nghiên cứu không lớn (đáng kể) như năm ngoái.",
+    "core_vocabulary": [
+      {
+        "word": "substantial",
+        "type": "adj.",
+        "meaning": "đáng kể, lớn"
+      },
+      {
+        "word": "budget",
+        "type": "n.",
+        "meaning": "ngân sách"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_06",
+    "question": "Mr. Tanaka received an award for maintaining the most __________ safety records at TechNova.",
+    "options": {
+      "A": "consistent",
+      "B": "consistently",
+      "C": "consistency",
+      "D": "consist"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh nhất: 'the most + adj'. Đứng trước danh từ 'records' cần tính từ 'consistent' (nhất quán).",
+    "explanation_grammar": "So sánh nhất",
+    "translation": "Ông Tanaka đã nhận được giải thưởng vì đã duy trì các hồ sơ an toàn nhất quán nhất tại TechNova.",
+    "core_vocabulary": [
+      {
+        "word": "consistent",
+        "type": "adj.",
+        "meaning": "nhất quán, kiên định"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_07",
+    "question": "The sudden increase in raw material costs made the project more ________ than expected.",
+    "options": {
+      "A": "expensive",
+      "B": "expensively",
+      "C": "expense",
+      "D": "expensiveness"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "Cấu trúc 'make + object + adj'. So sánh hơn 'more + adj + than'. 'expensive' (đắt đỏ) là tính từ.",
+    "explanation_grammar": "So sánh hơn",
+    "translation": "Sự gia tăng đột ngột của chi phí nguyên liệu thô đã làm cho dự án đắt đỏ hơn so với dự kiến.",
+    "core_vocabulary": [
+      {
+        "word": "raw material",
+        "type": "n.",
+        "meaning": "nguyên liệu thô"
+      },
+      {
+        "word": "expensive",
+        "type": "adj.",
+        "meaning": "đắt tiền"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_08",
+    "question": "The customer service portal at VietTel is not quite as ________ as the mobile application.",
+    "options": {
+      "A": "user-friendly",
+      "B": "user-friendliness",
+      "C": "user-friendly way",
+      "D": "user-friendlier"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh bằng: 'as + adj + as'. Sau to-be 'is' cần tính từ 'user-friendly' (thân thiện với người dùng).",
+    "explanation_grammar": "So sánh bằng",
+    "translation": "Cổng dịch vụ khách hàng tại VietTel không hoàn toàn thân thiện với người dùng như ứng dụng di động.",
+    "core_vocabulary": [
+      {
+        "word": "user-friendly",
+        "type": "adj.",
+        "meaning": "thân thiện với người dùng"
+      },
+      {
+        "word": "portal",
+        "type": "n.",
+        "meaning": "cổng thông tin"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_09",
+    "question": "Streamlining the feedback process made the design team more ________ than the consultants.",
+    "options": {
+      "A": "responsive",
+      "B": "responsively",
+      "C": "responsiveness",
+      "D": "respond"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "Cấu trúc 'make + object + adj'. So sánh hơn 'more + adj + than'. 'responsive' (phản hồi nhanh) là tính từ.",
+    "explanation_grammar": "So sánh hơn",
+    "translation": "Việc tinh giản quy trình phản hồi đã làm cho nhóm thiết kế phản hồi nhanh nhạy hơn so với các nhà tư vấn.",
+    "core_vocabulary": [
+      {
+        "word": "streamline",
+        "type": "v.",
+        "meaning": "tinh giản, sắp xếp hợp lý"
+      },
+      {
+        "word": "responsive",
+        "type": "adj.",
+        "meaning": "phản hồi nhanh nhạy"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_10",
+    "question": "Dr. Kim was recognized for conducting the most __________ environmental audit at BioLab Inc.",
+    "options": {
+      "A": "thoroughly",
+      "B": "thorough",
+      "C": "thoroughness",
+      "D": "throughout"
+    },
+    "correct_answer": "B",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh nhất: 'the most + adj'. Đứng trước danh từ 'audit' cần tính từ 'thorough' (kỹ lưỡng).",
+    "explanation_grammar": "So sánh nhất",
+    "translation": "Tiến sĩ Kim đã được ghi nhận vì đã thực hiện cuộc kiểm toán môi trường kỹ lưỡng nhất tại BioLab Inc.",
+    "core_vocabulary": [
+      {
+        "word": "thorough",
+        "type": "adj.",
+        "meaning": "kỹ lưỡng, tỉ mỉ"
+      },
+      {
+        "word": "audit",
+        "type": "n.",
+        "meaning": "kiểm toán"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_11",
+    "question": "The leather used in Zenith wallets is not as ________ as the material used for bags.",
+    "options": {
+      "A": "flexibility",
+      "B": "flexible",
+      "C": "flexibly",
+      "D": "flexes"
+    },
+    "correct_answer": "B",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh bằng: 'as + adj + as'. Sau to-be 'is' cần tính từ 'flexible' (linh hoạt, mềm dẻo).",
+    "explanation_grammar": "So sánh bằng",
+    "translation": "Da được sử dụng trong ví Zenith không mềm dẻo như vật liệu được sử dụng cho túi xách.",
+    "core_vocabulary": [
+      {
+        "word": "flexible",
+        "type": "adj.",
+        "meaning": "linh hoạt, mềm dẻo"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_12",
+    "question": "The specialized software made the accounting tasks more ________ than the manual entry.",
+    "options": {
+      "A": "manageable",
+      "B": "manageably",
+      "C": "management",
+      "D": "manage"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "Cấu trúc 'make + object + adj'. So sánh hơn 'more + adj + than'. 'manageable' (có thể quản lý được) là tính từ.",
+    "explanation_grammar": "So sánh hơn",
+    "translation": "Phần mềm chuyên dụng đã làm cho các công việc kế toán dễ quản lý hơn so với việc nhập thủ công.",
+    "core_vocabulary": [
+      {
+        "word": "manageable",
+        "type": "adj.",
+        "meaning": "có thể quản lý/xử lý được"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_13",
+    "question": "Ms. Lan was praised for submitting the most __________ client feedback report at SwiftAir.",
+    "options": {
+      "A": "insightful",
+      "B": "insightfully",
+      "C": "insight",
+      "D": "insightfulness"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh nhất: 'the most + adj'. Đứng trước danh từ 'report' cần tính từ 'insightful' (sâu sắc).",
+    "explanation_grammar": "So sánh nhất",
+    "translation": "Cô Lan đã được khen ngợi vì đã nộp báo cáo phản hồi khách hàng sâu sắc nhất tại SwiftAir.",
+    "core_vocabulary": [
+      {
+        "word": "insightful",
+        "type": "adj.",
+        "meaning": "sâu sắc, sáng suốt"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_14",
+    "question": "The latest digital camera from K-Tech is more ________ than its predecessor.",
+    "options": {
+      "A": "versatile",
+      "B": "versatily",
+      "C": "versatility",
+      "D": "versatilities"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh hơn: 'more + adj + than'. Sau to-be 'is' cần tính từ 'versatile' (đa năng).",
+    "explanation_grammar": "So sánh hơn",
+    "translation": "Chiếc máy ảnh kỹ thuật số mới nhất từ K-Tech đa năng hơn so với phiên bản tiền nhiệm của nó.",
+    "core_vocabulary": [
+      {
+        "word": "versatile",
+        "type": "adj.",
+        "meaning": "đa năng, linh hoạt"
+      },
+      {
+        "word": "predecessor",
+        "type": "n.",
+        "meaning": "người tiền nhiệm, phiên bản trước"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_15",
+    "question": "The training manual for junior associates is not quite as ________ as the senior guide.",
+    "options": {
+      "A": "comprehensive",
+      "B": "comprehensively",
+      "C": "comprehension",
+      "D": "comprehensiveness"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh bằng: 'as + adj + as'. Sau to-be 'is' cần tính từ 'comprehensive' (toàn diện).",
+    "explanation_grammar": "So sánh bằng",
+    "translation": "Sách hướng dẫn đào tạo cho các cộng sự cấp dưới không hoàn toàn toàn diện như hướng dẫn dành cho cấp cao.",
+    "core_vocabulary": [
+      {
+        "word": "comprehensive",
+        "type": "adj.",
+        "meaning": "toàn diện"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_16",
+    "question": "Installing the new filtration system made the laboratory air more ________ than the warehouse.",
+    "options": {
+      "A": "purity",
+      "B": "purely",
+      "C": "pure",
+      "D": "purify"
+    },
+    "correct_answer": "C",
+    "grammar_type": "So sánh",
+    "explanation_reason": "Cấu trúc 'make + object + adj'. So sánh hơn 'more + adj + than'. 'pure' (tinh khiết) là tính từ.",
+    "explanation_grammar": "So sánh hơn",
+    "translation": "Việc lắp đặt hệ thống lọc mới đã làm cho không khí trong phòng thí nghiệm tinh khiết hơn so với trong kho hàng.",
+    "core_vocabulary": [
+      {
+        "word": "filtration",
+        "type": "n.",
+        "meaning": "sự lọc"
+      },
+      {
+        "word": "pure",
+        "type": "adj.",
+        "meaning": "tinh khiết"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_17",
+    "question": "The reception hall at the Grand Plaza Hotel is not as ________ as the main ballroom.",
+    "options": {
+      "A": "elegant",
+      "B": "elegantly",
+      "C": "elegance",
+      "D": "elegancy"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh bằng: 'as + adj + as'. Sau to-be 'is' cần tính từ 'elegant' (sang trọng, trang nhã).",
+    "explanation_grammar": "So sánh bằng",
+    "translation": "Sảnh lễ tân tại khách sạn Grand Plaza không sang trọng như phòng khiêu vũ chính.",
+    "core_vocabulary": [
+      {
+        "word": "elegant",
+        "type": "adj.",
+        "meaning": "sang trọng, trang nhã"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_18",
+    "question": "Modernizing the encryption software made the database more ________ than the legacy system.",
+    "options": {
+      "A": "secure",
+      "B": "securely",
+      "C": "security",
+      "D": "securer"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "Cấu trúc 'make + object + adj'. So sánh hơn 'more + adj + than'. 'secure' (an toàn) là tính từ.",
+    "explanation_grammar": "So sánh hơn",
+    "translation": "Việc hiện đại hóa phần mềm mã hóa đã làm cho cơ sở dữ liệu an toàn hơn so với hệ thống cũ.",
+    "core_vocabulary": [
+      {
+        "word": "encryption",
+        "type": "n.",
+        "meaning": "sự mã hóa"
+      },
+      {
+        "word": "secure",
+        "type": "adj.",
+        "meaning": "an toàn"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_19",
+    "question": "Mr. Chen was recognized for proposing the most __________ energy-saving plan at ByteCore.",
+    "options": {
+      "A": "ambitious",
+      "B": "ambitiously",
+      "C": "ambition",
+      "D": "ambitiousness"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh nhất: 'the most + adj'. Đứng trước danh từ 'plan' cần tính từ 'ambitious' (tham vọng).",
+    "explanation_grammar": "So sánh nhất",
+    "translation": "Ông Chen đã được ghi nhận vì đã đề xuất kế hoạch tiết kiệm năng lượng tham vọng nhất tại ByteCore.",
+    "core_vocabulary": [
+      {
+        "word": "ambitious",
+        "type": "adj.",
+        "meaning": "tham vọng, đầy quyết tâm"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_20",
+    "question": "The premium subscription for the Nivido app is more ________ than the basic version.",
+    "options": {
+      "A": "beneficial",
+      "B": "beneficially",
+      "C": "benefit",
+      "D": "beneficiary"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh hơn: 'more + adj + than'. Sau to-be 'is' cần tính từ 'beneficial' (có lợi).",
+    "explanation_grammar": "So sánh hơn",
+    "translation": "Gói đăng ký cao cấp cho ứng dụng Nivido có lợi hơn so với phiên bản cơ bản.",
+    "core_vocabulary": [
+      {
+        "word": "beneficial",
+        "type": "adj.",
+        "meaning": "có lợi"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_21",
+    "question": "The marketing campaign for the new beverage was not as ________ as the holiday promotion.",
+    "options": {
+      "A": "successful",
+      "B": "successfully",
+      "C": "success",
+      "D": "succeed"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh bằng: 'as + adj + as'. Sau to-be 'was' cần tính từ 'successful' (thành công).",
+    "explanation_grammar": "So sánh bằng",
+    "translation": "Chiến dịch tiếp thị cho loại đồ uống mới đã không thành công như đợt khuyến mãi ngày lễ.",
+    "core_vocabulary": [
+      {
+        "word": "successful",
+        "type": "adj.",
+        "meaning": "thành công"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_22",
+    "question": "Simplifying the insurance claim process made the service more ________ than the old method.",
+    "options": {
+      "A": "efficient",
+      "B": "efficiently",
+      "C": "efficiency",
+      "D": "efficacious"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "Cấu trúc 'make + object + adj'. So sánh hơn 'more + adj + than'. 'efficient' (hiệu quả) là tính từ.",
+    "explanation_grammar": "So sánh hơn",
+    "translation": "Việc đơn giản hóa quy trình yêu cầu bồi thường bảo hiểm đã làm cho dịch vụ hiệu quả hơn so với phương pháp cũ.",
+    "core_vocabulary": [
+      {
+        "word": "efficient",
+        "type": "adj.",
+        "meaning": "hiệu quả"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_23",
+    "question": "Ms. Lopez was honored for managing the most __________ project team at Hansol Corp.",
+    "options": {
+      "A": "productive",
+      "B": "productively",
+      "C": "productivity",
+      "D": "produce"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh nhất: 'the most + adj'. Đứng trước danh từ 'team' cần tính từ 'productive' (năng suất).",
+    "explanation_grammar": "So sánh nhất",
+    "translation": "Cô Lopez đã được vinh danh vì đã quản lý đội ngũ dự án năng suất nhất tại Hansol Corp.",
+    "core_vocabulary": [
+      {
+        "word": "productive",
+        "type": "adj.",
+        "meaning": "năng suất, hiệu quả"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_24",
+    "question": "The upgraded engine in the Helios sedan is more ________ than the standard version.",
+    "options": {
+      "A": "powerful",
+      "B": "powerfully",
+      "C": "power",
+      "D": "powerfulness"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh hơn: 'more + adj + than'. Sau to-be 'is' cần tính từ 'powerful' (mạnh mẽ).",
+    "explanation_grammar": "So sánh hơn",
+    "translation": "Động cơ được nâng cấp trong chiếc sedan Helios mạnh mẽ hơn so với phiên bản tiêu chuẩn.",
+    "core_vocabulary": [
+      {
+        "word": "powerful",
+        "type": "adj.",
+        "meaning": "mạnh mẽ"
+      }
+    ]
+  },
+  {
+    "id": "q_test6_sosanh_25",
+    "question": "The technical support response from SwiftAir was not quite as ________ as the sales inquiry.",
+    "options": {
+      "A": "prompt",
+      "B": "promptly",
+      "C": "promptness",
+      "D": "promptitude"
+    },
+    "correct_answer": "A",
+    "grammar_type": "So sánh",
+    "explanation_reason": "So sánh bằng: 'as + adj + as'. Sau to-be 'was' cần tính từ 'prompt' (nhanh chóng).",
+    "explanation_grammar": "So sánh bằng",
+    "translation": "Phản hồi hỗ trợ kỹ thuật từ SwiftAir không nhanh chóng như yêu cầu bán hàng.",
+    "core_vocabulary": [
+      {
+        "word": "prompt",
+        "type": "adj.",
+        "meaning": "nhanh chóng, tức thì"
+      }
+    ]
+  }
+]

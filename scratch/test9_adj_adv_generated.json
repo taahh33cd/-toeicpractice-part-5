@@ -1,0 +1,677 @@
+[
+  {
+    "id": "q_adjadv_test9_01",
+    "question": "Lexington Agency provides ______ solutions to help clients reach their target audience.",
+    "options": {
+      "A": "creative",
+      "B": "creativity",
+      "C": "creatively",
+      "D": "creativeness"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước danh từ 'solutions' cần một tính từ để bổ nghĩa. 'creative' (sáng tạo) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Cơ quan Lexington cung cấp các giải pháp sáng tạo để giúp khách hàng tiếp cận đối tượng mục tiêu của họ.",
+    "core_vocabulary": [
+      {
+        "word": "solution",
+        "type": "n.",
+        "meaning": "giải pháp"
+      },
+      {
+        "word": "audience",
+        "type": "n.",
+        "meaning": "khán giả, đối tượng"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_02",
+    "question": "The staff at Starlight Hotel are trained to handle guest requests ______.",
+    "options": {
+      "A": "professional",
+      "B": "professionally",
+      "C": "professionalism",
+      "D": "profession"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau động từ thường 'handle' và tân ngữ 'guest requests', ta cần một trạng từ để bổ nghĩa cho hành động. 'professionally' (một cách chuyên nghiệp) là đáp án đúng.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Nhân viên tại Khách sạn Starlight được đào tạo để xử lý các yêu cầu của khách một cách chuyên nghiệp.",
+    "core_vocabulary": [
+      {
+        "word": "handle",
+        "type": "v.",
+        "meaning": "xử lý, giải quyết"
+      },
+      {
+        "word": "request",
+        "type": "n.",
+        "meaning": "yêu cầu"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_03",
+    "question": "Blue Wave Logistics has improved its shipping ______ over the past two fiscal years.",
+    "options": {
+      "A": "efficient",
+      "B": "efficiently",
+      "C": "efficiency",
+      "D": "efficiencies"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Mặc dù bài test về Tính/Trạng từ, chỗ trống này nằm sau tính từ sở hữu 'its' và danh từ đóng vai trò tính từ 'shipping', nên ta cần một danh từ để tạo thành cụm 'shipping efficiency' (hiệu quả giao hàng).",
+    "explanation_grammar": "Danh từ",
+    "translation": "Blue Wave Logistics đã cải thiện hiệu quả giao hàng của mình trong hai năm tài chính qua.",
+    "core_vocabulary": [
+      {
+        "word": "efficiency",
+        "type": "n.",
+        "meaning": "hiệu quả, năng suất"
+      },
+      {
+        "word": "fiscal year",
+        "type": "n.",
+        "meaning": "năm tài chính"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_04",
+    "question": "Galloway & Sons ______ completed the merger with its primary competitor last month.",
+    "options": {
+      "A": "success",
+      "B": "successfully",
+      "C": "successful",
+      "D": "succeeding"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước động từ thường 'completed' ta cần một trạng từ để bổ nghĩa cho động từ đó. 'successfully' (một cách thành công) là đáp án chính xác.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Galloway & Sons đã hoàn tất thành công việc sáp nhập với đối thủ cạnh tranh chính của mình vào tháng trước.",
+    "core_vocabulary": [
+      {
+        "word": "merger",
+        "type": "n.",
+        "meaning": "sự sáp nhập"
+      },
+      {
+        "word": "competitor",
+        "type": "n.",
+        "meaning": "đối thủ cạnh tranh"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_05",
+    "question": "Evergreen Estate offers ______ views of the surrounding mountains and valleys.",
+    "options": {
+      "A": "extensive",
+      "B": "extensively",
+      "C": "extension",
+      "D": "extensiveness"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước danh từ 'views' cần một tính từ để bổ nghĩa. 'extensive' (rộng lớn, bao quát) tạo thành cụm 'extensive views' (tầm nhìn bao quát). (Lưu ý: Bạn chọn 'extensiveness' nhưng đây là danh từ và không hợp ngữ pháp).",
+    "explanation_grammar": "Tính từ",
+    "translation": "Evergreen Estate mang đến tầm nhìn bao quát ra những ngọn núi và thung lũng xung quanh.",
+    "core_vocabulary": [
+      {
+        "word": "extensive",
+        "type": "adj.",
+        "meaning": "rộng lớn, bao quát"
+      },
+      {
+        "word": "surrounding",
+        "type": "adj.",
+        "meaning": "xung quanh"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_06",
+    "question": "Vance Corporation reported that its new software branch is operating ______.",
+    "options": {
+      "A": "profitably",
+      "B": "profitable",
+      "C": "profitability",
+      "D": "profits"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau động từ thường 'is operating' cần một trạng từ để bổ nghĩa. 'profitably' (một cách sinh lời) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Vance Corporation báo cáo rằng chi nhánh phần mềm mới của họ đang hoạt động có lãi.",
+    "core_vocabulary": [
+      {
+        "word": "operate",
+        "type": "v.",
+        "meaning": "hoạt động, vận hành"
+      },
+      {
+        "word": "branch",
+        "type": "n.",
+        "meaning": "chi nhánh"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_07",
+    "question": "Tidal Energy has ______ updated its safety protocols for all offshore employees.",
+    "options": {
+      "A": "recent",
+      "B": "recently",
+      "C": "recency",
+      "D": "recentness"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa trợ động từ 'has' và động từ phân từ hai 'updated', ta cần một trạng từ bổ nghĩa. 'recently' (gần đây) là phù hợp nhất.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Tidal Energy gần đây đã cập nhật các quy trình an toàn cho tất cả các nhân viên làm việc ngoài khơi.",
+    "core_vocabulary": [
+      {
+        "word": "protocol",
+        "type": "n.",
+        "meaning": "quy trình, giao thức"
+      },
+      {
+        "word": "offshore",
+        "type": "adj.",
+        "meaning": "ngoài khơi"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_08",
+    "question": "Nova Tech is looking for a ______ partner to assist with the hardware distribution.",
+    "options": {
+      "A": "rely",
+      "B": "reliability",
+      "C": "reliable",
+      "D": "reliably"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'a' và trước danh từ 'partner' cần một tính từ. 'reliable' (đáng tin cậy) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Nova Tech đang tìm kiếm một đối tác đáng tin cậy để hỗ trợ việc phân phối phần cứng.",
+    "core_vocabulary": [
+      {
+        "word": "reliable",
+        "type": "adj.",
+        "meaning": "đáng tin cậy"
+      },
+      {
+        "word": "distribution",
+        "type": "n.",
+        "meaning": "sự phân phối"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_09",
+    "question": "Apex Marketing developed an ______ campaign that significantly boosted brand awareness.",
+    "options": {
+      "A": "impressively",
+      "B": "impressive",
+      "C": "impression",
+      "D": "impress"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'an' và trước danh từ 'campaign' cần một tính từ. 'impressive' (ấn tượng) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Apex Marketing đã phát triển một chiến dịch ấn tượng giúp thúc đẩy đáng kể nhận diện thương hiệu.",
+    "core_vocabulary": [
+      {
+        "word": "campaign",
+        "type": "n.",
+        "meaning": "chiến dịch"
+      },
+      {
+        "word": "boost",
+        "type": "v.",
+        "meaning": "thúc đẩy, làm tăng"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_10",
+    "question": "Sands Resort ensures that all guest rooms are ______ furnished with modern amenities.",
+    "options": {
+      "A": "comfort",
+      "B": "comfortable",
+      "C": "comfortably",
+      "D": "comforting"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'are' và phân từ hai 'furnished', ta cần trạng từ để bổ nghĩa cho động từ 'furnished' (được trang bị). 'comfortably' (một cách thoải mái) là đúng.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Sands Resort đảm bảo rằng tất cả các phòng dành cho khách đều được trang bị tiện nghi hiện đại một cách thoải mái.",
+    "core_vocabulary": [
+      {
+        "word": "furnish",
+        "type": "v.",
+        "meaning": "trang bị đồ đạc"
+      },
+      {
+        "word": "amenity",
+        "type": "n.",
+        "meaning": "tiện nghi"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_11",
+    "question": "Barrow Finance requires that all transaction records be updated ______ every Friday.",
+    "options": {
+      "A": "accuracy",
+      "B": "accurate",
+      "C": "accurately",
+      "D": "accurateness"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau cụm động từ bị động 'be updated' cần một trạng từ để bổ nghĩa cho việc cập nhật diễn ra như thế nào. 'accurately' (một cách chính xác) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Tài chính Barrow yêu cầu tất cả các hồ sơ giao dịch phải được cập nhật một cách chính xác vào mỗi thứ Sáu.",
+    "core_vocabulary": [
+      {
+        "word": "transaction",
+        "type": "n.",
+        "meaning": "giao dịch"
+      },
+      {
+        "word": "accurately",
+        "type": "adv.",
+        "meaning": "một cách chính xác"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_12",
+    "question": "Crestwood Hospital has seen a ______ increase in the number of outpatient visits.",
+    "options": {
+      "A": "frequently",
+      "B": "frequented",
+      "C": "frequency",
+      "D": "frequent"
+    },
+    "correct_answer": "D",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'a' và trước danh từ 'increase' cần tính từ bổ nghĩa. 'frequent' (thường xuyên) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Bệnh viện Crestwood đã chứng kiến sự gia tăng thường xuyên về số lượng lượt khám ngoại trú.",
+    "core_vocabulary": [
+      {
+        "word": "increase",
+        "type": "n.",
+        "meaning": "sự gia tăng"
+      },
+      {
+        "word": "outpatient",
+        "type": "n.",
+        "meaning": "bệnh nhân ngoại trú"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_13",
+    "question": "Miller Manufacturing implemented new techniques to increase overall factory ______.",
+    "options": {
+      "A": "productive",
+      "B": "productively",
+      "C": "productivity",
+      "D": "produced"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau động từ 'increase' và các tính từ 'overall factory' cần một danh từ. 'productivity' (năng suất) là danh từ chính xác.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Miller Manufacturing đã áp dụng các kỹ thuật mới để tăng năng suất tổng thể của nhà máy.",
+    "core_vocabulary": [
+      {
+        "word": "implement",
+        "type": "v.",
+        "meaning": "áp dụng, thi hành"
+      },
+      {
+        "word": "productivity",
+        "type": "n.",
+        "meaning": "năng suất"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_14",
+    "question": "Skyline Airlines reminds passengers to remain seated until the plane has ______ landed.",
+    "options": {
+      "A": "safe",
+      "B": "safely",
+      "C": "safety",
+      "D": "safest"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa trợ động từ 'has' và động từ 'landed' cần một trạng từ để bổ nghĩa. 'safely' (một cách an toàn) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Hãng hàng không Skyline nhắc nhở hành khách ngồi yên tại chỗ cho đến khi máy bay hạ cánh an toàn.",
+    "core_vocabulary": [
+      {
+        "word": "remain",
+        "type": "v.",
+        "meaning": "duy trì, giữ nguyên"
+      },
+      {
+        "word": "land",
+        "type": "v.",
+        "meaning": "hạ cánh"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_15",
+    "question": "Summit Design submitted an ______ proposal for the renovation of the city library.",
+    "options": {
+      "A": "originality",
+      "B": "originally",
+      "C": "originate",
+      "D": "original"
+    },
+    "correct_answer": "D",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'an' và trước danh từ 'proposal' cần một tính từ. 'original' (độc đáo, nguyên bản) là đáp án đúng.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Summit Design đã đệ trình một đề xuất độc đáo cho việc cải tạo thư viện thành phố.",
+    "core_vocabulary": [
+      {
+        "word": "proposal",
+        "type": "n.",
+        "meaning": "bản đề xuất"
+      },
+      {
+        "word": "renovation",
+        "type": "n.",
+        "meaning": "sự cải tạo, tu sửa"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_16",
+    "question": "The fireworks display at Harbor View was ______ praised by the local community.",
+    "options": {
+      "A": "spectacular",
+      "B": "spectacularly",
+      "C": "spectacle",
+      "D": "spectate"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng trước động từ phân từ 'praised' (được khen ngợi) cần một trạng từ để bổ nghĩa. 'spectacularly' (một cách ngoạn mục/xuất sắc) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Màn trình diễn pháo hoa tại Harbor View đã được cộng đồng địa phương khen ngợi nức nở.",
+    "core_vocabulary": [
+      {
+        "word": "fireworks",
+        "type": "n.",
+        "meaning": "pháo hoa"
+      },
+      {
+        "word": "praise",
+        "type": "v.",
+        "meaning": "khen ngợi, tán dương"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_17",
+    "question": "Fletcher Inc. requests that all employees dress ______ for the annual gala dinner.",
+    "options": {
+      "A": "formal",
+      "B": "formally",
+      "C": "formality",
+      "D": "formalize"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau động từ thường 'dress' (ăn mặc) cần trạng từ để bổ nghĩa. 'formally' (một cách trang trọng) là đáp án đúng.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Fletcher Inc. yêu cầu tất cả nhân viên ăn mặc trang trọng cho bữa tối dạ tiệc thường niên.",
+    "core_vocabulary": [
+      {
+        "word": "dress",
+        "type": "v.",
+        "meaning": "ăn mặc"
+      },
+      {
+        "word": "formally",
+        "type": "adv.",
+        "meaning": "một cách trang trọng"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_18",
+    "question": "Oakwood Library provides a ______ environment for students to study and conduct research.",
+    "options": {
+      "A": "quietly",
+      "B": "quiet",
+      "C": "quietness",
+      "D": "quieted"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'a' và trước danh từ 'environment' cần một tính từ. 'quiet' (yên tĩnh) là đáp án đúng.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Thư viện Oakwood cung cấp một môi trường yên tĩnh để sinh viên học tập và tiến hành nghiên cứu.",
+    "core_vocabulary": [
+      {
+        "word": "environment",
+        "type": "n.",
+        "meaning": "môi trường"
+      },
+      {
+        "word": "conduct research",
+        "type": "v.",
+        "meaning": "tiến hành nghiên cứu"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_19",
+    "question": "Preston Legal manages all client information ______ to maintain the highest level of trust.",
+    "options": {
+      "A": "confidential",
+      "B": "confidentially",
+      "C": "confidentiality",
+      "D": "confiding"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Động từ chính của câu là 'manages' (quản lý). Ta cần một trạng từ để bổ nghĩa cho hành động quản lý thông tin đó như thế nào. 'confidentially' (một cách bảo mật) là đúng.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Preston Legal quản lý tất cả thông tin của khách hàng một cách bảo mật để duy trì mức độ tin cậy cao nhất.",
+    "core_vocabulary": [
+      {
+        "word": "manage",
+        "type": "v.",
+        "meaning": "quản lý"
+      },
+      {
+        "word": "confidentially",
+        "type": "adv.",
+        "meaning": "một cách bảo mật, bí mật"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_20",
+    "question": "Greene Groceries stocks ______ grown vegetables from local farms every morning.",
+    "options": {
+      "A": "fresh",
+      "B": "freshly",
+      "C": "freshness",
+      "D": "freshen"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước cụm tính từ dạng phân từ 'grown vegetables' cần một trạng từ để bổ nghĩa cho động từ 'grown'. 'freshly' (mới) kết hợp với 'grown' tạo thành 'freshly grown' (mới được trồng/thu hoạch).",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Cửa hàng tạp hóa Greene nhập các loại rau mới được thu hoạch từ các trang trại địa phương mỗi sáng.",
+    "core_vocabulary": [
+      {
+        "word": "stock",
+        "type": "v.",
+        "meaning": "tích trữ, nhập hàng"
+      },
+      {
+        "word": "freshly",
+        "type": "adv.",
+        "meaning": "mới, tươi"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_21",
+    "question": "Swift Delivery guarantees that all packages will be delivered ______ to customers.",
+    "options": {
+      "A": "prompt",
+      "B": "promptly",
+      "C": "promptness",
+      "D": "prompted"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau cụm động từ bị động 'be delivered' cần trạng từ bổ nghĩa cho hành động giao hàng. 'promptly' (một cách nhanh chóng/đúng giờ) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Swift Delivery đảm bảo rằng tất cả các bưu kiện sẽ được giao đến khách hàng một cách nhanh chóng.",
+    "core_vocabulary": [
+      {
+        "word": "guarantee",
+        "type": "v.",
+        "meaning": "đảm bảo"
+      },
+      {
+        "word": "promptly",
+        "type": "adv.",
+        "meaning": "nhanh chóng, ngay lập tức"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_22",
+    "question": "Beacon Consulting offers ______ advice to companies looking to expand into Asian markets.",
+    "options": {
+      "A": "strategic",
+      "B": "strategically",
+      "C": "strategy",
+      "D": "strategize"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước danh từ 'advice' (lời khuyên) cần một tính từ để bổ nghĩa. 'strategic' (mang tính chiến lược) là đáp án đúng.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Tư vấn Beacon cung cấp những lời khuyên chiến lược cho các công ty muốn mở rộng sang thị trường châu Á.",
+    "core_vocabulary": [
+      {
+        "word": "strategic",
+        "type": "adj.",
+        "meaning": "chiến lược"
+      },
+      {
+        "word": "expand",
+        "type": "v.",
+        "meaning": "mở rộng"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_23",
+    "question": "The Windsor Theater has gained ______ for its high-quality stage productions.",
+    "options": {
+      "A": "popular",
+      "B": "popularly",
+      "C": "popularity",
+      "D": "popularize"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Mặc dù test về Tính/Trạng từ, vị trí sau động từ 'gained' cần một danh từ làm tân ngữ (đạt được cái gì đó). 'popularity' (sự nổi tiếng) là phù hợp nhất.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Nhà hát Windsor đã nổi tiếng nhờ các tác phẩm sân khấu chất lượng cao.",
+    "core_vocabulary": [
+      {
+        "word": "gain",
+        "type": "v.",
+        "meaning": "đạt được, giành được"
+      },
+      {
+        "word": "popularity",
+        "type": "n.",
+        "meaning": "sự phổ biến, sự nổi tiếng"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_24",
+    "question": "The chef at Riverfront Cafe prepares each dish ______ to ensure the best quality.",
+    "options": {
+      "A": "delicious",
+      "B": "deliciously",
+      "C": "delicacy",
+      "D": "delighted"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau động từ thường 'prepares' và tân ngữ 'each dish', ta cần trạng từ để mô tả hành động chuẩn bị đó diễn ra thế nào. 'deliciously' (một cách ngon miệng) là đúng.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Đầu bếp tại Riverfront Cafe chuẩn bị mỗi món ăn một cách thơm ngon để đảm bảo chất lượng tốt nhất.",
+    "core_vocabulary": [
+      {
+        "word": "prepare",
+        "type": "v.",
+        "meaning": "chuẩn bị"
+      },
+      {
+        "word": "deliciously",
+        "type": "adv.",
+        "meaning": "một cách ngon miệng"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test9_25",
+    "question": "Global Logistics provides ______ shipping services for businesses of all sizes.",
+    "options": {
+      "A": "internationalize",
+      "B": "international",
+      "C": "internationally",
+      "D": "internation"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước cụm danh từ 'shipping services' cần một tính từ bổ nghĩa. 'international' (quốc tế) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Global Logistics cung cấp các dịch vụ vận chuyển quốc tế cho các doanh nghiệp ở mọi quy mô.",
+    "core_vocabulary": [
+      {
+        "word": "provide",
+        "type": "v.",
+        "meaning": "cung cấp"
+      },
+      {
+        "word": "international",
+        "type": "adj.",
+        "meaning": "thuộc về quốc tế"
+      }
+    ]
+  }
+]

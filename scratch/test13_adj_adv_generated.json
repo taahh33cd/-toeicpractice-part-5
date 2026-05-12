@@ -1,0 +1,677 @@
+[
+  {
+    "id": "q_adjadv_test13_01",
+    "question": "The Vanderbilt Group ensures that all financial reports are ______ before they are submitted to the board.",
+    "options": {
+      "A": "sufficiency",
+      "B": "sufficiently",
+      "C": "sufficient",
+      "D": "suffice"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau động từ to be 'are' cần một tính từ để mô tả trạng thái của 'financial reports'. 'sufficient' (đầy đủ) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Tập đoàn Vanderbilt đảm bảo rằng tất cả các báo cáo tài chính đều đầy đủ trước khi chúng được đệ trình lên ban giám đốc.",
+    "core_vocabulary": [
+      {
+        "word": "sufficient",
+        "type": "adj.",
+        "meaning": "đầy đủ, đủ"
+      },
+      {
+        "word": "submit",
+        "type": "v.",
+        "meaning": "đệ trình, nộp"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_02",
+    "question": "The server at Apex Cloud will be ______ unavailable this Sunday due to scheduled system maintenance.",
+    "options": {
+      "A": "temporary",
+      "B": "temporarily",
+      "C": "temporariness",
+      "D": "tempting"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'be' và tính từ 'unavailable' cần trạng từ bổ nghĩa cho tính từ. 'temporarily' (một cách tạm thời) là đáp án đúng.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Máy chủ tại Apex Cloud sẽ tạm thời không khả dụng vào Chủ nhật tuần này do đợt bảo trì hệ thống đã được lên lịch.",
+    "core_vocabulary": [
+      {
+        "word": "temporarily",
+        "type": "adv.",
+        "meaning": "một cách tạm thời"
+      },
+      {
+        "word": "unavailable",
+        "type": "adj.",
+        "meaning": "không có sẵn, không khả dụng"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_03",
+    "question": "Attorneys at the Sterling Law Firm are reminded to keep all client documents in a ______ location.",
+    "options": {
+      "A": "confidentiality",
+      "B": "confidentially",
+      "C": "confidential",
+      "D": "confide"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'a' và trước danh từ 'location' cần một tính từ. 'confidential' (bảo mật, bí mật) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Các luật sư tại Công ty Luật Sterling được nhắc nhở giữ tất cả tài liệu của khách hàng ở một địa điểm bảo mật.",
+    "core_vocabulary": [
+      {
+        "word": "confidential",
+        "type": "adj.",
+        "meaning": "bảo mật, bí mật"
+      },
+      {
+        "word": "location",
+        "type": "n.",
+        "meaning": "địa điểm, vị trí"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_04",
+    "question": "The head chef at The Gables is ______ talented at creating unique fusion dishes for weddings.",
+    "options": {
+      "A": "exception",
+      "B": "exceptionally",
+      "C": "exceptional",
+      "D": "excepting"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước tính từ 'talented' (tài năng) cần một trạng từ chỉ mức độ. 'exceptionally' (đặc biệt, xuất chúng) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Bếp trưởng tại The Gables đặc biệt tài năng trong việc tạo ra các món ăn kết hợp độc đáo cho các đám cưới.",
+    "core_vocabulary": [
+      {
+        "word": "exceptionally",
+        "type": "adv.",
+        "meaning": "đặc biệt, xuất chúng"
+      },
+      {
+        "word": "talented",
+        "type": "adj.",
+        "meaning": "có tài năng"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_05",
+    "question": "Digital marketing specialists at Nova Media are identifying ______ customers through social media analytics.",
+    "options": {
+      "A": "potential",
+      "B": "potentially",
+      "C": "potency",
+      "D": "potentiality"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước danh từ 'customers' cần một tính từ để tạo thành cụm danh từ. 'potential' (tiềm năng) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Các chuyên gia tiếp thị kỹ thuật số tại Nova Media đang xác định những khách hàng tiềm năng thông qua phân tích mạng xã hội.",
+    "core_vocabulary": [
+      {
+        "word": "potential",
+        "type": "adj.",
+        "meaning": "tiềm năng"
+      },
+      {
+        "word": "identify",
+        "type": "v.",
+        "meaning": "nhận diện, xác định"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_06",
+    "question": "The software applications at MedTech Solutions are ______ checked for security vulnerabilities.",
+    "options": {
+      "A": "periodic",
+      "B": "periodically",
+      "C": "periodicity",
+      "D": "period"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'are' và phân từ hai 'checked' (được kiểm tra) cần trạng từ bổ nghĩa cho tần suất của hành động. 'periodically' (một cách định kỳ) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Các ứng dụng phần mềm tại MedTech Solutions được kiểm tra định kỳ về các lỗ hổng bảo mật.",
+    "core_vocabulary": [
+      {
+        "word": "periodically",
+        "type": "adv.",
+        "meaning": "một cách định kỳ"
+      },
+      {
+        "word": "vulnerability",
+        "type": "n.",
+        "meaning": "lỗ hổng, sự yếu kém"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_07",
+    "question": "Skyline Realty offers several ______ housing options for young professionals moving to the city center.",
+    "options": {
+      "A": "afford",
+      "B": "affordability",
+      "C": "affordable",
+      "D": "affordably"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước cụm danh từ 'housing options' cần một tính từ. 'affordable' (giá cả phải chăng) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Skyline Realty cung cấp một số lựa chọn nhà ở giá cả phải chăng cho các chuyên gia trẻ chuyển đến trung tâm thành phố.",
+    "core_vocabulary": [
+      {
+        "word": "affordable",
+        "type": "adj.",
+        "meaning": "có thể chi trả được, giá cả phải chăng"
+      },
+      {
+        "word": "housing",
+        "type": "n.",
+        "meaning": "nhà ở"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_08",
+    "question": "The Regency Hotel is ______ located within walking distance of the city’s major financial district.",
+    "options": {
+      "A": "convenience",
+      "B": "convenient",
+      "C": "conveniently",
+      "D": "convene"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'is' và phân từ 'located' cần trạng từ. 'is conveniently located' (được tọa lạc ở vị trí thuận tiện) là cụm từ TOEIC kinh điển.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Khách sạn Regency nằm ở vị trí thuận tiện, có thể đi bộ đến khu tài chính lớn của thành phố.",
+    "core_vocabulary": [
+      {
+        "word": "conveniently",
+        "type": "adv.",
+        "meaning": "một cách thuận tiện"
+      },
+      {
+        "word": "locate",
+        "type": "v.",
+        "meaning": "tọa lạc, nằm ở"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_09",
+    "question": "Management implemented a more ______ method of processing payroll to reduce administrative errors.",
+    "options": {
+      "A": "efficiently",
+      "B": "efficient",
+      "C": "efficiency",
+      "D": "efficiencies"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'a', phó từ chỉ mức độ 'more' và trước danh từ 'method' cần tính từ. 'efficient' (hiệu quả) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Ban quản lý đã áp dụng một phương pháp xử lý bảng lương hiệu quả hơn để giảm thiểu các lỗi hành chính.",
+    "core_vocabulary": [
+      {
+        "word": "efficient",
+        "type": "adj.",
+        "meaning": "hiệu quả"
+      },
+      {
+        "word": "payroll",
+        "type": "n.",
+        "meaning": "bảng lương"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_10",
+    "question": "The safety regulations at the Grant Laboratory are ______ enforced to prevent any workplace accidents.",
+    "options": {
+      "A": "strictness",
+      "B": "strictly",
+      "C": "strict",
+      "D": "stricter"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'are' và phân từ hai 'enforced' (được thực thi) cần trạng từ để bổ nghĩa. 'strictly' (một cách nghiêm ngặt) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Các quy định an toàn tại Phòng thí nghiệm Grant được thực thi nghiêm ngặt để ngăn ngừa mọi tai nạn lao động.",
+    "core_vocabulary": [
+      {
+        "word": "strictly",
+        "type": "adv.",
+        "meaning": "một cách nghiêm ngặt"
+      },
+      {
+        "word": "enforce",
+        "type": "v.",
+        "meaning": "thực thi, thi hành"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_11",
+    "question": "The instruction manual provides ______ steps on how to assemble the new ergonomic office chairs.",
+    "options": {
+      "A": "detail",
+      "B": "detailed",
+      "C": "detailing",
+      "D": "details"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước danh từ 'steps' (các bước) cần tính từ để bổ nghĩa. 'detailed' (chi tiết) là phân từ đóng vai trò như tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Sách hướng dẫn cung cấp các bước chi tiết về cách lắp ráp những chiếc ghế văn phòng tiện dụng mới.",
+    "core_vocabulary": [
+      {
+        "word": "detailed",
+        "type": "adj.",
+        "meaning": "chi tiết"
+      },
+      {
+        "word": "assemble",
+        "type": "v.",
+        "meaning": "lắp ráp"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_12",
+    "question": "All nursing staff at the St. Jude Clinic are ______ trained to handle emergency medical situations.",
+    "options": {
+      "A": "profession",
+      "B": "professionalism",
+      "C": "professional",
+      "D": "professionally"
+    },
+    "correct_answer": "D",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'are' và 'trained' (được đào tạo) cần trạng từ. 'professionally' (một cách chuyên nghiệp) là đáp án đúng.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Tất cả các nhân viên điều dưỡng tại Phòng khám St. Jude đều được đào tạo một cách chuyên nghiệp để xử lý các tình huống y tế khẩn cấp.",
+    "core_vocabulary": [
+      {
+        "word": "professionally",
+        "type": "adv.",
+        "meaning": "một cách chuyên nghiệp"
+      },
+      {
+        "word": "emergency",
+        "type": "n.",
+        "meaning": "tình trạng khẩn cấp"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_13",
+    "question": "The marketing campaign was an ______ strategy that doubled the company's online subscription rate.",
+    "options": {
+      "A": "effect",
+      "B": "effective",
+      "C": "effectively",
+      "D": "effectiveness"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'an' và trước danh từ 'strategy' cần một tính từ. 'effective' (hiệu quả) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Chiến dịch tiếp thị là một chiến lược hiệu quả đã làm tăng gấp đôi tỷ lệ đăng ký trực tuyến của công ty.",
+    "core_vocabulary": [
+      {
+        "word": "effective",
+        "type": "adj.",
+        "meaning": "hiệu quả"
+      },
+      {
+        "word": "subscription",
+        "type": "n.",
+        "meaning": "sự đăng ký (mua, theo dõi dài hạn)"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_14",
+    "question": "The renovation of the Harrison Building is ______ finished, with only minor painting tasks remaining.",
+    "options": {
+      "A": "nearness",
+      "B": "near",
+      "C": "nearly",
+      "D": "nearing"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng trước tính từ/phân từ 'finished' (đã hoàn thành) cần một trạng từ chỉ mức độ. 'nearly' (gần như) là đáp án đúng.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Việc cải tạo Tòa nhà Harrison gần như đã hoàn tất, chỉ còn lại những công việc sơn nhỏ lẻ.",
+    "core_vocabulary": [
+      {
+        "word": "nearly",
+        "type": "adv.",
+        "meaning": "gần như, hầu như"
+      },
+      {
+        "word": "renovation",
+        "type": "n.",
+        "meaning": "sự cải tạo, tu sửa"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_15",
+    "question": "Mr. Choi presented an ______ portfolio of his architectural designs during the interview at ArchiPlan.",
+    "options": {
+      "A": "impressively",
+      "B": "impression",
+      "C": "impressive",
+      "D": "impress"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'an' và trước danh từ 'portfolio' (hồ sơ năng lực) cần một tính từ. 'impressive' (ấn tượng) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Ông Choi đã trình bày một hồ sơ năng lực ấn tượng về các thiết kế kiến trúc của mình trong buổi phỏng vấn tại ArchiPlan.",
+    "core_vocabulary": [
+      {
+        "word": "impressive",
+        "type": "adj.",
+        "meaning": "ấn tượng"
+      },
+      {
+        "word": "portfolio",
+        "type": "n.",
+        "meaning": "hồ sơ năng lực"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_16",
+    "question": "Security patches for the Titan Operating System are ______ released to protect users from hackers.",
+    "options": {
+      "A": "frequent",
+      "B": "frequently",
+      "C": "frequency",
+      "D": "frequenting"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'are' và 'released' cần trạng từ bổ nghĩa cho tần suất của hành động. 'frequently' (một cách thường xuyên) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Các bản vá bảo mật cho Hệ điều hành Titan được phát hành thường xuyên để bảo vệ người dùng khỏi tin tặc.",
+    "core_vocabulary": [
+      {
+        "word": "frequently",
+        "type": "adv.",
+        "meaning": "thường xuyên"
+      },
+      {
+        "word": "patch",
+        "type": "n.",
+        "meaning": "bản vá lỗi (phần mềm)"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_17",
+    "question": "The new printer in the human resources office is known for its ______ performance and high speed.",
+    "options": {
+      "A": "reliability",
+      "B": "reliably",
+      "C": "reliable",
+      "D": "rely"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước danh từ 'performance' (hiệu suất) cần tính từ bổ nghĩa. 'reliable' (đáng tin cậy) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Máy in mới trong văn phòng nhân sự được biết đến với hiệu suất đáng tin cậy và tốc độ cao.",
+    "core_vocabulary": [
+      {
+        "word": "reliable",
+        "type": "adj.",
+        "meaning": "đáng tin cậy"
+      },
+      {
+        "word": "performance",
+        "type": "n.",
+        "meaning": "hiệu suất"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_18",
+    "question": "Before signing the lease agreement, please read the terms and conditions ______ to avoid future disputes.",
+    "options": {
+      "A": "careful",
+      "B": "carefulness",
+      "C": "care",
+      "D": "carefully"
+    },
+    "correct_answer": "D",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau động từ 'read' và tân ngữ 'the terms and conditions' cần một trạng từ chỉ cách thức. 'carefully' (một cách cẩn thận) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Trước khi ký hợp đồng thuê, vui lòng đọc kỹ các điều khoản và điều kiện một cách cẩn thận để tránh các tranh chấp trong tương lai.",
+    "core_vocabulary": [
+      {
+        "word": "carefully",
+        "type": "adv.",
+        "meaning": "một cách cẩn thận, kỹ lưỡng"
+      },
+      {
+        "word": "dispute",
+        "type": "n.",
+        "meaning": "sự tranh chấp"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_19",
+    "question": "The ______ billing process at BlueStream Water saves customers time by charging their cards monthly.",
+    "options": {
+      "A": "automatic",
+      "B": "automatically",
+      "C": "automation",
+      "D": "automating"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước cụm danh từ 'billing process' (quy trình thanh toán) cần một tính từ. 'automatic' (tự động) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Quy trình thanh toán tự động tại BlueStream Water giúp khách hàng tiết kiệm thời gian bằng cách tính tiền vào thẻ của họ hàng tháng.",
+    "core_vocabulary": [
+      {
+        "word": "automatic",
+        "type": "adj.",
+        "meaning": "tự động"
+      },
+      {
+        "word": "billing",
+        "type": "n.",
+        "meaning": "việc lập hóa đơn, thanh toán"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_20",
+    "question": "The transition to the new cloud-based database went ______ thanks to the IT team's preparation.",
+    "options": {
+      "A": "smooth",
+      "B": "smoothly",
+      "C": "smoothness",
+      "D": "smoother"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau động từ thường 'went' (diễn ra) cần trạng từ chỉ cách thức. Cụm 'go smoothly' (diễn ra suôn sẻ) rất thông dụng.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Quá trình chuyển đổi sang cơ sở dữ liệu dựa trên đám mây mới đã diễn ra suôn sẻ nhờ sự chuẩn bị của đội ngũ IT.",
+    "core_vocabulary": [
+      {
+        "word": "smoothly",
+        "type": "adv.",
+        "meaning": "một cách suôn sẻ, trôi chảy"
+      },
+      {
+        "word": "transition",
+        "type": "n.",
+        "meaning": "sự chuyển đổi"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_21",
+    "question": "Technical support is ______ 24 hours a day to assist clients with any software-related issues.",
+    "options": {
+      "A": "available",
+      "B": "availability",
+      "C": "availably",
+      "D": "avail"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau động từ to be 'is' cần một tính từ chỉ trạng thái. 'available' (có sẵn, sẵn sàng) là đáp án đúng.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Bộ phận hỗ trợ kỹ thuật có sẵn 24 giờ một ngày để hỗ trợ khách hàng với bất kỳ sự cố nào liên quan đến phần mềm.",
+    "core_vocabulary": [
+      {
+        "word": "available",
+        "type": "adj.",
+        "meaning": "có sẵn, rảnh rỗi, sẵn sàng"
+      },
+      {
+        "word": "assist",
+        "type": "v.",
+        "meaning": "hỗ trợ, giúp đỡ"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_22",
+    "question": "The board of directors ______ disagreed with the proposal to reduce the annual research budget.",
+    "options": {
+      "A": "strong",
+      "B": "strength",
+      "C": "strongly",
+      "D": "strongest"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng trước động từ 'disagreed' (không đồng ý) cần trạng từ bổ nghĩa cho mức độ của hành động. 'strongly' (kịch liệt, mạnh mẽ) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Ban giám đốc đã kịch liệt phản đối đề xuất giảm ngân sách nghiên cứu thường niên.",
+    "core_vocabulary": [
+      {
+        "word": "strongly",
+        "type": "adv.",
+        "meaning": "kịch liệt, mạnh mẽ"
+      },
+      {
+        "word": "disagree",
+        "type": "v.",
+        "meaning": "không đồng ý, phản đối"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_23",
+    "question": "The ______ cost of the office expansion project exceeded the initial estimate by ten percent.",
+    "options": {
+      "A": "total",
+      "B": "totally",
+      "C": "totality",
+      "D": "totaling"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước danh từ 'cost' (chi phí) cần tính từ để bổ nghĩa. 'total' (tổng số, toàn bộ) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Tổng chi phí của dự án mở rộng văn phòng đã vượt quá mức ước tính ban đầu mười phần trăm.",
+    "core_vocabulary": [
+      {
+        "word": "total",
+        "type": "adj.",
+        "meaning": "tổng cộng, toàn bộ"
+      },
+      {
+        "word": "exceed",
+        "type": "v.",
+        "meaning": "vượt quá"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_24",
+    "question": "Employees must ensure that all lab equipment is ______ sanitized after each use.",
+    "options": {
+      "A": "proper",
+      "B": "properly",
+      "C": "property",
+      "D": "propriety"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'is' và phân từ hai 'sanitized' (được khử trùng) cần một trạng từ bổ nghĩa. 'properly' (một cách đúng đắn, thích hợp) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Nhân viên phải đảm bảo rằng tất cả thiết bị phòng thí nghiệm được khử trùng đúng cách sau mỗi lần sử dụng.",
+    "core_vocabulary": [
+      {
+        "word": "properly",
+        "type": "adv.",
+        "meaning": "đúng đắn, đúng cách"
+      },
+      {
+        "word": "sanitize",
+        "type": "v.",
+        "meaning": "khử trùng, làm vệ sinh"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test13_25",
+    "question": "The candidate must meet ______ requirements, including five years of experience in financial auditing.",
+    "options": {
+      "A": "specify",
+      "B": "specific",
+      "C": "specifically",
+      "D": "specification"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước danh từ 'requirements' (các yêu cầu) cần tính từ bổ nghĩa. 'specific' (cụ thể, riêng biệt) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Ứng viên phải đáp ứng các yêu cầu cụ thể, bao gồm năm năm kinh nghiệm trong lĩnh vực kiểm toán tài chính.",
+    "core_vocabulary": [
+      {
+        "word": "specific",
+        "type": "adj.",
+        "meaning": "cụ thể, rõ ràng"
+      },
+      {
+        "word": "auditing",
+        "type": "n.",
+        "meaning": "công việc kiểm toán"
+      }
+    ]
+  }
+]

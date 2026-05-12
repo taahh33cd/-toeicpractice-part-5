@@ -1,0 +1,677 @@
+[
+  {
+    "id": "q_adjadv_test12_01",
+    "question": "The accounting software used by FinTrack Corp is ______ complex but offers many useful features.",
+    "options": {
+      "A": "extremely",
+      "B": "extreme",
+      "C": "extremity",
+      "D": "extremism"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước tính từ 'complex' (phức tạp) cần một trạng từ chỉ mức độ. 'extremely' (cực kỳ) là đáp án đúng.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Phần mềm kế toán được sử dụng bởi FinTrack Corp cực kỳ phức tạp nhưng cung cấp nhiều tính năng hữu ích.",
+    "core_vocabulary": [
+      {
+        "word": "extremely",
+        "type": "adv.",
+        "meaning": "cực kỳ, vô cùng"
+      },
+      {
+        "word": "complex",
+        "type": "adj.",
+        "meaning": "phức tạp"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_02",
+    "question": "The executive board members were ______ optimistic about the projected earnings for the next fiscal year.",
+    "options": {
+      "A": "cautious",
+      "B": "cautiously",
+      "C": "caution",
+      "D": "cautionary"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước tính từ 'optimistic' (lạc quan) cần một trạng từ để bổ sung ý nghĩa. 'cautiously optimistic' (lạc quan một cách thận trọng) là một cụm từ rất phổ biến.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Các thành viên ban điều hành tỏ ra lạc quan một cách thận trọng về thu nhập dự kiến cho năm tài chính tiếp theo.",
+    "core_vocabulary": [
+      {
+        "word": "cautiously",
+        "type": "adv.",
+        "meaning": "một cách thận trọng"
+      },
+      {
+        "word": "optimistic",
+        "type": "adj.",
+        "meaning": "lạc quan"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_03",
+    "question": "Bluegate Realty offers a ______ selection of luxury apartments in the city's waterfront district.",
+    "options": {
+      "A": "broadly",
+      "B": "broadness",
+      "C": "broad",
+      "D": "broaden"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'a' và trước danh từ 'selection' (sự lựa chọn) cần một tính từ. 'broad' (rộng) tạo thành cụm 'a broad selection' (sự lựa chọn đa dạng/phong phú).",
+    "explanation_grammar": "Tính từ",
+    "translation": "Bluegate Realty mang đến một sự lựa chọn đa dạng các căn hộ sang trọng tại khu vực ven sông của thành phố.",
+    "core_vocabulary": [
+      {
+        "word": "broad",
+        "type": "adj.",
+        "meaning": "rộng, đa dạng"
+      },
+      {
+        "word": "selection",
+        "type": "n.",
+        "meaning": "sự lựa chọn"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_04",
+    "question": "Technical support staff are required to explain the repair process ______ to every customer.",
+    "options": {
+      "A": "clear",
+      "B": "clearly",
+      "C": "clarity",
+      "D": "clarification"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Động từ chính cần bổ nghĩa là 'explain' (giải thích). Trạng từ 'clearly' (một cách rõ ràng) dùng để mô tả cách thức giải thích.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Nhân viên hỗ trợ kỹ thuật được yêu cầu giải thích quy trình sửa chữa một cách rõ ràng cho mọi khách hàng.",
+    "core_vocabulary": [
+      {
+        "word": "clearly",
+        "type": "adv.",
+        "meaning": "một cách rõ ràng"
+      },
+      {
+        "word": "explain",
+        "type": "v.",
+        "meaning": "giải thích"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_05",
+    "question": "The marketing director was ______ impressed by the creative ideas presented by the junior interns.",
+    "options": {
+      "A": "genuine",
+      "B": "genuinely",
+      "C": "genuineness",
+      "D": "genuines"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'was' và phân từ hai 'impressed' (bị ấn tượng) cần một trạng từ bổ nghĩa. 'genuinely' (thực sự, chân thành) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Giám đốc tiếp thị đã thực sự bị ấn tượng bởi những ý tưởng sáng tạo do các thực tập sinh cấp dưới trình bày.",
+    "core_vocabulary": [
+      {
+        "word": "genuinely",
+        "type": "adv.",
+        "meaning": "thực sự, thành thật"
+      },
+      {
+        "word": "impressed",
+        "type": "adj.",
+        "meaning": "bị ấn tượng"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_06",
+    "question": "Dr. Han suggested a ______ health checkup for all employees to improve workplace wellness.",
+    "options": {
+      "A": "comprehensive",
+      "B": "comprehensively",
+      "C": "comprehension",
+      "D": "comprehend"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'a' và trước cụm danh từ 'health checkup' cần một tính từ. 'comprehensive' (toàn diện) là tính từ.",
+    "explanation_grammar": "Tính từ",
+    "translation": "Bác sĩ Han đề nghị một cuộc kiểm tra sức khỏe toàn diện cho tất cả nhân viên để cải thiện sức khỏe tại nơi làm việc.",
+    "core_vocabulary": [
+      {
+        "word": "comprehensive",
+        "type": "adj.",
+        "meaning": "toàn diện, bao quát"
+      },
+      {
+        "word": "checkup",
+        "type": "n.",
+        "meaning": "cuộc kiểm tra sức khỏe"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_07",
+    "question": "The recently installed air conditioning system at the Lexis Building operates ______.",
+    "options": {
+      "A": "quiet",
+      "B": "quietly",
+      "C": "quietness",
+      "D": "quieted"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau động từ thường 'operates' (hoạt động) cần một trạng từ chỉ cách thức. 'quietly' (một cách yên tĩnh) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Hệ thống điều hòa không khí mới được lắp đặt tại Tòa nhà Lexis hoạt động một cách yên tĩnh.",
+    "core_vocabulary": [
+      {
+        "word": "operate",
+        "type": "v.",
+        "meaning": "hoạt động, vận hành"
+      },
+      {
+        "word": "quietly",
+        "type": "adv.",
+        "meaning": "một cách yên tĩnh"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_08",
+    "question": "Candidates who are ______ interested in the senior designer position should submit a portfolio.",
+    "options": {
+      "A": "special",
+      "B": "specially",
+      "C": "especially",
+      "D": "specialty"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'are' và tính từ 'interested' cần một trạng từ chỉ mức độ. 'especially' (đặc biệt) phù hợp với ngữ cảnh 'đặc biệt quan tâm'.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Những ứng viên đặc biệt quan tâm đến vị trí nhà thiết kế cấp cao nên nộp hồ sơ năng lực.",
+    "core_vocabulary": [
+      {
+        "word": "especially",
+        "type": "adv.",
+        "meaning": "đặc biệt"
+      },
+      {
+        "word": "interested",
+        "type": "adj.",
+        "meaning": "quan tâm, thích thú"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_09",
+    "question": "The new policy at Silver Lake Insurance is ______ designed to protect against digital identity theft.",
+    "options": {
+      "A": "specific",
+      "B": "specifically",
+      "C": "specification",
+      "D": "specifying"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'is' và phân từ hai 'designed' cần một trạng từ. 'specifically' (một cách đặc biệt/dành riêng) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Chính sách mới tại Silver Lake Insurance được thiết kế đặc biệt để bảo vệ chống lại hành vi trộm cắp danh tính kỹ thuật số.",
+    "core_vocabulary": [
+      {
+        "word": "specifically",
+        "type": "adv.",
+        "meaning": "một cách cụ thể, đặc biệt"
+      },
+      {
+        "word": "identity theft",
+        "type": "n.",
+        "meaning": "hành vi trộm cắp danh tính"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_10",
+    "question": "The architect’s ______ vision for the new museum received praise from the local community.",
+    "options": {
+      "A": "creative",
+      "B": "creatively",
+      "C": "creativity",
+      "D": "creativeness"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước danh từ 'vision' (tầm nhìn) cần một tính từ bổ nghĩa. 'creative' (sáng tạo) là tính từ. (Lưu ý: Bạn chọn 'creativity' là danh từ nên sai cấu trúc).",
+    "explanation_grammar": "Tính từ",
+    "translation": "Tầm nhìn sáng tạo của kiến trúc sư về bảo tàng mới đã nhận được lời khen ngợi từ cộng đồng địa phương.",
+    "core_vocabulary": [
+      {
+        "word": "creative",
+        "type": "adj.",
+        "meaning": "sáng tạo"
+      },
+      {
+        "word": "vision",
+        "type": "n.",
+        "meaning": "tầm nhìn"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_11",
+    "question": "Most analysts agree that the current economic recovery is ______ slow but steady.",
+    "options": {
+      "A": "relative",
+      "B": "relatively",
+      "C": "relativity",
+      "D": "relation"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước tính từ 'slow' (chậm) cần trạng từ chỉ mức độ. 'relatively' (tương đối) là đáp án đúng.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Hầu hết các nhà phân tích đều đồng ý rằng sự phục hồi kinh tế hiện tại tương đối chậm nhưng ổn định.",
+    "core_vocabulary": [
+      {
+        "word": "relatively",
+        "type": "adv.",
+        "meaning": "tương đối"
+      },
+      {
+        "word": "steady",
+        "type": "adj.",
+        "meaning": "ổn định, vững chắc"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_12",
+    "question": "The legal firm ______ handles all disputes involving intellectual property rights.",
+    "options": {
+      "A": "expert",
+      "B": "expertly",
+      "C": "expertise",
+      "D": "expertness"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng trước động từ thường 'handles' (xử lý) cần một trạng từ bổ nghĩa cho hành động đó. 'expertly' (một cách thành thạo, chuyên nghiệp) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Công ty pháp lý xử lý một cách thành thạo mọi tranh chấp liên quan đến quyền sở hữu trí tuệ.",
+    "core_vocabulary": [
+      {
+        "word": "expertly",
+        "type": "adv.",
+        "meaning": "một cách thành thạo, điêu luyện"
+      },
+      {
+        "word": "dispute",
+        "type": "n.",
+        "meaning": "cuộc tranh chấp, sự tranh cãi"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_13",
+    "question": "High-quality customer service is ______ important for maintaining a positive brand reputation.",
+    "options": {
+      "A": "vitality",
+      "B": "vitalize",
+      "C": "vitally",
+      "D": "vital"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước tính từ 'important' (quan trọng) cần một trạng từ chỉ mức độ. 'vitally' (vô cùng, cực kỳ) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Dịch vụ khách hàng chất lượng cao vô cùng quan trọng đối với việc duy trì danh tiếng thương hiệu tích cực.",
+    "core_vocabulary": [
+      {
+        "word": "vitally",
+        "type": "adv.",
+        "meaning": "cực kỳ, thiết yếu"
+      },
+      {
+        "word": "reputation",
+        "type": "n.",
+        "meaning": "danh tiếng"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_14",
+    "question": "The restaurant manager was ______ concerned about the negative reviews on social media.",
+    "options": {
+      "A": "deep",
+      "B": "deeply",
+      "C": "depth",
+      "D": "deepen"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'was' và tính từ 'concerned' (lo ngại) cần một trạng từ chỉ mức độ. 'deeply' (sâu sắc, vô cùng) là đáp án phù hợp.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Quản lý nhà hàng đã vô cùng lo lắng về những đánh giá tiêu cực trên mạng xã hội.",
+    "core_vocabulary": [
+      {
+        "word": "deeply",
+        "type": "adv.",
+        "meaning": "vô cùng, sâu sắc"
+      },
+      {
+        "word": "concerned",
+        "type": "adj.",
+        "meaning": "lo lắng, quan ngại"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_15",
+    "question": "The human resources department is looking for a ______ energetic person to lead the social committee.",
+    "options": {
+      "A": "highly",
+      "B": "high",
+      "C": "height",
+      "D": "heighten"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Trước tính từ 'energetic' (năng động) cần một trạng từ chỉ mức độ. 'highly' (rất) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Bộ phận nhân sự đang tìm kiếm một người rất năng động để lãnh đạo ủy ban xã hội.",
+    "core_vocabulary": [
+      {
+        "word": "highly",
+        "type": "adv.",
+        "meaning": "rất, cao độ"
+      },
+      {
+        "word": "energetic",
+        "type": "adj.",
+        "meaning": "năng động, tràn đầy năng lượng"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_16",
+    "question": "The financial data provided in the report was ______ accurate and helped the team make a decision.",
+    "options": {
+      "A": "entirely",
+      "B": "entire",
+      "C": "entirety",
+      "D": "entitle"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng trước tính từ 'accurate' (chính xác) cần một trạng từ để bổ sung ý nghĩa mức độ. 'entirely' (hoàn toàn) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Dữ liệu tài chính được cung cấp trong báo cáo hoàn toàn chính xác và đã giúp nhóm đưa ra quyết định.",
+    "core_vocabulary": [
+      {
+        "word": "entirely",
+        "type": "adv.",
+        "meaning": "hoàn toàn"
+      },
+      {
+        "word": "accurate",
+        "type": "adj.",
+        "meaning": "chính xác"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_17",
+    "question": "Tech-Core’s new tablet has a ______ sleek design that appeals to young professionals.",
+    "options": {
+      "A": "notably",
+      "B": "notable",
+      "C": "noted",
+      "D": "notability"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'a' và trước tính từ 'sleek' (kiểu dáng đẹp) cần trạng từ chỉ mức độ để bổ nghĩa. 'notably' (đáng kể, đáng chú ý) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Máy tính bảng mới của Tech-Core có một thiết kế kiểu dáng đẹp đáng chú ý, thu hút các chuyên gia trẻ tuổi.",
+    "core_vocabulary": [
+      {
+        "word": "notably",
+        "type": "adv.",
+        "meaning": "đáng chú ý, rõ rệt"
+      },
+      {
+        "word": "sleek",
+        "type": "adj.",
+        "meaning": "bóng bẩy, kiểu dáng đẹp"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_18",
+    "question": "The security team responded ______ when the fire alarm was triggered in the East Wing.",
+    "options": {
+      "A": "immediate",
+      "B": "immediately",
+      "C": "immediacy",
+      "D": "immediateness"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau động từ thường 'responded' (phản hồi) cần một trạng từ bổ nghĩa cho hành động đó. 'immediately' (ngay lập tức) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Đội ngũ an ninh đã phản hồi ngay lập tức khi chuông báo cháy được kích hoạt ở Cánh Đông.",
+    "core_vocabulary": [
+      {
+        "word": "immediately",
+        "type": "adv.",
+        "meaning": "ngay lập tức"
+      },
+      {
+        "word": "trigger",
+        "type": "v.",
+        "meaning": "kích hoạt"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_19",
+    "question": "All medical records at the Northfield Clinic are kept ______ confidential to protect patient privacy.",
+    "options": {
+      "A": "strictly",
+      "B": "strict",
+      "C": "strictness",
+      "D": "stricter"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng trước tính từ 'confidential' (bảo mật) cần trạng từ chỉ mức độ. 'strictly' (một cách nghiêm ngặt) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Tất cả các hồ sơ y tế tại Phòng khám Northfield được giữ bảo mật nghiêm ngặt để bảo vệ quyền riêng tư của bệnh nhân.",
+    "core_vocabulary": [
+      {
+        "word": "strictly",
+        "type": "adv.",
+        "meaning": "một cách nghiêm ngặt"
+      },
+      {
+        "word": "confidential",
+        "type": "adj.",
+        "meaning": "bảo mật"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_20",
+    "question": "The renovation project for the city library was ______ more expensive than originally estimated.",
+    "options": {
+      "A": "significance",
+      "B": "significantly",
+      "C": "significant",
+      "D": "signification"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng trước tính từ so sánh hơn 'more expensive' cần một trạng từ chỉ mức độ. 'significantly' (một cách đáng kể) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Dự án cải tạo thư viện thành phố đắt hơn đáng kể so với ước tính ban đầu.",
+    "core_vocabulary": [
+      {
+        "word": "significantly",
+        "type": "adv.",
+        "meaning": "một cách đáng kể"
+      },
+      {
+        "word": "estimate",
+        "type": "v.",
+        "meaning": "ước tính"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_21",
+    "question": "Mr. Sato is a ______ talented developer who has created several award-winning mobile apps.",
+    "options": {
+      "A": "remark",
+      "B": "remarkably",
+      "C": "remarkable",
+      "D": "remarked"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau mạo từ 'a' và trước tính từ 'talented' (tài năng) cần một trạng từ chỉ mức độ. 'remarkably' (đáng kinh ngạc/đáng chú ý) là trạng từ. (Lưu ý: Bạn chọn 'remarkable' là tính từ nên sai ngữ pháp. Mình cũng sửa lại lỗi đánh máy 'remarke' thành 'remark' ở đáp án A).",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Ông Sato là một nhà phát triển tài năng đáng kinh ngạc, người đã tạo ra một số ứng dụng di động đoạt giải thưởng.",
+    "core_vocabulary": [
+      {
+        "word": "remarkably",
+        "type": "adv.",
+        "meaning": "đáng chú ý, xuất sắc"
+      },
+      {
+        "word": "talented",
+        "type": "adj.",
+        "meaning": "có tài năng"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_22",
+    "question": "The customer service representative apologized ______ for the delay in processing the refund.",
+    "options": {
+      "A": "sincere",
+      "B": "sincerely",
+      "C": "sincerity",
+      "D": "sincerest"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Sau động từ thường 'apologized' (xin lỗi) cần một trạng từ chỉ cách thức. 'sincerely' (một cách chân thành) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Đại diện dịch vụ khách hàng đã chân thành xin lỗi vì sự chậm trễ trong việc xử lý khoản hoàn tiền.",
+    "core_vocabulary": [
+      {
+        "word": "sincerely",
+        "type": "adv.",
+        "meaning": "một cách chân thành"
+      },
+      {
+        "word": "apologize",
+        "type": "v.",
+        "meaning": "xin lỗi"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_23",
+    "question": "The new office chairs were ______ chosen to provide maximum back support for employees.",
+    "options": {
+      "A": "careful",
+      "B": "carefully",
+      "C": "carefulness",
+      "D": "care"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa trợ động từ 'were' và phân từ hai 'chosen' (được chọn) cần một trạng từ bổ nghĩa. 'carefully' (một cách cẩn thận) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Những chiếc ghế văn phòng mới đã được lựa chọn cẩn thận để cung cấp hỗ trợ lưng tối đa cho nhân viên.",
+    "core_vocabulary": [
+      {
+        "word": "carefully",
+        "type": "adv.",
+        "meaning": "một cách cẩn thận"
+      },
+      {
+        "word": "support",
+        "type": "n.",
+        "meaning": "sự hỗ trợ"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_24",
+    "question": "The conference room was ______ decorated for the company’s 20th-anniversary celebration.",
+    "options": {
+      "A": "beautiful",
+      "B": "beautifully",
+      "C": "beauty",
+      "D": "beautify"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng giữa 'was' và phân từ hai 'decorated' cần trạng từ bổ nghĩa cho hành động trang trí. 'beautifully' (một cách đẹp đẽ) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Phòng hội nghị đã được trang trí tuyệt đẹp cho lễ kỷ niệm 20 năm thành lập công ty.",
+    "core_vocabulary": [
+      {
+        "word": "beautifully",
+        "type": "adv.",
+        "meaning": "một cách tuyệt đẹp"
+      },
+      {
+        "word": "decorate",
+        "type": "v.",
+        "meaning": "trang trí"
+      }
+    ]
+  },
+  {
+    "id": "q_adjadv_test12_25",
+    "question": "Regular exercise is ______ beneficial for maintaining mental health during stressful work weeks.",
+    "options": {
+      "A": "immensely",
+      "B": "immense",
+      "C": "immensity",
+      "D": "immenseness"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Tính từ & Trạng từ",
+    "explanation_reason": "Đứng trước tính từ 'beneficial' (có lợi) cần một trạng từ chỉ mức độ. 'immensely' (cực kỳ, hết sức) là trạng từ.",
+    "explanation_grammar": "Trạng từ",
+    "translation": "Tập thể dục thường xuyên vô cùng có lợi cho việc duy trì sức khỏe tinh thần trong những tuần làm việc căng thẳng.",
+    "core_vocabulary": [
+      {
+        "word": "immensely",
+        "type": "adv.",
+        "meaning": "vô cùng, cực kỳ"
+      },
+      {
+        "word": "beneficial",
+        "type": "adj.",
+        "meaning": "có lợi"
+      }
+    ]
+  }
+]

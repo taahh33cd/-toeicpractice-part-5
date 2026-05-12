@@ -1,0 +1,562 @@
+[
+  {
+    "id": "q_relative_test9_01",
+    "question": "Mr. Henderson, ______ expertise in corporate law is well-known, will lead the negotiation team for the upcoming merger.",
+    "options": {
+      "A": "who",
+      "B": "whom",
+      "C": "whose",
+      "D": "which"
+    },
+    "correct_answer": "C",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'Whose' là đại từ quan hệ chỉ sở hữu, dùng cho cả người và vật.",
+    "explanation_grammar": "Đại từ quan hệ sở hữu",
+    "translation": "Ông Henderson, người có chuyên môn về luật doanh nghiệp đã nổi tiếng, sẽ dẫn đầu đội đàm phán cho vụ sáp nhập sắp tới.",
+    "core_vocabulary": [
+      {
+        "word": "expertise",
+        "type": "n",
+        "meaning": "chuyên môn"
+      },
+      {
+        "word": "merger",
+        "type": "n",
+        "meaning": "sự sáp nhập"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_02",
+    "question": "The new marketing strategy, ______ was proposed by the junior consultant, has significantly increased our online engagement.",
+    "options": {
+      "A": "which",
+      "B": "that",
+      "C": "who",
+      "D": "where"
+    },
+    "correct_answer": "A",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "Dùng 'which' cho mệnh đề quan hệ không xác định (có dấu phẩy) để bổ nghĩa cho vật.",
+    "explanation_grammar": "Đại từ quan hệ thay cho vật (MĐQH không xác định)",
+    "translation": "Chiến lược tiếp thị mới, cái mà được đề xuất bởi tư vấn viên cấp dưới, đã làm tăng đáng kể mức độ tương tác trực tuyến của chúng ta.",
+    "core_vocabulary": [
+      {
+        "word": "engagement",
+        "type": "n",
+        "meaning": "sự tương tác"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_03",
+    "question": "All staff members ______ to attend the annual gala should RSVP to the organizing committee by the end of the week.",
+    "options": {
+      "A": "plan",
+      "B": "planning",
+      "C": "planned",
+      "D": "who plans"
+    },
+    "correct_answer": "B",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "Rút gọn mệnh đề quan hệ dạng chủ động (V-ing). Câu gốc: 'who plan to attend'.",
+    "explanation_grammar": "Rút gọn mệnh đề quan hệ",
+    "translation": "Tất cả các nhân viên có kế hoạch tham dự buổi dạ tiệc hàng năm nên phản hồi (RSVP) cho ban tổ chức trước cuối tuần.",
+    "core_vocabulary": [
+      {
+        "word": "annual",
+        "type": "adj",
+        "meaning": "hàng năm"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_04",
+    "question": "We are currently looking for a specialized technician ______ can repair the high-precision machinery in the production facility.",
+    "options": {
+      "A": "whom",
+      "B": "which",
+      "C": "who",
+      "D": "whose"
+    },
+    "correct_answer": "C",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'Who' làm chủ ngữ thay thế cho danh từ chỉ người (technician).",
+    "explanation_grammar": "Đại từ quan hệ làm chủ ngữ",
+    "translation": "Chúng tôi hiện đang tìm kiếm một kỹ thuật viên chuyên dụng, người có thể sửa chữa máy móc có độ chính xác cao trong cơ sở sản xuất.",
+    "core_vocabulary": [
+      {
+        "word": "high-precision",
+        "type": "adj",
+        "meaning": "độ chính xác cao"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_05",
+    "question": "The conference center ______ the international summit will be held is currently undergoing extensive renovations.",
+    "options": {
+      "A": "where",
+      "B": "when",
+      "C": "which",
+      "D": "that"
+    },
+    "correct_answer": "A",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'Where' là trạng từ quan hệ chỉ nơi chốn.",
+    "explanation_grammar": "Trạng từ quan hệ chỉ nơi chốn",
+    "translation": "Trung tâm hội nghị, nơi mà hội nghị thượng đỉnh quốc tế sẽ được tổ chức, hiện đang được cải tạo sâu rộng.",
+    "core_vocabulary": [
+      {
+        "word": "summit",
+        "type": "n",
+        "meaning": "hội nghị thượng đỉnh"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_06",
+    "question": "Customers ______ personal information was compromised during the data breach will receive a formal apology and compensation.",
+    "options": {
+      "A": "who",
+      "B": "whom",
+      "C": "which",
+      "D": "whose"
+    },
+    "correct_answer": "D",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'Whose' chỉ sở hữu (thông tin cá nhân của khách hàng).",
+    "explanation_grammar": "Đại từ quan hệ sở hữu",
+    "translation": "Những khách hàng có thông tin cá nhân bị xâm phạm trong vụ rò rỉ dữ liệu sẽ nhận được lời xin lỗi chính thức và tiền bồi thường.",
+    "core_vocabulary": [
+      {
+        "word": "compromise",
+        "type": "v",
+        "meaning": "làm hại, xâm phạm"
+      },
+      {
+        "word": "breach",
+        "type": "n",
+        "meaning": "sự vi phạm, rò rỉ"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_07",
+    "question": "The administrative assistant position, ______ was advertised in last Sunday's newspaper, has already been filled.",
+    "options": {
+      "A": "who",
+      "B": "which",
+      "C": "that",
+      "D": "whom"
+    },
+    "correct_answer": "B",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "Dùng 'which' cho mệnh đề không xác định để thay cho vật. Không dùng 'that' sau dấu phẩy.",
+    "explanation_grammar": "Đại từ quan hệ (MĐQH không xác định)",
+    "translation": "Vị trí trợ lý hành chính, cái mà được quảng cáo trên tờ báo Chủ nhật tuần trước, đã có người đảm nhận.",
+    "core_vocabulary": [
+      {
+        "word": "advertise",
+        "type": "v",
+        "meaning": "quảng cáo"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_08",
+    "question": "Any employee ______ a company vehicle must possess a valid driver’s license and a clean driving record.",
+    "options": {
+      "A": "operate",
+      "B": "operates",
+      "C": "operating",
+      "D": "operated"
+    },
+    "correct_answer": "C",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "Rút gọn mệnh đề quan hệ chủ động (V-ing). Câu gốc: 'who operates'.",
+    "explanation_grammar": "Rút gọn mệnh đề quan hệ",
+    "translation": "Bất kỳ nhân viên nào vận hành xe của công ty đều phải có bằng lái xe hợp lệ và hồ sơ lái xe sạch.",
+    "core_vocabulary": [
+      {
+        "word": "possess",
+        "type": "v",
+        "meaning": "sở hữu"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_09",
+    "question": "Ms. Tanaka is the senior executive ______ the board of directors chose to oversee the expansion into the European market.",
+    "options": {
+      "A": "whom",
+      "B": "whose",
+      "C": "which",
+      "D": "where"
+    },
+    "correct_answer": "A",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'Whom' làm tân ngữ thay thế cho danh từ chỉ người.",
+    "explanation_grammar": "Đại từ quan hệ làm tân ngữ",
+    "translation": "Bà Tanaka là giám đốc điều hành cấp cao mà hội đồng quản trị đã chọn để giám sát việc mở rộng vào thị trường châu Âu.",
+    "core_vocabulary": [
+      {
+        "word": "oversee",
+        "type": "v",
+        "meaning": "giám sát"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_10",
+    "question": "The quarterly report ______ on the manager's desk yesterday morning contains several errors in the financial projections.",
+    "options": {
+      "A": "placing",
+      "B": "placed",
+      "C": "place",
+      "D": "to place"
+    },
+    "correct_answer": "B",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "Rút gọn mệnh đề quan hệ bị động (V3/ed). Câu gốc: 'which was placed'.",
+    "explanation_grammar": "Rút gọn mệnh đề quan hệ",
+    "translation": "Báo cáo hàng quý được đặt trên bàn của quản lý sáng qua chứa một số lỗi trong các dự báo tài chính.",
+    "core_vocabulary": [
+      {
+        "word": "projection",
+        "type": "n",
+        "meaning": "sự dự báo, dự án"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_11",
+    "question": "There are several reasons ______ the company decided to relocate its headquarters to a more central business district.",
+    "options": {
+      "A": "when",
+      "B": "where",
+      "C": "why",
+      "D": "which"
+    },
+    "correct_answer": "C",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'Why' là trạng từ quan hệ chỉ lý do, thường đi sau danh từ 'reason'.",
+    "explanation_grammar": "Trạng từ quan hệ chỉ lý do",
+    "translation": "Có một số lý do khiến công ty quyết định chuyển trụ sở chính đến một khu kinh doanh trung tâm hơn.",
+    "core_vocabulary": [
+      {
+        "word": "relocate",
+        "type": "v",
+        "meaning": "di chuyển, chuyển địa điểm"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_12",
+    "question": "The interns ______ were selected for the summer program will be rotated through various departments.",
+    "options": {
+      "A": "who",
+      "B": "which",
+      "C": "whose",
+      "D": "whom"
+    },
+    "correct_answer": "A",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'Who' làm chủ ngữ thay thế cho người (interns).",
+    "explanation_grammar": "Đại từ quan hệ làm chủ ngữ",
+    "translation": "Các thực tập sinh người được chọn cho chương trình hè sẽ được luân chuyển qua các bộ phận khác nhau.",
+    "core_vocabulary": [
+      {
+        "word": "rotate",
+        "type": "v",
+        "meaning": "luân chuyển, xoay vòng"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_13",
+    "question": "Please review the attached document, ______ outlines the updated safety procedures for the chemical laboratory.",
+    "options": {
+      "A": "who",
+      "B": "that",
+      "C": "which",
+      "D": "where"
+    },
+    "correct_answer": "C",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "Dùng 'which' sau dấu phẩy để bổ nghĩa cho vật.",
+    "explanation_grammar": "Đại từ quan hệ (MĐQH không xác định)",
+    "translation": "Vui lòng xem xét tài liệu đính kèm, cái mà phác thảo các quy trình an toàn được cập nhật cho phòng thí nghiệm hóa học.",
+    "core_vocabulary": [
+      {
+        "word": "outline",
+        "type": "v",
+        "meaning": "phác thảo, nêu những ý chính"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_14",
+    "question": "The sales representatives ______ the highest targets this month will be eligible for an all-expenses-paid trip to Hawaii.",
+    "options": {
+      "A": "achieving",
+      "B": "achieved",
+      "C": "achieve",
+      "D": "to achieve"
+    },
+    "correct_answer": "A",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "Rút gọn mệnh đề quan hệ chủ động (V-ing). Câu gốc: 'who achieve'.",
+    "explanation_grammar": "Rút gọn mệnh đề quan hệ",
+    "translation": "Các đại diện bán hàng đạt được mục tiêu cao nhất trong tháng này sẽ đủ điều kiện cho một chuyến du lịch trọn gói đến Hawaii.",
+    "core_vocabulary": [
+      {
+        "word": "eligible",
+        "type": "adj",
+        "meaning": "đủ tư cách, đủ điều kiện"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_15",
+    "question": "The historic building ______ the museum is located was originally a textile factory in the nineteenth century.",
+    "options": {
+      "A": "in which",
+      "B": "at which",
+      "C": "wherever",
+      "D": "whose"
+    },
+    "correct_answer": "A",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'In which' bằng với 'where', dùng để chỉ nơi chốn (trong tòa nhà đó).",
+    "explanation_grammar": "Giới từ + đại từ quan hệ",
+    "translation": "Tòa nhà lịch sử nơi bảo tàng tọa lạc vốn là một nhà máy dệt vào thế kỷ mười chín.",
+    "core_vocabulary": [
+      {
+        "word": "textile",
+        "type": "n",
+        "meaning": "dệt may"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_16",
+    "question": "Candidates ______ background checks are still pending will not be allowed to start their orientation today.",
+    "options": {
+      "A": "who",
+      "B": "whom",
+      "C": "which",
+      "D": "whose"
+    },
+    "correct_answer": "D",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'Whose' chỉ sở hữu (việc kiểm tra lý lịch của ứng viên).",
+    "explanation_grammar": "Đại từ quan hệ sở hữu",
+    "translation": "Những ứng viên có việc kiểm tra lý lịch vẫn đang chờ xử lý sẽ không được phép bắt đầu buổi định hướng hôm nay.",
+    "core_vocabulary": [
+      {
+        "word": "pending",
+        "type": "adj",
+        "meaning": "đang chờ xử lý"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_17",
+    "question": "The supervisor apologized for the miscommunication ______ led to the delay in the project’s completion.",
+    "options": {
+      "A": "who",
+      "B": "that",
+      "C": "whose",
+      "D": "whom"
+    },
+    "correct_answer": "B",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'That' làm chủ ngữ thay cho vật (miscommunication).",
+    "explanation_grammar": "Đại từ quan hệ thay cho vật",
+    "translation": "Người giám sát đã xin lỗi về sự hiểu lầm dẫn đến sự chậm trễ trong việc hoàn thành dự án.",
+    "core_vocabulary": [
+      {
+        "word": "miscommunication",
+        "type": "n",
+        "meaning": "sự truyền đạt thông tin sai lệch"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_18",
+    "question": "Any suggestions ______ during the brainstorming session will be carefully considered by the management team.",
+    "options": {
+      "A": "making",
+      "B": "made",
+      "C": "make",
+      "D": "to make"
+    },
+    "correct_answer": "B",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "Rút gọn mệnh đề quan hệ bị động (V3/ed). Câu gốc: 'which are made'.",
+    "explanation_grammar": "Rút gọn mệnh đề quan hệ",
+    "translation": "Bất kỳ đề xuất nào được đưa ra trong buổi động não sẽ được ban quản lý xem xét cẩn thận.",
+    "core_vocabulary": [
+      {
+        "word": "brainstorming",
+        "type": "n",
+        "meaning": "động não, tìm ý tưởng sáng tạo"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_19",
+    "question": "The day ______ the new policy goes into effect has not yet been officially announced by the HR department.",
+    "options": {
+      "A": "when",
+      "B": "where",
+      "C": "why",
+      "D": "which"
+    },
+    "correct_answer": "A",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'When' là trạng từ quan hệ chỉ thời gian.",
+    "explanation_grammar": "Trạng từ quan hệ chỉ thời gian",
+    "translation": "Ngày mà chính sách mới có hiệu lực vẫn chưa được bộ phận nhân sự công bố chính thức.",
+    "core_vocabulary": [
+      {
+        "word": "officially",
+        "type": "adv",
+        "meaning": "một cách chính thức"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_20",
+    "question": "Our research team has identified several factors ______ contribute to the high turnover rate among entry-level employees.",
+    "options": {
+      "A": "who",
+      "B": "whom",
+      "C": "which",
+      "D": "whose"
+    },
+    "correct_answer": "C",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'Which' làm chủ ngữ thay cho vật (factors).",
+    "explanation_grammar": "Đại từ quan hệ làm chủ ngữ (vật)",
+    "translation": "Nhóm nghiên cứu của chúng tôi đã xác định một số yếu tố góp phần vào tỷ lệ nghỉ việc cao ở các nhân viên mới vào nghề.",
+    "core_vocabulary": [
+      {
+        "word": "turnover rate",
+        "type": "n",
+        "meaning": "tỷ lệ thay thế nhân viên, tỷ lệ nghỉ việc"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_21",
+    "question": "Mr. Gable is the architect ______ design for the new library won the prestigious city-wide competition.",
+    "options": {
+      "A": "who",
+      "B": "whom",
+      "C": "whose",
+      "D": "which"
+    },
+    "correct_answer": "C",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'Whose' chỉ sở hữu (bản thiết kế của kiến trúc sư).",
+    "explanation_grammar": "Đại từ quan hệ sở hữu",
+    "translation": "Ông Gable là kiến trúc sư mà bản thiết kế thư viện mới của ông đã giành giải cao nhất trong cuộc thi toàn thành phố.",
+    "core_vocabulary": [
+      {
+        "word": "prestigious",
+        "type": "adj",
+        "meaning": "uy tín, danh giá"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_22",
+    "question": "The local artisans ______ their products at the weekend market often see a significant increase in sales during the holidays.",
+    "options": {
+      "A": "selling",
+      "B": "sold",
+      "C": "sell",
+      "D": "to sell"
+    },
+    "correct_answer": "A",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "Rút gọn mệnh đề quan hệ chủ động (V-ing). Câu gốc: 'who sell'.",
+    "explanation_grammar": "Rút gọn mệnh đề quan hệ",
+    "translation": "Các nghệ nhân địa phương bán sản phẩm của họ tại chợ cuối tuần thường thấy doanh thu tăng đáng kể trong các dịp lễ.",
+    "core_vocabulary": [
+      {
+        "word": "artisan",
+        "type": "n",
+        "meaning": "nghệ nhân, thợ làm thủ công"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_23",
+    "question": "The software update, ______ was released late last night, addresses several security vulnerabilities in the system.",
+    "options": {
+      "A": "which",
+      "B": "that",
+      "C": "who",
+      "D": "where"
+    },
+    "correct_answer": "A",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "Dùng 'which' cho mệnh đề quan hệ không xác định để bổ nghĩa cho vật.",
+    "explanation_grammar": "Đại từ quan hệ (MĐQH không xác định)",
+    "translation": "Bản cập nhật phần mềm, cái mà được phát hành muộn vào tối qua, giải quyết một số lỗ hổng bảo mật trong hệ thống.",
+    "core_vocabulary": [
+      {
+        "word": "vulnerability",
+        "type": "n",
+        "meaning": "lỗ hổng, điểm yếu"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_24",
+    "question": "The guests ______ were invited to the private gallery opening included several prominent local politicians.",
+    "options": {
+      "A": "who",
+      "B": "which",
+      "C": "whose",
+      "D": "when"
+    },
+    "correct_answer": "A",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "'Who' làm chủ ngữ thay thế cho người (guests).",
+    "explanation_grammar": "Đại từ quan hệ làm chủ ngữ",
+    "translation": "Những vị khách được mời tới buổi khai trương phòng trưng bày riêng bao gồm một số chính trị gia địa phương nổi tiếng.",
+    "core_vocabulary": [
+      {
+        "word": "prominent",
+        "type": "adj",
+        "meaning": "nổi bật, nổi tiếng"
+      }
+    ]
+  },
+  {
+    "id": "q_relative_test9_25",
+    "question": "Equipment _______ by the maintenance crew last week is already showing signs of wear and tear.",
+    "options": {
+      "A": "servicing",
+      "B": "serviced",
+      "C": "service",
+      "D": "to service"
+    },
+    "correct_answer": "B",
+    "grammar_type": "MĐQH",
+    "explanation_reason": "Rút gọn mệnh đề quan hệ bị động (V3/ed). Câu gốc: 'which was serviced'.",
+    "explanation_grammar": "Rút gọn mệnh đề quan hệ",
+    "translation": "Thiết bị được bảo trì bởi đội bảo dưỡng tuần trước đã có dấu hiệu bị mòn và hỏng.",
+    "core_vocabulary": [
+      {
+        "word": "wear and tear",
+        "type": "n",
+        "meaning": "sự hao mòn tự nhiên"
+      }
+    ]
+  }
+]

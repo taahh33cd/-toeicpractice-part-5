@@ -1,0 +1,677 @@
+[
+  {
+    "id": "q_test13_76",
+    "question": "Oxford University has announced the ______ of a new research center dedicated to renewable energy.",
+    "options": {
+      "A": "open",
+      "B": "opening",
+      "C": "opened",
+      "D": "openly"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ. 'opening' (lễ khai trương, việc mở cửa) là đáp án đúng.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Đại học Oxford đã thông báo việc mở một trung tâm nghiên cứu mới chuyên về năng lượng tái tạo.",
+    "core_vocabulary": [
+      {
+        "word": "announce",
+        "type": "v.",
+        "meaning": "thông báo"
+      },
+      {
+        "word": "opening",
+        "type": "n.",
+        "meaning": "sự mở cửa, khai trương"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_77",
+    "question": "Mr. Suzuki will be presenting ______ financial analysis at the annual board meeting in Tokyo.",
+    "options": {
+      "A": "he",
+      "B": "him",
+      "C": "his",
+      "D": "himself"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'financial analysis' cần một tính từ sở hữu thay thế cho 'Mr. Suzuki'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Ông Suzuki sẽ trình bày bài phân tích tài chính của ông tại cuộc họp ban giám đốc thường niên ở Tokyo.",
+    "core_vocabulary": [
+      {
+        "word": "present",
+        "type": "v.",
+        "meaning": "trình bày"
+      },
+      {
+        "word": "analysis",
+        "type": "n.",
+        "meaning": "sự phân tích"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_78",
+    "question": "The staff at Radiant Skin Clinic undergo extensive ______ before they can operate the new laser equipment.",
+    "options": {
+      "A": "train",
+      "B": "training",
+      "C": "trained",
+      "D": "trainer"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau tính từ 'extensive' (rộng rãi, chuyên sâu) cần một danh từ chỉ hành động/quá trình. 'training' (sự đào tạo) là đáp án phù hợp.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Nhân viên tại Phòng khám da Radiant trải qua một quá trình đào tạo chuyên sâu trước khi họ có thể vận hành thiết bị laser mới.",
+    "core_vocabulary": [
+      {
+        "word": "undergo",
+        "type": "v.",
+        "meaning": "trải qua"
+      },
+      {
+        "word": "training",
+        "type": "n.",
+        "meaning": "sự đào tạo"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_79",
+    "question": "Guests staying at the Aurora Hotel are reminded to keep ______ valuables in the room safe.",
+    "options": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'valuables' (đồ có giá trị) cần tính từ sở hữu thay thế cho 'Guests'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Du khách lưu trú tại Khách sạn Aurora được nhắc nhở giữ đồ có giá trị của họ trong két sắt của phòng.",
+    "core_vocabulary": [
+      {
+        "word": "valuable",
+        "type": "n.",
+        "meaning": "đồ vật có giá trị"
+      },
+      {
+        "word": "safe",
+        "type": "n.",
+        "meaning": "két sắt an toàn"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_80",
+    "question": "The CEO of Stellar Apps made a formal ______ regarding the upcoming merger with a larger tech firm.",
+    "options": {
+      "A": "announce",
+      "B": "announcement",
+      "C": "announced",
+      "D": "announcing"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'a' và tính từ 'formal' cần một danh từ để làm tân ngữ cho động từ 'made'. 'announcement' (sự thông báo) là danh từ.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Giám đốc điều hành của Stellar Apps đã đưa ra một thông báo chính thức về việc sáp nhập sắp tới với một công ty công nghệ lớn hơn.",
+    "core_vocabulary": [
+      {
+        "word": "formal",
+        "type": "adj.",
+        "meaning": "chính thức, trang trọng"
+      },
+      {
+        "word": "announcement",
+        "type": "n.",
+        "meaning": "sự thông báo"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_81",
+    "question": "Ms. Henderson asked the office manager to order new stationery for ______ private study.",
+    "options": {
+      "A": "she",
+      "B": "her",
+      "C": "hers",
+      "D": "herself"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'private study' cần một tính từ sở hữu. 'her' là đáp án đúng thay thế cho 'Ms. Henderson'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Cô Henderson yêu cầu người quản lý văn phòng đặt văn phòng phẩm mới cho phòng làm việc riêng của cô ấy.",
+    "core_vocabulary": [
+      {
+        "word": "stationery",
+        "type": "n.",
+        "meaning": "văn phòng phẩm"
+      },
+      {
+        "word": "study",
+        "type": "n.",
+        "meaning": "phòng đọc sách, phòng làm việc"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_82",
+    "question": "Horizon Fitness is offering a significant ______ on all yearly memberships purchased this month.",
+    "options": {
+      "A": "discounts",
+      "B": "discount",
+      "C": "discounted",
+      "D": "discounting"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'a' và tính từ 'significant' cần một danh từ đếm được số ít. 'discount' (sự giảm giá) là đáp án phù hợp nhất.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Horizon Fitness đang cung cấp một khoản giảm giá đáng kể cho tất cả các thẻ thành viên hàng năm được mua trong tháng này.",
+    "core_vocabulary": [
+      {
+        "word": "significant",
+        "type": "adj.",
+        "meaning": "đáng kể"
+      },
+      {
+        "word": "discount",
+        "type": "n.",
+        "meaning": "sự giảm giá"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_83",
+    "question": "Employees at Prime Bank must use ______ electronic keycards to enter the building after 6:00 PM.",
+    "options": {
+      "A": "their",
+      "B": "their",
+      "C": "them",
+      "D": "they"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'electronic keycards' cần tính từ sở hữu thay thế cho 'Employees' (số nhiều).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Nhân viên tại Prime Bank phải sử dụng thẻ chìa khóa điện tử của họ để vào tòa nhà sau 6:00 tối.",
+    "core_vocabulary": [
+      {
+        "word": "keycard",
+        "type": "n.",
+        "meaning": "thẻ chìa khóa (điện tử)"
+      },
+      {
+        "word": "enter",
+        "type": "v.",
+        "meaning": "đi vào"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_84",
+    "question": "Dr. Patel provided a clear ______ of the surgical procedure to the patient’s family.",
+    "options": {
+      "A": "explain",
+      "B": "explanation",
+      "C": "explanatory",
+      "D": "explained"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'a' và tính từ 'clear' cần một danh từ làm tân ngữ cho động từ 'provided'.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Bác sĩ Patel đã cung cấp một lời giải thích rõ ràng về thủ tục phẫu thuật cho gia đình bệnh nhân.",
+    "core_vocabulary": [
+      {
+        "word": "explanation",
+        "type": "n.",
+        "meaning": "lời giải thích"
+      },
+      {
+        "word": "procedure",
+        "type": "n.",
+        "meaning": "quy trình, thủ tục"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_85",
+    "question": "Please submit ______ completed application to Joneston Stores by the end of the business day.",
+    "options": {
+      "A": "you",
+      "B": "your",
+      "C": "yours",
+      "D": "yourself"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'completed application' cần tính từ sở hữu 'your'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Vui lòng nộp đơn đăng ký đã hoàn thành của bạn cho Joneston Stores trước khi kết thúc ngày làm việc.",
+    "core_vocabulary": [
+      {
+        "word": "submit",
+        "type": "v.",
+        "meaning": "nộp"
+      },
+      {
+        "word": "application",
+        "type": "n.",
+        "meaning": "đơn đăng ký, ứng dụng"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_86",
+    "question": "Under the ______ of the new conductor, the City Symphony has reached a wider audience.",
+    "options": {
+      "A": "direct",
+      "B": "direction",
+      "C": "directed",
+      "D": "directly"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ. 'direction' (sự chỉ đạo) là đáp án đúng.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Dưới sự chỉ đạo của vị nhạc trưởng mới, City Symphony đã tiếp cận được với nhiều khán giả hơn.",
+    "core_vocabulary": [
+      {
+        "word": "direction",
+        "type": "n.",
+        "meaning": "sự chỉ đạo, sự hướng dẫn"
+      },
+      {
+        "word": "conductor",
+        "type": "n.",
+        "meaning": "nhạc trưởng"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_87",
+    "question": "The kitten at the animal shelter often plays with ______ own shadow in the sunlight.",
+    "options": {
+      "A": "it",
+      "B": "its",
+      "C": "itself",
+      "D": "they"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm 'own shadow' cần tính từ sở hữu. 'its' dùng để thay thế cho động vật (the kitten).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Chú mèo con tại trạm cứu hộ động vật thường chơi đùa với bóng của chính mình dưới ánh sáng mặt trời.",
+    "core_vocabulary": [
+      {
+        "word": "kitten",
+        "type": "n.",
+        "meaning": "mèo con"
+      },
+      {
+        "word": "shadow",
+        "type": "n.",
+        "meaning": "cái bóng"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_88",
+    "question": "Green Valley Farmers focus on the ______ of organic soil through sustainable agricultural practices.",
+    "options": {
+      "A": "protect",
+      "B": "protection",
+      "C": "protective",
+      "D": "protected"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'the' và trước giới từ 'of' cần danh từ. 'protection' (sự bảo vệ) là từ phù hợp.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Green Valley Farmers tập trung vào việc bảo vệ đất hữu cơ thông qua các thực hành nông nghiệp bền vững.",
+    "core_vocabulary": [
+      {
+        "word": "protection",
+        "type": "n.",
+        "meaning": "sự bảo vệ"
+      },
+      {
+        "word": "sustainable",
+        "type": "adj.",
+        "meaning": "bền vững"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_89",
+    "question": "The marketing team at Zenith Creative shared ______ latest social media strategies during the workshop.",
+    "options": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "theirs"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'latest social media strategies' cần tính từ sở hữu thay thế cho 'The marketing team' (nghĩa tập thể).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Đội ngũ tiếp thị tại Zenith Creative đã chia sẻ những chiến lược truyền thông xã hội mới nhất của họ trong buổi hội thảo.",
+    "core_vocabulary": [
+      {
+        "word": "strategy",
+        "type": "n.",
+        "meaning": "chiến lược"
+      },
+      {
+        "word": "share",
+        "type": "v.",
+        "meaning": "chia sẻ"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_90",
+    "question": "Bloom Florist has gained popularity due to the constant ______ of fresh, exotic flowers.",
+    "options": {
+      "A": "avail",
+      "B": "availability",
+      "C": "available",
+      "D": "availably"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'the' và tính từ 'constant' cần một danh từ. 'availability' (sự có sẵn) là danh từ.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Cửa hàng hoa Bloom đã trở nên phổ biến nhờ sự luôn có sẵn các loại hoa tươi, kỳ lạ.",
+    "core_vocabulary": [
+      {
+        "word": "availability",
+        "type": "n.",
+        "meaning": "sự có sẵn, sự hiện có"
+      },
+      {
+        "word": "exotic",
+        "type": "adj.",
+        "meaning": "kỳ lạ, ngoại lai"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_91",
+    "question": "Ms. Carpenter will be attending the international gala with ______ entire design team.",
+    "options": {
+      "A": "she",
+      "B": "her",
+      "C": "herself",
+      "D": "hers"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'entire design team' cần tính từ sở hữu chỉ sự sở hữu của 'Ms. Carpenter'.",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Cô Carpenter sẽ tham dự buổi dạ tiệc quốc tế với toàn bộ đội ngũ thiết kế của cô ấy.",
+    "core_vocabulary": [
+      {
+        "word": "attend",
+        "type": "v.",
+        "meaning": "tham dự"
+      },
+      {
+        "word": "entire",
+        "type": "adj.",
+        "meaning": "toàn bộ"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_92",
+    "question": "The National Theater experienced a record ______ for the premiere of the new Broadway musical.",
+    "options": {
+      "A": "attend",
+      "B": "attendance",
+      "C": "attendant",
+      "D": "attended"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'a' và danh từ đóng vai trò tính từ bổ nghĩa 'record' cần một danh từ chính. 'attendance' (số lượng người tham dự) là từ phù hợp.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Nhà hát Quốc gia đã trải qua số lượng người tham dự kỷ lục cho buổi ra mắt vở nhạc kịch Broadway mới.",
+    "core_vocabulary": [
+      {
+        "word": "attendance",
+        "type": "n.",
+        "meaning": "số lượng người tham dự, sự có mặt"
+      },
+      {
+        "word": "premiere",
+        "type": "n.",
+        "meaning": "buổi công chiếu đầu tiên, buổi ra mắt"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_93",
+    "question": "The board of directors decided that the company must improve ______ brand identity in the global market.",
+    "options": {
+      "A": "it",
+      "B": "its",
+      "C": "itself",
+      "D": "they"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'brand identity' cần tính từ sở hữu thay thế cho 'the company' (số ít).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Ban giám đốc đã quyết định rằng công ty phải cải thiện nhận diện thương hiệu của mình trên thị trường toàn cầu.",
+    "core_vocabulary": [
+      {
+        "word": "improve",
+        "type": "v.",
+        "meaning": "cải thiện"
+      },
+      {
+        "word": "identity",
+        "type": "n.",
+        "meaning": "bản sắc, đặc tính nhận diện"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_94",
+    "question": "Dr. Faust’s ______ of the medical study was published in the most recent edition of the Science Journal.",
+    "options": {
+      "A": "conclude",
+      "B": "conclusion",
+      "C": "concluded",
+      "D": "conclusive"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau sở hữu cách 'Dr. Faust’s' cần một danh từ. 'conclusion' (kết luận) là danh từ chính xác.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Kết luận của Tiến sĩ Faust về nghiên cứu y khoa đã được công bố trong ấn bản gần đây nhất của Tạp chí Khoa học.",
+    "core_vocabulary": [
+      {
+        "word": "conclusion",
+        "type": "n.",
+        "meaning": "kết luận"
+      },
+      {
+        "word": "publish",
+        "type": "v.",
+        "meaning": "xuất bản, công bố"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_95",
+    "question": "All members of the Fairfield Golf Club are required to show ______ ID cards at the gate.",
+    "options": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm 'ID cards' cần tính từ sở hữu thay thế cho 'All members' (số nhiều).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Tất cả thành viên của Câu lạc bộ Golf Fairfield được yêu cầu xuất trình thẻ căn cước của họ tại cổng.",
+    "core_vocabulary": [
+      {
+        "word": "require",
+        "type": "v.",
+        "meaning": "yêu cầu"
+      },
+      {
+        "word": "gate",
+        "type": "n.",
+        "meaning": "cổng"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_96",
+    "question": "Sky-High Fitness announced the ______ of ten new treadmills for the downtown branch.",
+    "options": {
+      "A": "acquire",
+      "B": "acquisition",
+      "C": "acquired",
+      "D": "acquiring"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ. 'acquisition' (sự mua lại, việc đạt được) phù hợp ngữ cảnh.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Sky-High Fitness đã công bố việc mua mười máy chạy bộ mới cho chi nhánh trung tâm thành phố.",
+    "core_vocabulary": [
+      {
+        "word": "acquisition",
+        "type": "n.",
+        "meaning": "sự mua được, việc đạt được"
+      },
+      {
+        "word": "treadmill",
+        "type": "n.",
+        "meaning": "máy chạy bộ"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_97",
+    "question": "While the director of the gallery is traveling, ______ assistant will handle all media inquiries.",
+    "options": {
+      "A": "she",
+      "B": "her",
+      "C": "hers",
+      "D": "herself"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước danh từ 'assistant' cần tính từ sở hữu thay thế cho 'director' (nữ).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Trong khi giám đốc phòng trưng bày đang đi du lịch, trợ lý của cô ấy sẽ xử lý tất cả các câu hỏi của phương tiện truyền thông.",
+    "core_vocabulary": [
+      {
+        "word": "assistant",
+        "type": "n.",
+        "meaning": "trợ lý"
+      },
+      {
+        "word": "inquiry",
+        "type": "n.",
+        "meaning": "câu hỏi, yêu cầu thông tin"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_98",
+    "question": "Preston College has specific ______ for students applying for the prestigious music scholarship.",
+    "options": {
+      "A": "require",
+      "B": "requirements",
+      "C": "required",
+      "D": "requiring"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau tính từ 'specific' cần một danh từ. 'requirements' (những yêu cầu) là danh từ.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Đại học Preston có những yêu cầu cụ thể đối với sinh viên nộp đơn xin học bổng âm nhạc danh giá.",
+    "core_vocabulary": [
+      {
+        "word": "requirement",
+        "type": "n.",
+        "meaning": "yêu cầu, điều kiện"
+      },
+      {
+        "word": "prestigious",
+        "type": "adj.",
+        "meaning": "danh giá, uy tín"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_99",
+    "question": "Every visitor to the Royal Botanical Garden must have ______ entry pass scanned at the entrance.",
+    "options": {
+      "A": "they",
+      "B": "their",
+      "C": "them",
+      "D": "theirs"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Trước cụm danh từ 'entry pass' cần tính từ sở hữu. 'their' dùng để thay thế cho 'visitor' (phi giới tính).",
+    "explanation_grammar": "Đại từ sở hữu",
+    "translation": "Mỗi du khách đến Vườn Bách thảo Hoàng gia phải quét thẻ vào cổng của họ ở lối vào.",
+    "core_vocabulary": [
+      {
+        "word": "scan",
+        "type": "v.",
+        "meaning": "quét (mã, thẻ)"
+      },
+      {
+        "word": "entrance",
+        "type": "n.",
+        "meaning": "lối vào"
+      }
+    ]
+  },
+  {
+    "id": "q_test13_100",
+    "question": "The Silver Screen Theater is known for its high-quality ______ of classic independent films.",
+    "options": {
+      "A": "produce",
+      "B": "production",
+      "C": "producer",
+      "D": "produced"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Danh từ & Đại từ",
+    "explanation_reason": "Sau cụm tính từ 'high-quality' và trước giới từ 'of' cần danh từ. 'production' (việc sản xuất/công chiếu) phù hợp với ngữ cảnh.",
+    "explanation_grammar": "Danh từ",
+    "translation": "Rạp chiếu phim Silver Screen được biết đến với việc công chiếu chất lượng cao các bộ phim độc lập cổ điển.",
+    "core_vocabulary": [
+      {
+        "word": "production",
+        "type": "n.",
+        "meaning": "sự sản xuất, tác phẩm/sự trình chiếu"
+      },
+      {
+        "word": "independent",
+        "type": "adj.",
+        "meaning": "độc lập"
+      }
+    ]
+  }
+]

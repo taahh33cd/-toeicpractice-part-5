@@ -1,0 +1,587 @@
+[
+  {
+    "id": "q_conjunction_test10_26",
+    "question": "______ the lead architect has approved the structural blueprints, the construction crew can begin the foundation work on the new medical center.",
+    "options": {
+      "A": "Once",
+      "B": "During",
+      "C": "So too",
+      "D": "Not only"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'Once' là liên từ chỉ thời gian, có nghĩa là 'một khi' hoặc 'sau khi'.",
+    "explanation_grammar": "Liên từ chỉ thời gian",
+    "translation": "Một khi kiến trúc sư trưởng phê duyệt các bản thiết kế cấu trúc, đội xây dựng có thể bắt đầu công việc làm nền móng cho trung tâm y tế mới.",
+    "core_vocabulary": [
+      {
+        "word": "blueprint",
+        "type": "n",
+        "meaning": "bản thiết kế"
+      },
+      {
+        "word": "foundation",
+        "type": "n",
+        "meaning": "nền móng"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_27",
+    "question": "The legal firm’s partners are debating ______ to open a new branch in Singapore or to expand their existing office in Hong Kong.",
+    "options": {
+      "A": "whether",
+      "B": "either",
+      "C": "neither",
+      "D": "both"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "Cấu trúc 'Whether... or...' dùng để chỉ sự băn khoăn hoặc lựa chọn giữa hai phương án.",
+    "explanation_grammar": "Liên từ tương quan",
+    "translation": "Các đối tác của công ty luật đang tranh luận về việc liệu nên mở một chi nhánh mới ở Singapore hay mở rộng văn phòng hiện có của họ ở Hồng Kông.",
+    "core_vocabulary": [
+      {
+        "word": "debate",
+        "type": "v",
+        "meaning": "tranh luận, bàn bạc"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_28",
+    "question": "______ the initial implementation of the cloud-based payroll system was challenging, the HR department now reports a significant increase in efficiency.",
+    "options": {
+      "A": "Although",
+      "B": "Despite",
+      "C": "Because of",
+      "D": "In spite of"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'Although' là liên từ chỉ sự nhượng bộ, theo sau là một mệnh đề. 'Despite' và 'In spite of' theo sau là cụm danh từ.",
+    "explanation_grammar": "Liên từ chỉ sự nhượng bộ",
+    "translation": "Mặc dù việc triển khai ban đầu hệ thống bảng lương trên nền tảng đám mây đầy thách thức, bộ phận nhân sự hiện báo cáo hiệu quả tăng lên đáng kể.",
+    "core_vocabulary": [
+      {
+        "word": "implementation",
+        "type": "n",
+        "meaning": "sự triển khai"
+      },
+      {
+        "word": "payroll",
+        "type": "n",
+        "meaning": "bảng lương"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_29",
+    "question": "Mr. Sato decided to postpone the annual performance reviews ______ several members of the management team were traveling for a seminar.",
+    "options": {
+      "A": "because",
+      "B": "rather",
+      "C": "so",
+      "D": "while"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'Because' là liên từ chỉ lý do (bởi vì).",
+    "explanation_grammar": "Liên từ chỉ nguyên nhân",
+    "translation": "Ông Sato đã quyết định hoãn việc đánh giá hiệu suất hàng năm vì một số thành viên trong nhóm quản lý đang đi công tác dự hội thảo.",
+    "core_vocabulary": [
+      {
+        "word": "postpone",
+        "type": "v",
+        "meaning": "trì hoãn"
+      },
+      {
+        "word": "annual",
+        "type": "adj",
+        "meaning": "hàng năm"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_30",
+    "question": "The new corporate policy requires that ______ the department head and the project manager sign off on all expense reports exceeding $500.",
+    "options": {
+      "A": "either",
+      "B": "both",
+      "C": "neither",
+      "D": "whether"
+    },
+    "correct_answer": "B",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "Cấu trúc tương quan 'Both... and...' (cả... và...).",
+    "explanation_grammar": "Liên từ tương quan",
+    "translation": "Chính sách mới của công ty yêu cầu cả trưởng bộ phận và quản lý dự án đều phải ký duyệt tất cả các báo cáo chi phí vượt quá 500 đô la.",
+    "core_vocabulary": [
+      {
+        "word": "exceed",
+        "type": "v",
+        "meaning": "vượt quá"
+      },
+      {
+        "word": "sign off",
+        "type": "v",
+        "meaning": "ký duyệt"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_31",
+    "question": "The security software must be updated regularly ______ the company’s sensitive financial data remains protected from potential cyber threats.",
+    "options": {
+      "A": "so that",
+      "B": "in case of",
+      "C": "because of",
+      "D": "rather than"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'So that' dùng để chỉ mục đích (để mà), theo sau là một mệnh đề.",
+    "explanation_grammar": "Liên từ chỉ mục đích",
+    "translation": "Phần mềm bảo mật phải được cập nhật thường xuyên để dữ liệu tài chính nhạy cảm của công ty luôn được bảo vệ khỏi các mối đe dọa mạng tiềm ẩn.",
+    "core_vocabulary": [
+      {
+        "word": "sensitive",
+        "type": "adj",
+        "meaning": "nhạy cảm, bảo mật"
+      },
+      {
+        "word": "threat",
+        "type": "n",
+        "meaning": "mối đe dọa"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_32",
+    "question": "______ the research team receives the necessary funding from the grant, they will be unable to proceed with the next phase of the clinical trials.",
+    "options": {
+      "A": "Unless",
+      "B": "Once",
+      "C": "While",
+      "D": "If"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'Unless' có nghĩa là 'trừ khi' hoặc 'nếu không... thì...'.",
+    "explanation_grammar": "Liên từ chỉ điều kiện",
+    "translation": "Trừ khi nhóm nghiên cứu nhận được khoản kinh phí cần thiết từ trợ cấp, họ sẽ không thể tiến hành giai đoạn tiếp theo của các thử nghiệm lâm sàng.",
+    "core_vocabulary": [
+      {
+        "word": "funding",
+        "type": "n",
+        "meaning": "kinh phí, tài trợ"
+      },
+      {
+        "word": "clinical trial",
+        "type": "n",
+        "meaning": "thử nghiệm lâm sàng"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_33",
+    "question": "The annual charity gala was a massive success, ______ it managed to raise twice as much money as the previous year’s event.",
+    "options": {
+      "A": "for",
+      "B": "so",
+      "C": "yet",
+      "D": "but"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'For' ở đây đóng vai trò là liên từ kết hợp có nghĩa là 'vì' (giống 'because' nhưng trang trọng hơn).",
+    "explanation_grammar": "Liên từ kết hợp",
+    "translation": "Buổi dạ tiệc từ thiện hàng năm đã thành công rực rỡ, vì nó đã huy động được số tiền gấp đôi so với sự kiện năm trước.",
+    "core_vocabulary": [
+      {
+        "word": "massive",
+        "type": "adj",
+        "meaning": "to lớn, rực rỡ"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_34",
+    "question": "Remarkably, neither the Chief Executive Officer ______ the board members expected the merger to be finalized so quickly.",
+    "options": {
+      "A": "and",
+      "B": "with",
+      "C": "nor",
+      "D": "or"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "Cấu trúc tương quan 'Neither... nor...' (không ai... cũng không ai...).",
+    "explanation_grammar": "Liên từ tương quan",
+    "translation": "Đáng chú ý là cả Giám đốc điều hành lẫn các thành viên hội đồng quản trị đều không ngờ rằng vụ sáp nhập lại được hoàn tất nhanh chóng đến vậy.",
+    "core_vocabulary": [
+      {
+        "word": "merger",
+        "type": "n",
+        "meaning": "sự sáp nhập"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_35",
+    "question": "______ the renovation project is completed, the employee lounge will feature a modern kitchen and more comfortable seating areas.",
+    "options": {
+      "A": "Once",
+      "B": "During",
+      "C": "As for",
+      "D": "Because of"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'Once' chỉ thời điểm hành động xảy ra (sau khi).",
+    "explanation_grammar": "Liên từ chỉ thời gian",
+    "translation": "Sau khi dự án cải tạo hoàn thành, phòng nghỉ của nhân viên sẽ có nhà bếp hiện đại và khu vực ngồi thoải mái hơn.",
+    "core_vocabulary": [
+      {
+        "word": "lounge",
+        "type": "n",
+        "meaning": "phòng nghỉ, phòng chờ"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_36",
+    "question": "The senior architect prefers to use specialized software for data visualization, ______ the junior staff members often use standard spreadsheet applications.",
+    "options": {
+      "A": "whereas",
+      "B": "such as",
+      "C": "whenever",
+      "D": "seeing that"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'Whereas' dùng để chỉ sự tương phản (trong khi đó, trái lại).",
+    "explanation_grammar": "Liên từ chỉ sự tương phản",
+    "translation": "Kiến trúc sư cao cấp thích sử dụng phần mềm chuyên dụng để trực quan hóa dữ liệu, trong khi đó các nhân viên cấp dưới thường sử dụng các ứng dụng bảng tính tiêu chuẩn.",
+    "core_vocabulary": [
+      {
+        "word": "visualization",
+        "type": "n",
+        "meaning": "trực quan hóa"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_37",
+    "question": "You can access the digital library ______ by entering your employee identification number or by scanning your security badge.",
+    "options": {
+      "A": "without",
+      "B": "unless",
+      "C": "both",
+      "D": "either"
+    },
+    "correct_answer": "D",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "Cấu trúc tương quan 'Either... or...' (hoặc... hoặc...).",
+    "explanation_grammar": "Liên từ tương quan",
+    "translation": "Bạn có thể truy cập thư viện kỹ thuật số bằng cách nhập số nhận dạng nhân viên hoặc bằng cách quét thẻ an ninh.",
+    "core_vocabulary": [
+      {
+        "word": "badge",
+        "type": "n",
+        "meaning": "thẻ đeo, phù hiệu"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_38",
+    "question": "______ a customer submits a formal complaint via the online portal, a service representative is required to respond within twenty-four hours.",
+    "options": {
+      "A": "Whenever",
+      "B": "During",
+      "C": "Nearly",
+      "D": "Even"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'Whenever' (bất cứ khi nào).",
+    "explanation_grammar": "Liên từ chỉ thời gian",
+    "translation": "Bất cứ khi nào khách hàng gửi khiếu nại chính thức qua cổng thông tin trực tuyến, đại diện dịch vụ được yêu cầu phải phản hồi trong vòng hai mươi bốn giờ.",
+    "core_vocabulary": [
+      {
+        "word": "complaint",
+        "type": "n",
+        "meaning": "khiếu nại"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_39",
+    "question": "The boutique’s sales have increased steadily ______ the new manager introduced a highly effective social media marketing strategy.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "during",
+      "D": "until"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'Since' chỉ mốc thời gian hành động bắt đầu (kể từ khi).",
+    "explanation_grammar": "Liên từ chỉ thời gian",
+    "translation": "Doanh số của cửa hàng thời trang đã tăng đều đặn kể từ khi người quản lý mới giới thiệu chiến lược tiếp thị truyền thông xã hội hiệu quả cao.",
+    "core_vocabulary": [
+      {
+        "word": "steadily",
+        "type": "adv",
+        "meaning": "đều đặn"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_40",
+    "question": "Dr. Nguyen’s research not only highlights the benefits of the new medication ______ addresses the potential long-term side effects for elderly patients.",
+    "options": {
+      "A": "but also",
+      "B": "as well",
+      "C": "other than",
+      "D": "only if"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "Cấu trúc tương quan 'Not only... but also...' (không những... mà còn...).",
+    "explanation_grammar": "Liên từ tương quan",
+    "translation": "Nghiên cứu của Tiến sĩ Nguyễn không chỉ làm nổi bật những lợi ích của loại thuốc mới mà còn đề cập đến các tác dụng phụ tiềm ẩn lâu dài đối với bệnh nhân cao tuổi.",
+    "core_vocabulary": [
+      {
+        "word": "highlight",
+        "type": "v",
+        "meaning": "làm nổi bật"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_41",
+    "question": "The internet connection will be closely monitored ______ the technical team can identify the specific cause of the recent network slowdowns.",
+    "options": {
+      "A": "until",
+      "B": "due to",
+      "C": "why",
+      "D": "just as"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'Until' (cho đến khi).",
+    "explanation_grammar": "Liên từ chỉ thời gian",
+    "translation": "Kết nối internet sẽ được giám sát chặt chẽ cho đến khi đội ngũ kỹ thuật có thể xác định được nguyên nhân cụ thể của sự cố mạng bị chậm gần đây.",
+    "core_vocabulary": [
+      {
+        "word": "slowdown",
+        "type": "n",
+        "meaning": "sự chậm lại"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_42",
+    "question": "______ the Editorial Department receives the author’s final approval, the manuscript should be sent immediately to the professional printer.",
+    "options": {
+      "A": "As soon as",
+      "B": "In the meantime",
+      "C": "For example",
+      "D": "Still"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'As soon as' (ngay sau khi).",
+    "explanation_grammar": "Liên từ chỉ thời gian",
+    "translation": "Ngay sau khi Bộ phận Biên tập nhận được sự chấp thuận cuối cùng của tác giả, bản thảo nên được gửi ngay đến xưởng in chuyên nghiệp.",
+    "core_vocabulary": [
+      {
+        "word": "manuscript",
+        "type": "n",
+        "meaning": "bản thảo"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_43",
+    "question": "The investment firm aims to optimize portfolio returns ______ strictly adhering to the latest government financial regulations.",
+    "options": {
+      "A": "while",
+      "B": "because",
+      "C": "which",
+      "D": "unless"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'While' dùng để chỉ hai hành động xảy ra đồng thời (trong khi).",
+    "explanation_grammar": "Liên từ chỉ thời gian/song song",
+    "translation": "Công ty đầu tư đặt mục tiêu tối ưu hóa lợi nhuận danh mục đầu tư trong khi vẫn tuân thủ nghiêm ngặt các quy định tài chính mới nhất của chính phủ.",
+    "core_vocabulary": [
+      {
+        "word": "optimize",
+        "type": "v",
+        "meaning": "tối ưu hóa"
+      },
+      {
+        "word": "adhere",
+        "type": "v",
+        "meaning": "tuân thủ"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_44",
+    "question": "The marketing team will resume its weekly brainstorming sessions ______ Ms. Garcia returns from her business trip to Madrid on October 5.",
+    "options": {
+      "A": "once",
+      "B": "then",
+      "C": "as well",
+      "D": "that"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'Once' (một khi/sau khi).",
+    "explanation_grammar": "Liên từ chỉ thời gian",
+    "translation": "Nhóm tiếp thị sẽ tiếp tục các buổi động não hàng tuần sau khi bà Garcia trở về từ chuyến công tác tới Madrid vào ngày 5 tháng 10.",
+    "core_vocabulary": [
+      {
+        "word": "brainstorming",
+        "type": "n",
+        "meaning": "động não, tìm ý tưởng sáng tạo"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_45",
+    "question": "______ the high cost of the premium subscription, the features provided are essential for our data analysis requirements.",
+    "options": {
+      "A": "Despite",
+      "B": "Because",
+      "C": "Although",
+      "D": "However"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'Despite' chỉ sự nhượng bộ, theo sau là cụm danh từ.",
+    "explanation_grammar": "Liên từ chỉ sự nhượng bộ (vai trò như giới từ)",
+    "translation": "Mặc dù chi phí đăng ký cao cấp cao, các tính năng được cung cấp là thiết yếu cho các yêu cầu phân tích dữ liệu của chúng tôi.",
+    "core_vocabulary": [
+      {
+        "word": "essential",
+        "type": "adj",
+        "meaning": "thiết yếu, cực kỳ quan trọng"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_46",
+    "question": "The accounting department has finalized the budget, ______ the finalized figures have not yet been distributed to the regional managers.",
+    "options": {
+      "A": "but",
+      "B": "once",
+      "C": "why",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'But' chỉ sự tương phản (nhưng).",
+    "explanation_grammar": "Liên từ kết hợp",
+    "translation": "Bộ phận kế toán đã hoàn tất ngân sách, nhưng các số liệu chính thức vẫn chưa được gửi tới các quản lý khu vực.",
+    "core_vocabulary": [
+      {
+        "word": "distribute",
+        "type": "v",
+        "meaning": "phân phối, phát"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_47",
+    "question": "Please notify the facility manager ______ you notice any malfunction in the office air conditioning or heating systems.",
+    "options": {
+      "A": "if",
+      "B": "whereas",
+      "C": "such as",
+      "D": "as for"
+    },
+    "correct_answer": "A",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'If' chỉ điều kiện (nếu).",
+    "explanation_grammar": "Liên từ chỉ điều kiện",
+    "translation": "Vui lòng thông báo cho quản lý tòa nhà nếu bạn nhận thấy bất kỳ trục trặc nào trong hệ thống điều hòa hoặc sưởi ấm của văn phòng.",
+    "core_vocabulary": [
+      {
+        "word": "malfunction",
+        "type": "n",
+        "meaning": "sự trục trặc"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_48",
+    "question": "There will be a mandatory system upgrade tomorrow evening, ______ please ensure that you save all open files before leaving.",
+    "options": {
+      "A": "because",
+      "B": "rather",
+      "C": "so",
+      "D": "while"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'So' chỉ kết quả (vì vậy).",
+    "explanation_grammar": "Liên từ kết hợp",
+    "translation": "Sẽ có một đợt nâng cấp hệ thống bắt buộc vào tối mai, vì vậy vui lòng đảm bảo rằng bạn đã lưu tất cả các tập tin đang mở trước khi rời đi.",
+    "core_vocabulary": [
+      {
+        "word": "mandatory",
+        "type": "adj",
+        "meaning": "bắt buộc"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_49",
+    "question": "______ Jemburger opened its newest franchise in the city center, the first 200 customers were offered a complimentary breakfast.",
+    "options": {
+      "A": "After all",
+      "B": "Now",
+      "C": "When",
+      "D": "As if"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "'When' chỉ thời điểm hành động xảy ra (khi).",
+    "explanation_grammar": "Liên từ chỉ thời gian",
+    "translation": "Khi Jemburger khai trương chi nhánh mới nhất ở trung tâm thành phố, 200 khách hàng đầu tiên đã được tặng bữa sáng miễn phí.",
+    "core_vocabulary": [
+      {
+        "word": "complimentary",
+        "type": "adj",
+        "meaning": "miễn phí"
+      }
+    ]
+  },
+  {
+    "id": "q_conjunction_test10_50",
+    "question": "Neither the marketing director ______ the sales manager was satisfied with the initial results of the customer satisfaction survey.",
+    "options": {
+      "A": "and",
+      "B": "with",
+      "C": "nor",
+      "D": "or"
+    },
+    "correct_answer": "C",
+    "grammar_type": "Liên từ",
+    "explanation_reason": "Cấu trúc tương quan 'Neither... nor...' (không ai... cũng không ai...).",
+    "explanation_grammar": "Liên từ tương quan",
+    "translation": "Cả giám đốc tiếp thị lẫn quản lý bán hàng đều không hài lòng với kết quả ban đầu của cuộc khảo sát mức độ hài lòng của khách hàng.",
+    "core_vocabulary": [
+      {
+        "word": "satisfaction",
+        "type": "n",
+        "meaning": "sự hài lòng"
+      }
+    ]
+  }
+]

@@ -1,0 +1,672 @@
+[
+  {
+    "id": "q_test9_01",
+    "question": "Dr. Aris requested a thorough ______ of the new medical equipment before the clinic opens tomorrow.",
+    "options": {
+      "A": "inspect",
+      "B": "inspection",
+      "C": "inspected",
+      "D": "inspectingly"
+    },
+    "correct_answer": "B",
+    "grammar_type": "TBD",
+    "explanation_reason": "Sau mạo từ 'a' và tính từ 'thorough', ta cần một danh từ để làm tân ngữ cho động từ 'requested'. 'inspection' (sự kiểm tra) là danh từ.",
+    "explanation_grammar": "Từ loại (Danh từ)",
+    "translation": "Tiến sĩ Aris đã yêu cầu một cuộc kiểm tra kỹ lưỡng các thiết bị y tế mới trước khi phòng khám mở cửa vào ngày mai.",
+    "core_vocabulary": [
+      {
+        "word": "thorough",
+        "type": "adj.",
+        "meaning": "kỹ lưỡng, triệt để"
+      },
+      {
+        "word": "inspection",
+        "type": "n.",
+        "meaning": "sự kiểm tra"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_02",
+    "question": "Blue Horizon Resort will send a confirmation email to all guests regarding ______ upcoming reservations.",
+    "options": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct_answer": "C",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước cụm danh từ 'upcoming reservations' (các đặt phòng sắp tới) cần một tính từ sở hữu để bổ nghĩa.",
+    "explanation_grammar": "Từ loại (Đại từ sở hữu)",
+    "translation": "Blue Horizon Resort sẽ gửi email xác nhận cho tất cả khách hàng về các đặt phòng sắp tới của họ.",
+    "core_vocabulary": [
+      {
+        "word": "reservation",
+        "type": "n.",
+        "meaning": "sự đặt chỗ"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_03",
+    "question": "The marketing director at Star Cinemas believes that ______ advertising is the key to attracting younger audiences.",
+    "options": {
+      "A": "creative",
+      "B": "creativity",
+      "C": "creatively",
+      "D": "created"
+    },
+    "correct_answer": "A",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước danh từ 'advertising' cần một tính từ để bổ nghĩa, tạo thành cụm danh từ làm chủ ngữ cho mệnh đề sau 'that'.",
+    "explanation_grammar": "Từ loại (Tính từ)",
+    "translation": "Giám đốc tiếp thị tại Star Cinemas tin rằng quảng cáo sáng tạo là chìa khóa để thu hút khán giả trẻ tuổi.",
+    "core_vocabulary": [
+      {
+        "word": "creative",
+        "type": "adj.",
+        "meaning": "sáng tạo"
+      },
+      {
+        "word": "audience",
+        "type": "n.",
+        "meaning": "khán giả"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_04",
+    "question": "Ms. Gable was praised for her ______ in managing the scholarship fund at Preston University.",
+    "options": {
+      "A": "efficiently",
+      "B": "efficiency",
+      "C": "efficient",
+      "D": "efficeintly"
+    },
+    "correct_answer": "B",
+    "grammar_type": "TBD",
+    "explanation_reason": "Sau tính từ sở hữu 'her' và trước giới từ 'in' cần một danh từ.",
+    "explanation_grammar": "Từ loại (Danh từ)",
+    "translation": "Cô Gable được khen ngợi vì sự hiệu quả của cô trong việc quản lý quỹ học bổng tại Đại học Preston.",
+    "core_vocabulary": [
+      {
+        "word": "efficiency",
+        "type": "n.",
+        "meaning": "sự hiệu quả"
+      },
+      {
+        "word": "scholarship",
+        "type": "n.",
+        "meaning": "học bổng"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_05",
+    "question": "Silvercrest Boutique customers are encouraged to share ______ feedback on the new store layout.",
+    "options": {
+      "A": "they",
+      "B": "their",
+      "C": "them",
+      "D": "themselves"
+    },
+    "correct_answer": "B",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước danh từ 'feedback' cần một tính từ sở hữu để chỉ sự sở hữu của 'customers'.",
+    "explanation_grammar": "Từ loại (Đại từ sở hữu)",
+    "translation": "Khách hàng của Silvercrest Boutique được khuyến khích chia sẻ phản hồi của họ về cách bố trí cửa hàng mới.",
+    "core_vocabulary": [
+      {
+        "word": "feedback",
+        "type": "n.",
+        "meaning": "phản hồi"
+      },
+      {
+        "word": "layout",
+        "type": "n.",
+        "meaning": "cách bố trí"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_06",
+    "question": "The lead actress at the Metro Arts Center performed ______ last night despite the technical difficulties.",
+    "options": {
+      "A": "beautiful",
+      "B": "beauty",
+      "C": "beautifully",
+      "D": "beautify"
+    },
+    "correct_answer": "C",
+    "grammar_type": "TBD",
+    "explanation_reason": "Sau động từ thường 'performed' (biểu diễn) cần một trạng từ để bổ nghĩa cho động từ đó.",
+    "explanation_grammar": "Từ loại (Trạng từ)",
+    "translation": "Nữ diễn viên chính tại Trung tâm Nghệ thuật Metro đã biểu diễn rất tuyệt vời tối qua bất chấp những khó khăn về kỹ thuật.",
+    "core_vocabulary": [
+      {
+        "word": "perform",
+        "type": "v.",
+        "meaning": "biểu diễn"
+      },
+      {
+        "word": "difficulty",
+        "type": "n.",
+        "meaning": "sự khó khăn"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_07",
+    "question": "Every patient at St. Jude’s Hospital must present ______ insurance card at the reception desk upon arrival.",
+    "options": {
+      "A": "their",
+      "B": "theirs",
+      "C": "them",
+      "D": "they"
+    },
+    "correct_answer": "A",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước cụm danh từ 'insurance card' cần một tính từ sở hữu. Mặc dù 'Every patient' là số ít, trong tiếng Anh hiện đại người ta dùng 'their' làm tính từ sở hữu trung tính giới tính.",
+    "explanation_grammar": "Từ loại (Đại từ sở hữu)",
+    "translation": "Mỗi bệnh nhân tại Bệnh viện St. Jude phải xuất trình thẻ bảo hiểm của họ tại quầy lễ tân khi đến.",
+    "core_vocabulary": [
+      {
+        "word": "present",
+        "type": "v.",
+        "meaning": "xuất trình"
+      },
+      {
+        "word": "insurance",
+        "type": "n.",
+        "meaning": "bảo hiểm"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_08",
+    "question": "Prof. Lee expressed great ______ with the final research papers submitted by the biology students.",
+    "options": {
+      "A": "satisfy",
+      "B": "satisfied",
+      "C": "satisfaction",
+      "D": "satisfactory"
+    },
+    "correct_answer": "C",
+    "grammar_type": "TBD",
+    "explanation_reason": "Sau tính từ 'great' cần một danh từ để làm tân ngữ cho động từ 'expressed'.",
+    "explanation_grammar": "Từ loại (Danh từ)",
+    "translation": "Giáo sư Lee bày tỏ sự hài lòng lớn đối với các bài báo cáo nghiên cứu cuối khóa do sinh viên sinh học nộp.",
+    "core_vocabulary": [
+      {
+        "word": "express",
+        "type": "v.",
+        "meaning": "bày tỏ"
+      },
+      {
+        "word": "satisfaction",
+        "type": "n.",
+        "meaning": "sự hài lòng"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_09",
+    "question": "Global Travel Agency has decided to expand ______ services to include luxury cruise packages in the Mediterranean.",
+    "options": {
+      "A": "it",
+      "B": "its",
+      "C": "itself",
+      "D": "they"
+    },
+    "correct_answer": "B",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước danh từ 'services' cần tính từ sở hữu. 'Global Travel Agency' là danh từ số ít chỉ tổ chức nên dùng 'its'.",
+    "explanation_grammar": "Từ loại (Đại từ sở hữu)",
+    "translation": "Cơ quan Du lịch Toàn cầu đã quyết định mở rộng các dịch vụ của mình để bao gồm các gói du thuyền sang trọng ở Địa Trung Hải.",
+    "core_vocabulary": [
+      {
+        "word": "expand",
+        "type": "v.",
+        "meaning": "mở rộng"
+      },
+      {
+        "word": "luxury",
+        "type": "adj.",
+        "meaning": "sang trọng"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_10",
+    "question": "The renovation of the Grand Library was completed ______ ahead of the scheduled reopening date.",
+    "options": {
+      "A": "surprisingly",
+      "B": "surprise",
+      "C": "surprising",
+      "D": "surprised"
+    },
+    "correct_answer": "A",
+    "grammar_type": "TBD",
+    "explanation_reason": "Đứng trước cụm giới từ 'ahead of...' và bổ nghĩa cho động từ 'was completed', ta cần một trạng từ.",
+    "explanation_grammar": "Từ loại (Trạng từ)",
+    "translation": "Việc cải tạo Thư viện Grand đã hoàn thành sớm một cách đáng ngạc nhiên so với ngày mở cửa lại theo lịch trình.",
+    "core_vocabulary": [
+      {
+        "word": "renovation",
+        "type": "n.",
+        "meaning": "sự cải tạo"
+      },
+      {
+        "word": "surprisingly",
+        "type": "adv.",
+        "meaning": "một cách đáng ngạc nhiên"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_11",
+    "question": "Mr. Henderson reminded the staff at Green Valley Grocers to keep ______ workstations clean and organized.",
+    "options": {
+      "A": "their",
+      "B": "theirs",
+      "C": "them",
+      "D": "they"
+    },
+    "correct_answer": "A",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước danh từ 'workstations' cần tính từ sở hữu. 'the staff' chỉ tập thể nhân viên (số nhiều) nên dùng 'their'.",
+    "explanation_grammar": "Từ loại (Đại từ sở hữu)",
+    "translation": "Ông Henderson nhắc nhở nhân viên tại Green Valley Grocers giữ cho nơi làm việc của họ sạch sẽ và ngăn nắp.",
+    "core_vocabulary": [
+      {
+        "word": "remind",
+        "type": "v.",
+        "meaning": "nhắc nhở"
+      },
+      {
+        "word": "organized",
+        "type": "adj.",
+        "meaning": "ngăn nắp, có tổ chức"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_12",
+    "question": "The ______ of the new gallery at the City Museum will take place this Friday evening.",
+    "options": {
+      "A": "open",
+      "B": "opened",
+      "C": "opening",
+      "D": "openly"
+    },
+    "correct_answer": "C",
+    "grammar_type": "TBD",
+    "explanation_reason": "Sau mạo từ 'The' và trước giới từ 'of' cần một danh từ. 'opening' (lễ khai mạc/sự mở cửa) đóng vai trò là danh từ.",
+    "explanation_grammar": "Từ loại (Danh từ)",
+    "translation": "Lễ khai mạc phòng trưng bày mới tại Bảo tàng Thành phố sẽ diễn ra vào tối thứ Sáu tuần này.",
+    "core_vocabulary": [
+      {
+        "word": "opening",
+        "type": "n.",
+        "meaning": "lễ khai mạc"
+      },
+      {
+        "word": "take place",
+        "type": "v.",
+        "meaning": "diễn ra"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_13",
+    "question": "Guests staying at the Sunset Hotel are responsible for ______ personal belongings while in the lobby.",
+    "options": {
+      "A": "they",
+      "B": "them",
+      "C": "themselves",
+      "D": "their"
+    },
+    "correct_answer": "D",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước cụm danh từ 'personal belongings' cần tính từ sở hữu chỉ sự sở hữu của 'Guests'.",
+    "explanation_grammar": "Từ loại (Đại từ sở hữu)",
+    "translation": "Khách lưu trú tại Khách sạn Sunset phải tự chịu trách nhiệm về đồ đạc cá nhân của họ khi ở sảnh.",
+    "core_vocabulary": [
+      {
+        "word": "responsible",
+        "type": "adj.",
+        "meaning": "chịu trách nhiệm"
+      },
+      {
+        "word": "belongings",
+        "type": "n.",
+        "meaning": "đồ đạc cá nhân"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_14",
+    "question": "The head chef at Bella Italia Bistro is known for his ______ approach to traditional pasta recipes.",
+    "options": {
+      "A": "innovative",
+      "B": "innovation",
+      "C": "innovatively",
+      "D": "innovate"
+    },
+    "correct_answer": "A",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước danh từ 'approach' cần một tính từ để bổ nghĩa.",
+    "explanation_grammar": "Từ loại (Tính từ)",
+    "translation": "Bếp trưởng tại Bella Italia Bistro được biết đến với cách tiếp cận sáng tạo của ông đối với các công thức nấu mì ống truyền thống.",
+    "core_vocabulary": [
+      {
+        "word": "innovative",
+        "type": "adj.",
+        "meaning": "sáng tạo, đổi mới"
+      },
+      {
+        "word": "approach",
+        "type": "n.",
+        "meaning": "cách tiếp cận"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_15",
+    "question": "Ms. Thorne asked the intern to double-check the ______ of the data in the annual financial report.",
+    "options": {
+      "A": "accurate",
+      "B": "accuracy",
+      "C": "accurately",
+      "D": "accurateness"
+    },
+    "correct_answer": "B",
+    "grammar_type": "TBD",
+    "explanation_reason": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ.",
+    "explanation_grammar": "Từ loại (Danh từ)",
+    "translation": "Cô Thorne yêu cầu thực tập sinh kiểm tra lại tính chính xác của dữ liệu trong báo cáo tài chính thường niên.",
+    "core_vocabulary": [
+      {
+        "word": "accuracy",
+        "type": "n.",
+        "meaning": "tính chính xác"
+      },
+      {
+        "word": "intern",
+        "type": "n.",
+        "meaning": "thực tập sinh"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_16",
+    "question": "Students who attend the workshop at the Oxford Learning Center will receive ______ certificates upon completion.",
+    "options": {
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "themselves"
+    },
+    "correct_answer": "C",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước danh từ 'certificates' cần tính từ sở hữu chỉ sự sở hữu của 'Students'.",
+    "explanation_grammar": "Từ loại (Đại từ sở hữu)",
+    "translation": "Những sinh viên tham dự hội thảo tại Trung tâm Học tập Oxford sẽ nhận được chứng chỉ của họ khi hoàn thành.",
+    "core_vocabulary": [
+      {
+        "word": "certificate",
+        "type": "n.",
+        "meaning": "chứng chỉ"
+      },
+      {
+        "word": "completion",
+        "type": "n.",
+        "meaning": "sự hoàn thành"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_17",
+    "question": "The board of directors at Lumina Fashion voted ______ to approve the merger with the retail group.",
+    "options": {
+      "A": "unanimous",
+      "B": "unanimously",
+      "C": "unanimity",
+      "D": "unanimousness"
+    },
+    "correct_answer": "B",
+    "grammar_type": "TBD",
+    "explanation_reason": "Để bổ nghĩa cho động từ thường 'voted' (bỏ phiếu) cần một trạng từ.",
+    "explanation_grammar": "Từ loại (Trạng từ)",
+    "translation": "Ban giám đốc tại Lumina Fashion đã bỏ phiếu nhất trí phê duyệt việc sáp nhập với tập đoàn bán lẻ.",
+    "core_vocabulary": [
+      {
+        "word": "unanimously",
+        "type": "adv.",
+        "meaning": "nhất trí, đồng lòng"
+      },
+      {
+        "word": "merger",
+        "type": "n.",
+        "meaning": "sự sáp nhập"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_18",
+    "question": "Dr. Patel will be attending the international conference in London with ______ research assistant.",
+    "options": {
+      "A": "she",
+      "B": "herself",
+      "C": "hers",
+      "D": "her"
+    },
+    "correct_answer": "D",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước cụm danh từ 'research assistant' cần tính từ sở hữu. Trong các lựa chọn, 'her' là tính từ sở hữu duy nhất phù hợp với Dr. Patel.",
+    "explanation_grammar": "Từ loại (Đại từ sở hữu)",
+    "translation": "Tiến sĩ Patel sẽ tham dự hội nghị quốc tế ở Luân Đôn cùng với trợ lý nghiên cứu của cô ấy.",
+    "core_vocabulary": [
+      {
+        "word": "attend",
+        "type": "v.",
+        "meaning": "tham dự"
+      },
+      {
+        "word": "conference",
+        "type": "n.",
+        "meaning": "hội nghị"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_19",
+    "question": "The sudden ______ in ticket sales at the National Theater was attributed to the poor weather conditions.",
+    "options": {
+      "A": "decline",
+      "B": "declension",
+      "C": "declined",
+      "D": "decliningly"
+    },
+    "correct_answer": "A",
+    "grammar_type": "TBD",
+    "explanation_reason": "Sau tính từ 'sudden' cần một danh từ. 'decline' vừa là động từ vừa là danh từ (sự sụt giảm) và hoàn toàn phù hợp ngữ cảnh. (Lưu ý: bạn cung cấp đáp án là declension nhưng từ này thường mang nghĩa biến cách trong ngôn ngữ học, đáp án chuẩn TOEIC là decline).",
+    "explanation_grammar": "Từ loại (Danh từ)",
+    "translation": "Sự sụt giảm đột ngột về doanh số bán vé tại Nhà hát Quốc gia được cho là do điều kiện thời tiết khắc nghiệt.",
+    "core_vocabulary": [
+      {
+        "word": "decline",
+        "type": "n.",
+        "meaning": "sự sụt giảm"
+      },
+      {
+        "word": "attribute to",
+        "type": "v.",
+        "meaning": "quy cho, cho là do"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_20",
+    "question": "Visitors to the Royal Botanical Garden are asked to stay on the paths to protect ______ rare plant species.",
+    "options": {
+      "A": "its",
+      "B": "it",
+      "C": "itself",
+      "D": "they"
+    },
+    "correct_answer": "A",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước cụm danh từ 'rare plant species' cần tính từ sở hữu để thay thế cho 'Royal Botanical Garden' (vật số ít).",
+    "explanation_grammar": "Từ loại (Đại từ sở hữu)",
+    "translation": "Du khách đến Vườn Bách thảo Hoàng gia được yêu cầu ở trên các lối đi để bảo vệ các loài thực vật quý hiếm của nó.",
+    "core_vocabulary": [
+      {
+        "word": "protect",
+        "type": "v.",
+        "meaning": "bảo vệ"
+      },
+      {
+        "word": "rare",
+        "type": "adj.",
+        "meaning": "quý hiếm"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_21",
+    "question": "The legal department at Sterling Law Firm provided a ______ explanation of the new contract terms.",
+    "options": {
+      "A": "clearance",
+      "B": "clear",
+      "C": "clearly",
+      "D": "clearness"
+    },
+    "correct_answer": "B",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước danh từ 'explanation' (lời giải thích) cần một tính từ để bổ nghĩa.",
+    "explanation_grammar": "Từ loại (Tính từ)",
+    "translation": "Bộ phận pháp lý tại Công ty Luật Sterling đã cung cấp một lời giải thích rõ ràng về các điều khoản hợp đồng mới.",
+    "core_vocabulary": [
+      {
+        "word": "clear",
+        "type": "adj.",
+        "meaning": "rõ ràng"
+      },
+      {
+        "word": "explanation",
+        "type": "n.",
+        "meaning": "lời giải thích"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_22",
+    "question": "Apply to the Sky-High Fitness Center today so you do not lose ______ chance to get a free personal training session.",
+    "options": {
+      "A": "you",
+      "B": "yours",
+      "C": "your",
+      "D": "yourself"
+    },
+    "correct_answer": "C",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước danh từ 'chance' cần một tính từ sở hữu tương ứng với chủ ngữ 'you'.",
+    "explanation_grammar": "Từ loại (Đại từ sở hữu)",
+    "translation": "Hãy đăng ký Trung tâm Thể hình Sky-High ngay hôm nay để bạn không đánh mất cơ hội nhận một buổi tập cá nhân miễn phí của mình.",
+    "core_vocabulary": [
+      {
+        "word": "chance",
+        "type": "n.",
+        "meaning": "cơ hội"
+      },
+      {
+        "word": "session",
+        "type": "n.",
+        "meaning": "buổi (tập, họp...)"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_23",
+    "question": "The ______ of the new software system at the Central Bank has significantly improved transaction speeds.",
+    "options": {
+      "A": "install",
+      "B": "installation",
+      "C": "installed",
+      "D": "installer"
+    },
+    "correct_answer": "B",
+    "grammar_type": "TBD",
+    "explanation_reason": "Sau mạo từ 'The' và trước giới từ 'of' cần một danh từ chỉ sự việc, hành động. 'installation' (sự cài đặt) là phù hợp nhất.",
+    "explanation_grammar": "Từ loại (Danh từ)",
+    "translation": "Việc cài đặt hệ thống phần mềm mới tại Ngân hàng Trung ương đã cải thiện đáng kể tốc độ giao dịch.",
+    "core_vocabulary": [
+      {
+        "word": "installation",
+        "type": "n.",
+        "meaning": "sự cài đặt"
+      },
+      {
+        "word": "significantly",
+        "type": "adv.",
+        "meaning": "một cách đáng kể"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_24",
+    "question": "While the chief surgeon is in a meeting, all urgent pages will be redirected to ______ senior resident.",
+    "options": {
+      "A": "he",
+      "B": "himself",
+      "C": "his",
+      "D": "him"
+    },
+    "correct_answer": "C",
+    "grammar_type": "TBD",
+    "explanation_reason": "Trước cụm danh từ 'senior resident' cần tính từ sở hữu thay thế cho 'chief surgeon'.",
+    "explanation_grammar": "Từ loại (Đại từ sở hữu)",
+    "translation": "Trong khi bác sĩ phẫu thuật trưởng đang họp, tất cả các cuộc gọi khẩn cấp sẽ được chuyển hướng đến bác sĩ nội trú cấp cao của anh ấy.",
+    "core_vocabulary": [
+      {
+        "word": "surgeon",
+        "type": "n.",
+        "meaning": "bác sĩ phẫu thuật"
+      },
+      {
+        "word": "redirect",
+        "type": "v.",
+        "meaning": "chuyển hướng"
+      }
+    ]
+  },
+  {
+    "id": "q_test9_25",
+    "question": "The PR team at Oceanview Records is working ______ to promote the debut album of the new pop group.",
+    "options": {
+      "A": "hardly",
+      "B": "hard",
+      "C": "hardness",
+      "D": "hardened"
+    },
+    "correct_answer": "B",
+    "grammar_type": "TBD",
+    "explanation_reason": "Sau động từ 'working' cần trạng từ. Lưu ý: 'hard' vừa là tính từ vừa là trạng từ (chăm chỉ). 'hardly' có nghĩa là 'hiếm khi' không phù hợp ngữ cảnh.",
+    "explanation_grammar": "Từ loại (Trạng từ)",
+    "translation": "Đội ngũ PR tại Oceanview Records đang làm việc chăm chỉ để quảng bá album đầu tay của nhóm nhạc pop mới.",
+    "core_vocabulary": [
+      {
+        "word": "hard",
+        "type": "adv.",
+        "meaning": "chăm chỉ, vất vả"
+      },
+      {
+        "word": "promote",
+        "type": "v.",
+        "meaning": "quảng bá"
+      }
+    ]
+  }
+]
